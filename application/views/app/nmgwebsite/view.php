@@ -102,18 +102,18 @@
 		<p id="services"> OUR SERVICES</p>
 		<div class="row"><center>
 			<div class="col-lg-4">
-				<img src="gallery.png" class="img-responsive" id="gallery">
+				<img src="<?php echo base_url("assets/img/gallery.png")?>" class="img-responsive" id="gallery">
 				<h3 id="hey">Web Based Database Programming</h3>
 				<h5>Simple to complex data structuring, processing and database optimization</h5>
 		 	</div>
 			<div class="col-lg-4">
-		 		<img src="pen.png" class="img-responsive" id="pen">
+		 		<img src="<?php echo base_url("assets/img/pen.png")?>" class="img-responsive" id="pen">
 		 		<h3>Website Design</h3>
 		 		<h5>Art and creative direction, graphic and user interface design for individual and corporate website </h5>
 
 		 	</div>
 			<div class="col-lg-4">
-		 		<img src="monitoe.png" class="img-responsive" id="monitoe">
+		 		<img src="<?php echo base_url("assets/img/monitoe.png")?>" class="img-responsive" id="monitoe">
 		 		<h3>Website Development</h3>
 		 		<h5>Comprehensive interactive components programming and web scripting services.</h5></center>
 		 	</div>
@@ -151,15 +151,15 @@
 		<div class="row">
 			<div class="container">
 			<div class="col-lg-4"><center>
-				<img src="add.jpg" class="img-responsive" id="gallerys">
+				<img src="<?php echo base_url("assets/img/add.jpg")?>" class="img-responsive" id="gallerys">
 				<h5>136 Yakal St., <br>Makati City, 1203 Kalakhang Maynila</h5> 
 		 	</div>
 			<div class="col-lg-4">
-		 		<img src="call.png" class="img-responsive" id="pens">
+		 		<img src="<?php echo base_url("assets/img/call.png")?>" class="img-responsive" id="pens">
 		 		<h5> (02) 576-6505</h5>
 		 	</div>
 			<div class="col-lg-4">
-		 		<img src="email.png" class="img-responsive" id="monitoes">
+		 		<img src="<?php echo base_url("assets/img/email.png")?>" class="img-responsive" id="monitoes">
 		 		<h5>info@nmgresources.ph </h5>
 		 		</center>
 		 	</div>
