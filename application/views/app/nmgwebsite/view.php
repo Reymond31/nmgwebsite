@@ -20,7 +20,7 @@
         <nav class ="navbar navbar-default navbar-fixed-top" role= "navigation">
            <div class = "container ">
               <div class ="navbar-header">
-             	<img src="logo.png" id="damn" style="height:65px">
+             	<img src="<?php echo base_url("assets/img/logo.png")?>" id="damn" style="height:65px">
 	               <button type ="button" class="navbar-toggle " data-toggle="collapse" data-target="#nav-collapse">
 		               <span class="icon-bar" ></span>
 		               <span class="icon-bar"></span>

@@ -3,7 +3,7 @@ h1{
 }
 
 .one{
-	background: url("onese.jpg");
+	background: url('../img/onese.jpg');
 	background-attachment: fixed ;
     background-position: center;
     background-repeat: no-repeat;
@@ -119,7 +119,7 @@ background-color: #0099ff;
     position: fixed;
 }
 #tres{
-	background: url("stroke3.png");
+	background: url('../img/stroke3.jpg');
 	text-align: center;
 	background-position: center;
     background-repeat: no-repeat;
@@ -284,7 +284,7 @@ h3{
     padding-right: 5px;
 }
 #kwatro{
-	background:url("Capture.png");
+	background:url('../img/capture.png');
 	background-attachment: fixed;
 	  background-position: center;
     background-repeat: no-repeat;
