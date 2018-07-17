@@ -11,6 +11,126 @@
 	<script src="<?php echo base_url("assets/js/bootstrap.min.js")?>"></script>
 </head>
 <body>
-	Hello!
+	<div id="uno">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-5">
+				<p class="big">A Web Development Company </p>
+				
+			</div>
+			<div class="col-lg-7">
+				<p class="small"> NMG's main goal is to promote interactivity, robust functionality as well as user-friendliness through its products and services that meet and satiate every client's expectations accordingly, with full accountability sans errs and delays. We seriously believe in such proverbial adage that the customer is always right. That's why the company puts the clients at the top of its list, as it aims to meet the clients' utmost standards, helping them facilitate and develop their businesses through its maximized efforts.</p>
+				<button type="button" class="btnz btn-primary btn-login"> READ MORE</button>
+			</div>
+			</div>
+			<hr style="color: white; margin-bottom: 0px; height: 8px; background-color: #0099ff;  width: 25%; float: left; margin-right: 2%;">
+				<hr style="color: white; margin-bottom: 0px; height: 8px; background-color: #0099ff;  width: 15%; float: left; margin-right: 2%;">
+				<hr style="color: white; margin-bottom: 0px; height: 8px; background-color: #0099ff;  width: 5%; float: left; margin-right: 2%;">
+			<hr style="color: white; margin-bottom: 0px; height: 8px; background-color: #0099ff;  width: 25%; float: left; margin-right: 2%;">
+				<hr style="color: white; margin-bottom: 0px; height: 8px; background-color: #0099ff;  width: 15%; float: left; margin-right: 2%;">
+				<hr style="color: white; margin-bottom: 0px; height: 8px; background-color: #0099ff;  width: 3%; float: left; margin-right: 2%;">
+
+
+	</div>
+</div>
+
+<div id="tres">
+	<div class="container">
+		<p id="services"> OUR SERVICES</p>
+		<div class="row"><center>
+			<div class="col-lg-4">
+				<img src="gallery.png" class="img-responsive" id="gallery">
+				<h3 id="hey">Web Based Database Programming</h3>
+				<h5>Simple to complex data structuring, processing and database optimization</h5>
+		 	</div>
+			<div class="col-lg-4">
+		 		<img src="pen.png" class="img-responsive" id="pen">
+		 		<h3>Website Design</h3>
+		 		<h5>Art and creative direction, graphic and user interface design for individual and corporate website </h5>
+
+		 	</div>
+			<div class="col-lg-4">
+		 		<img src="monitoe.png" class="img-responsive" id="monitoe">
+		 		<h3>Website Development</h3>
+		 		<h5>Comprehensive interactive components programming and web scripting services.</h5></center>
+		 	</div>
+		 </div>
+	</div>
+</div>
+<div id="kwatro">
+
+		<div class="row">
+		<div class="container">
+			<div class="col-lg-3">
+			<p id="general"> HAVE A QUESTION FOR US?</p>
+				<button type="button" class="btnc btn-primary btn-login">CONTACT US</button>
+			</div>
+			<div class="col-lg-3">
+			<p id="general"> WANT TO WORK FOR US?</p>
+				<button type="button" class="btnc btn-primary btn-login">YOU BETCHA</button>
+			</div>
+			<div class="col-lg-3">
+			<p id="general"> HAVE A PROJECT FOR US?</p>
+				<button type="button" class="btnc btn-primary btn-login">TELL US MORE</button>
+			</div>
+			<div class="col-lg-3">
+			<p id="general"> THINGS WONKY ON YOUR SITE?</p>
+				<button type="button" class="btnc btn-primary btn-login">ACTIVATE THE BAT SIGNAL</button>
+			</div>
+		</div>
+	</div>
+	
+</div>
+</div>
+<div id="sinko">
+		<p id="contacts"> CONTACT US </p>
+
+		<div class="row">
+			<div class="container">
+			<div class="col-lg-4"><center>
+				<img src="add.jpg" class="img-responsive" id="gallerys">
+				<h5>136 Yakal St., <br>Makati City, 1203 Kalakhang Maynila</h5> 
+		 	</div>
+			<div class="col-lg-4">
+		 		<img src="call.png" class="img-responsive" id="pens">
+		 		<h5> (02) 576-6505</h5>
+		 	</div>
+			<div class="col-lg-4">
+		 		<img src="email.png" class="img-responsive" id="monitoes">
+		 		<h5>info@nmgresources.ph </h5>
+		 		</center>
+		 	</div>
+		 </div>
+	</div></div>
+
+	<!--	<div style="float:right;" class="col-lg-6">
+			<input type="text" value="NAME" class="name">
+			<input type="email" value="EMAIL" class="email">
+			<select>
+				<option>Reason for Contacting NMG Resources</option>
+					<option> General Inquiry </option>
+					<option> Request a Proposal </option>
+					<option> Internship </option>
+					<option> Job Application </option>
+			</select>
+					<textarea>
+						Your message here.
+					</textarea>
+		      <button type="button" class="btna btn-primary btn-login"><b>SUBMIT</b></button>
+				
+
+		</div> -->
+	
+<center>
+		
+	<div class="mapouter"><div class="gmap_canvas"><iframe width="1334" height="585" id="gmap_canvas" src="https://maps.google.com/maps?q=136%20yakal%20st.%20makati%2Cphilippines&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.crocothemes.net"></a></div><style>.mapouter{text-align:right;height:585px;width:1334px;}.gmap_canvas {overflow:hidden;background:none!important;height:585px;width:1334px;}</style><small><a href="http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=28532&url=42158&tid1=google3" rel="nofollow"></a></small></div></center>
+</div>
+
+</div>
+</div>
+</center></div>
+</div>
+
+
 </body>
 </html>
