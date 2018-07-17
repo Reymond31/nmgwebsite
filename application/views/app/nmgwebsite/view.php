@@ -10,6 +10,69 @@
 	<script src="<?php echo base_url("assets/js/bootstrap.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/bootstrap.min.js")?>"></script>
 </head>
+
+<header>
+	<div class="one">
+	<div class="container-fluid">
+        <nav class ="navbar navbar-default navbar-fixed-top" role= "navigation">
+           <div class = "container ">
+              <div class ="navbar-header">
+             	<img src="logo.png" id="damn" style="height:65px">
+	               <button type ="button" class="navbar-toggle " data-toggle="collapse" data-target="#nav-collapse">
+		               <span class="icon-bar" ></span>
+		               <span class="icon-bar"></span>
+		               <span class="icon-bar"></span>  
+	         	  </button>
+       			</div>
+       				<div class="collapse navbar-collapse" id="nav-collapse" style="float:right">
+
+				           <ul class="nav navbar-nav">
+				             <li><a href="#uno"> ABOUT US</a></li>
+				          
+				             <li><a href="#tres">SERVICES</a></li>
+				          
+				             <li><a href="#">PRODUCTS</a></li>
+				             
+				             <li><a href="#sinko">CONTACT US</a></li>
+				          </ul>
+
+        			</div>
+   			 </div>
+
+  </nav>
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+         
+</div>
+			<div class="container">
+				<div class="typewriter">
+				<div class="row">
+					<div class="col-lg-4 col-xs-12">
+						<p id="mission">OUR MISSION: </p>
+					</div>
+				</div>
+				<div class="row">
+						<div class="col-lg-6 col-xs-12">
+							<p id="our"><b>THIS IS A </b></p>
+					
+						</div>
+					</div>
+				
+					<div class="row">
+						<div class="col-lg-8 col-xs-12">
+							<p id="ours"><b>SAMPLE MISSION.</b></p>
+					
+						</div>
+					</div>
+					<hr style="color: white; margin-bottom: 0px; height: 8px; background-color: white; width: 30%; float: left; margin-right: 1%;">
+					<hr style="color: white; margin-bottom: 0px; height: 8px; background-color: white; width: 7%; float: left; margin-right: 1%;">
+					<hr style="color: white; margin-bottom: 0px; height: 8px; background-color: white; width: 2%; float: left; margin-right: 1%;">
+				</div>
+			</div>
+</div>
+
+</header>
 <body>
 	<div id="uno">
 	<div class="container">
