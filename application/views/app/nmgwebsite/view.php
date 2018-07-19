@@ -51,28 +51,25 @@
 				</div>
 			</div>
 		</div>
-			<div class="row">
 		<div class="welcome-message">
-						<div class="col-lg-12 col-xs-12">
-					  <div id="testimonials">
-            			<div class="slide testimonials" id="firstSlide">
-                			Under commit, over delivery
-            			</div>
-           				<div class="slide testimonials">
-                			Your plan, we build
-           	 			</div>
-            			<div class="slide testimonials">
-               				Ara
-            			</div>
-            			<div class="slide testimonials">
-               				Mae
-            			</div>
-        			</div>
-				</div>
+			<div class="col-lg-12 col-xs-12">
+				<div id="testimonials">
+            		<div class="slide testimonials" id="firstSlide">
+                		"Under commit, over delivery"
+            		</div>
+           			<div class="slide testimonials">
+                		"Your plan, we build."
+           	 		</div>
+            		<div class="slide testimonials">
+               			Ara
+            		</div>
+            		<div class="slide testimonials">
+               			Mae
+            		</div>
+        		</div>
 			</div>
 		</div>
 	</div>
-</div>
 </div>
 <div id="aboutus">
 	<div class="container">
