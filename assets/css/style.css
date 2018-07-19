@@ -47,11 +47,13 @@ body{
     background: rgba(0,0,0,.5);
 
 }
+
 .navbar-default .navbar-nav>li>a {
-	font-family: 'proxima-nova', monospace;
-	font-size: 20px;
-	font-weight: bold;
-	color: #3199dc;	
+	font-family:  Montserrat, "Open Sans", Arial, sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	letter-spacing: 2.8px;
+	color: white;
 }
 .navbar-toggle .icon-bar{
   width:25px;
@@ -72,13 +74,33 @@ body{
 	height: 400px;
 	width: 1000px;
 	font-family: 'TimesNewRoman', sans-serif;
-	font-size: 50px;
+	font-size: 150px;
 	color:  #3199dc;
-	margin: 200px;
+	margin: 200px 0 0 200px;
+
+}
+
+.welcome{
+	font-weight: 300 !important;
+   	font-size: 31px;
+   	padding-left:23px;
+	color:  white;
+	letter-spacing: 7.5px;
+	margin-top: 250px;
 }
 .testimonials{
 	display: none;
 	font-size: 20px;
+}
+
+.nmg{
+	font-size:85px;
+	letter-spacing: 6.5px;
+	font-weight: bold;
+}
+.exp{
+	font-size: 25px;
+	letter-spacing:5.5px;
 }
 .big {
 	font-size: 70px;

@@ -39,19 +39,21 @@
 	</div>
 	</div>
 	<div class="container">
+		<div class="welcome">
+			<div class="row">
+				<div class="col-lg-12 col-xs-12">
+					<span class = "nmg"> NMG</span>  RESOURCES INC.
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-12 col-xs-12">
+					<p class="exp">EXPERTISE ON <b>DEMAND</b></p>
+				</div>
+			</div>
+		</div>
+			<div class="row">
 		<div class="welcome-message">
-			<div class="row">
-				<div class="col-lg-12 col-xs-12">
-					<p>NMG Resources Inc. </p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12 col-xs-12">
-					<p><b>Expertise on Demand</b></p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12 col-xs-12">
+						<div class="col-lg-12 col-xs-12">
 					  <div id="testimonials">
             			<div class="slide testimonials" id="firstSlide">
                 			Under commit, over delivery
