@@ -12,7 +12,12 @@ class Admin_Controller extends CI_Controller {
 	}
 	public function view()
 	{
-		$this->load->view("app/nmgwebsite/view");
+		
+		$data['title'] = "NMG Resources Inc.";
+		$data['content'] = $this->load->view('app/nmgwebsite/view', $data, true);
+		$this->load->view('app/header', $data);
+		$this->load->view('app/footer', $data);
+		/*$this->load->view("app/nmgwebsite/view");*/
 	}
 
 }
