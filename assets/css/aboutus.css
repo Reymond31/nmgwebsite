@@ -13,8 +13,9 @@ body{
     width:99.9%;
 }
 #aboutus{
-	height: 675px;
+	height: 75px;
 	padding: 0px;
+	color:blue;
 }
 .logo{
  	margin-left: 0;
