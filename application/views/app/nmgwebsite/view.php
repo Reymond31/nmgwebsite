@@ -187,15 +187,15 @@
     $('#firstSlide').fadeIn();
     $('#testimonials .slide');
     setInterval(function(){
-        $('#testimonials .slide').filter(':visible').fadeOut(2000,function(){
+        $('#testimonials .slide').filter(':visible').fadeOut(1000,function(){
             if($(this).next('div.slide').size()){
-                $(this).next().fadeIn(2000);
+                $(this).next().fadeIn(1000);
             }
             else{
-                $('#testimonials .slide').eq(0).fadeIn(2000);
+                $('#testimonials .slide').eq(0).fadeIn(1000);
             }
         });
-    },10000);  
+    },1000);  
 });
 </script>
 </body>
