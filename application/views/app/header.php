@@ -12,7 +12,11 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/hover.min.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/bootstrap.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/bootstrap.min.css")?>">
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/style.css")?>">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/landingpage.css")?>">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/aboutus.css")?>">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/services.css")?>">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/products.css")?>">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/contactus.css")?>">
 	<script src="<?php echo base_url("assets/js/jquery-3.3.1.min.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/aos.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/fontawesome.js")?>"></script>
@@ -28,4 +32,8 @@
 
 </head>
 <body>
-<?php echo $content; ?>
+<?php echo $landingpage; ?>
+<?php echo $aboutus; ?>
+<?php echo $services; ?>
+<?php echo $products; ?>
+<?php echo $contactus; ?>
