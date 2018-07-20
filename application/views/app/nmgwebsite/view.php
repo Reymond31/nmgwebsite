@@ -46,27 +46,25 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-12 col-xs-12">
-					<p class="exp">EXPERTISE ON <b>DEMAND</b></p>
+				<div class="col-lg-6 col-xs-6">
+					<p class="exp">EXPERTISE ON</p>
 				</div>
-			</div>
-		</div>
-		<div class="welcome-message">
-			<div class="col-lg-12 col-xs-12">
-				<div id="testimonials">
-            		<div class="slide testimonials" id="firstSlide">
-                		"Under commit, over delivery"
+				<div class="col-lg-6 col-xs-6">
+					<div id="testimonials">
+            			<div class="slide testimonials" id="firstSlide">
+                			<p class="quotations"><b>DEMAND</b></p>
+            			</div>
+           				<div class="slide testimonials">
+                			<p class="quotations"><b>DESIGN</b></p>
+           	 			</div>
+            			<div class="slide testimonials">
+               				<p class="quotations"><b>CODE</b></p>
+            			</div>
+            			<div class="slide testimonials">
+               				<p class="quotations"><b>RESOURCES</b></p>
+            			</div>
             		</div>
-           			<div class="slide testimonials">
-                		"Your plan, we build."
-           	 		</div>
-            		<div class="slide testimonials">
-               			Ara
-            		</div>
-            		<div class="slide testimonials">
-               			Mae
-            		</div>
-        		</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -75,7 +73,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-5">
-				<p class="big">A Web Development Company </p></div>
+				<p class="big">We Are NMG</p></div>
 			<div class="col-lg-7">
 				<p class="small"> NMG's main goal is to promote interactivity, robust functionality as well as user-friendliness through its products and services that meet and satiate every client's expectations accordingly, with full accountability sans errs and delays. We seriously believe in such proverbial adage that the customer is always right. That's why the company puts the clients at the top of its list, as it aims to meet the clients' utmost standards, helping them facilitate and develop their businesses through its maximized efforts.</p>
 				<button type="button" class="btnz btn-primary btn-login"> READ MORE</button>

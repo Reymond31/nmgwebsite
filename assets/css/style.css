@@ -91,6 +91,11 @@ body{
 	display: none;
 	font-size: 35px;
 }
+.quotations{
+	margin: 0px -313px 20px;
+	font-size: 25px;
+	letter-spacing:5.5px;
+}
 
 .nmg{
 	font-size:85px;
