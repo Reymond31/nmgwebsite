@@ -45,12 +45,9 @@ body{
 	float: right;
 }
 .navbar.scrolled{
-<<<<<<< HEAD
     background: #000000;
-
-=======
     background: rgba(0,0,0,.5);
->>>>>>> a0fd6d158c8235bb560cd3dec63919a40113b0f4
+
 }
 
 .navbar-default .navbar-nav>li>a {

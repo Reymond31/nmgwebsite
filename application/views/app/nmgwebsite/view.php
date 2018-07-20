@@ -34,7 +34,7 @@
 		<nav class ="navbar navbar-default navbar-fixed-top" role= "navigation">
 			<div class="container">
 				<div class ="navbar-header">
-					<img src="<?php echo base_url("assets/img/logo.png")?>" class="logo">
+					<a href="#landingpage"><img src="<?php echo base_url("assets/img/logo.png")?>" class="logo"></a>
 				</div>
 				<div class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
@@ -231,7 +231,7 @@
             }
         });
     },1000);  
-});
+	});
 	AOS.init();
 </script>
 </body>
