@@ -26,11 +26,11 @@ body{
     position: absolute;
     width: 100%;
     height: 680px;
+    -webkit-box-shadow: 10px 10px 5px #888;
 }
 .navbar{
 	border:0px;
 	background-color: transparent;
-	padding: 2rem 0;
     background: rgba(0, 0, 0, 0);
     text-align: center;
     transition: background .35s ease;
@@ -38,14 +38,14 @@ body{
     margin-left:0;
     padding-left: 10px;
     padding-right: 18px;
-    padding-bottom: 7px;
-    padding-top: 7px;
+    padding-bottom: 10px;
+    padding-top: 15px;
 }
 .navbar-collapse{
 	float: right;
 }
 .navbar.scrolled{
-    background: rgba(0,0,0,.5);
+    background: #000000;
 
 }
 
@@ -106,6 +106,13 @@ body{
 .exp{
 	font-size: 25px;
 	letter-spacing:5.5px;
+}
+.arrow-down{
+	float: right;
+	margin-top: 180px;
+}
+.hvr-icon-down{
+	color: white;
 }
 .big {
 	font-size: 70px;
@@ -477,38 +484,15 @@ background-color: transparent;
 	padding-top: 50px;
 
 }
-@media (max-width: 376px){
-	.navbar{
-		width:42%;
+@media screen and (max-width:375px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+	#landingpage{
+		background: url('../img/onese.jpg');
+		background-attachment: fixed ;
+    	background-repeat: no-repeat;
+    	
+    	height: 680px;
+    	padding: 0px;
+    	min-width: 100%;
 	}
-	.navbar-default .navbar-nav>li>a:hover{
-	color: #3884ff;
-	font-size: 16px;
-	font-family: Arial;
-
-}
-		.row{
-			margin-left: 0;
-			margin-right: 0;
-		}
-	#tres{
-	background: url("stroke3.png");
-	text-align: center;
-	background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: auto;
-    padding: 0;
-    opacity:0.9;
-  }
-
-  	.big{
-  		font-size: 35px;
-  	}
-  	#damn{
-  		height: 4%;
-    float: left;
-    padding-left:10%;
-    width:30%;
-  	}
+	
 }
