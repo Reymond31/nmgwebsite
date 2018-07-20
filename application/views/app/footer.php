@@ -6,7 +6,7 @@
 	$(window).scroll(function(){
 		$('nav').toggleClass('scrolled', $(this).scrollTop() > 500);
 	});
-	$(document).ready(function() {
+	$(document).ready(function(){
     $('#firstSlide').fadeIn();
     $('#testimonials .slide');
     setInterval(function(){

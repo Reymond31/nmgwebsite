@@ -12,20 +12,21 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/hover.min.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/bootstrap.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/bootstrap.min.css")?>">
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/landingpage.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/aboutus.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/services.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/products.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/contactus.css")?>">
-	<script src="<?php echo base_url("assets/js/jquery-3.3.1.min.js")?>"></script>
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/landingpage.css")?>">
 	<script src="<?php echo base_url("assets/js/aos.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/fontawesome.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/fontawesome.min.js")?>"></script>
-	<script src="<?php echo base_url("assets/js/popper.min.js")?>"></script>
-	<script src="<?php echo base_url("assets/js/bootstrap.js")?>"></script>	
+	<script src="<?php echo base_url("assets/js/bootstrap.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/bootstrap.min.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/bootstrap.min4.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/jquery.slim.min.js")?>"></script>
+	<script src="<?php echo base_url("assets/js/popper.min.js")?>"></script>
+	<script src="<?php echo base_url("assets/js/jquery-3.3.1.min.js")?>"></script>
+	<script src="<?php echo base_url("assets/js/jquery-1.6.2.js")?>"></script>
 	<style>
 	#more {display: none;}
 	</style>
