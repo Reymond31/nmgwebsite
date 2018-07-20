@@ -45,15 +45,19 @@ body{
 	float: right;
 }
 .navbar.scrolled{
+<<<<<<< HEAD
     background: #000000;
 
+=======
+    background: rgba(0,0,0,.5);
+>>>>>>> a0fd6d158c8235bb560cd3dec63919a40113b0f4
 }
 
 .navbar-default .navbar-nav>li>a {
 	font-family:  Montserrat, "Open Sans", Arial, sans-serif;
 	font-size: 12px;
 	font-weight: 400;
-	letter-spacing: 2.8px;
+	letter-spacing: 3.5px;
 	color: white;
 }
 .navbar-toggle .icon-bar{
@@ -65,11 +69,12 @@ body{
 	padding-left: 0;
 	padding-right: 0;
 }
-
 .navbar-default .navbar-nav>li>a:hover{
-	color: white;
+	color: skyblue;
 	font-size: 20px;
 	font-family: 'proxima-nova', monospace;
+	letter-spacing: 1.5px;
+	font-weight: 500;
 }
 .welcome-message{
 	height: 150px;
@@ -99,9 +104,9 @@ body{
 }
 
 .nmg{
-	font-size:85px;
+	font-size:90px;
 	letter-spacing: 6.5px;
-	font-weight: bold;
+	font-weight: 900;
 }
 .exp{
 	font-size: 25px;
