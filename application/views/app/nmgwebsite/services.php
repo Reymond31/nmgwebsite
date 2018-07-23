@@ -13,7 +13,7 @@
 				<p class="expa">PHP / nodeJS custom development, including relevant database solutions. Applications are built using modern frameworks and industry leading scalability.</p>
 
 				<span class="a">Mobile Application for Android and iOS</span>
-				<p class="exp">Designing and development of both native and cross platform mobile applications. Applications backends are also designed with web-based management portals aligned to customer requirements.</p>
+				<p class="expa">Designing and development of both native and cross platform mobile applications. Applications backends are also designed with web-based management portals aligned to customer requirements.</p>
  				
  				<span class="a">Staff Augmentation</span>
  				<p class="expa">Providing experienced developers and database administrators to local industries, managed for specific requirements of the business.</p>
