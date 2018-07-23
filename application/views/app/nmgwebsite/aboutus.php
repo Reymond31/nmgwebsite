@@ -1,5 +1,5 @@
 
-<div id="aboutus">
+<div id="aboutus" style="background-color: #E4F3F3">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-5">
