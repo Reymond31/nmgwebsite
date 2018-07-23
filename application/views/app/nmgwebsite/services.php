@@ -1,4 +1,4 @@
-<div id="service" style="background:url(assets/img/.jpg);background-attachment: fixed; background-position: center;background-repeat: no-repeat;background-size: cover;" >
+<div id="servic" style="background:url(assets/img/.jpg);background-attachment: fixed; background-position: center;background-repeat: no-repeat;background-size: cover;" >
 	<div class="row">
 		<div class="container">
 			<div class="col-lg-6">
