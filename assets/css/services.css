@@ -12,10 +12,7 @@ body{
     padding: 0px;
     width:99.9%;
 }
-#aboutus{
-	height: 675px;
-	padding: 0px;
-}
+
 .logo{
  	margin-left: 0;
  	height:70px;
@@ -218,10 +215,6 @@ background-color: #0099ff;
   50% { border-color:  #668aff }
 }
 
-.col-lg-5{
-	padding-left: 0;
-	padding-right: 0;
-}
 
 #pen{
 	height:180px;

@@ -1,8 +1,10 @@
+
 <div id="products">
 	<div class="row">
 		<div class="container">
-			<div class="col-lg-3">
-				<p id="general"> HAVE A QUESTION FOR US?</p>
+			
+		
+
 				<button type="button" class="btnc btn-primary btn-login">CONTACT US</button>
 			</div>
 			<div class="col-lg-3">

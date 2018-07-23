@@ -12,10 +12,7 @@ body{
     padding: 0px;
     width:99.9%;
 }
-#aboutus{
-	height: 675px;
-	padding: 0px;
-}
+
 .logo{
  	margin-left: 0;
  	height:70px;
@@ -116,27 +113,8 @@ body{
 .hvr-icon-down{
 	color: white;
 }
-.big {
-	font-size: 70px;
-	padding-top: 80px;
-	color:black;
-	float:left;
-	font-family:;
-	padding-bottom: 65px;
-	font-weight: bold;
-}
-.small{
-	padding-top:100px;
-	padding-left: 30px;
-	font-size:17px;
-	text-align: justify;
-	color:#5a5b5b;
-	float:right;
-	font-family: "PT Sans Narrow","Open Sans","Arial",sans-serif;
-	font-weight: normal;
-	padding-bottom: 3px;
 
-}
+
 .btnz{
 background-color: #0099ff; 
 	padding-bottom: 55px;
@@ -218,10 +196,6 @@ background-color: #0099ff;
   50% { border-color:  #668aff }
 }
 
-.col-lg-5{
-	padding-left: 0;
-	padding-right: 0;
-}
 
 #pen{
 	height:180px;
@@ -270,6 +244,10 @@ background-color: #0099ff;
 	padding-top: 3%;
 
 }
+#products
+{
+	display: block;
+}
 h5{
 	font-size:16px;
 	font-family: Blippo;
@@ -286,6 +264,7 @@ h3{
 	text-align: center;
 	font-weight:bold;
 }
+
 #hey{
 
 	font-weight: bold;
@@ -356,6 +335,19 @@ h1{
 	padding-top: 20px;
 	margin-top: 30px;
 	margin-bottom: 30px;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  background-color: black;
+  padding: 10px;
+}
+.grid-container>div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding:20px 0;
+  font-size: 30px;
 }
 .col-lg-3
 {
