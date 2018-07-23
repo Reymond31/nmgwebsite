@@ -12,12 +12,12 @@
 .whatwedo{
 	float:right;
 }
-p.exp{
+p.expa{
 	font-size:12px;
 	letter-spacing: 2px;
 	text-align: justify;
 }
-span{
+span.a{
 	font-size: 19px;
 	text-align: justify;
 }
