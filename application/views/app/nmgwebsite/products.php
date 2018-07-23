@@ -1,6 +1,4 @@
-
 <div id="products">
-<<<<<<< HEAD
 	<div class="container-fluid">
 		<div class="row">
 			<div class="container">
@@ -12,14 +10,6 @@
 						</div>
 					</div>
 				</div>
-=======
-	<div class="row">
-		<div class="container">
-			
-		
-
-				<button type="button" class="btnc btn-primary btn-login">CONTACT US</button>
->>>>>>> e31a1ff28a9d3c2426edcbd14c189dc9c415037e
 			</div>
 		</div>
 		<div class="row">
