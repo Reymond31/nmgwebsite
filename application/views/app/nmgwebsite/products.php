@@ -1,23 +1,62 @@
 <div id="products">
-	<div class="row">
-		<div class="container">
-			<div class="col-lg-3">
-				<p id="general"> HAVE A QUESTION FOR US?</p>
-				<button type="button" class="btnc btn-primary btn-login">CONTACT US</button>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="container">
+				<div class="col-lg-12 col-xs-12">
+					<h1>PRODUCTS</h1>
+					<div class="panel panel-default">
+						<div class="panel-body">
+							<img src="<?php echo base_url("assets/img/heffy.jpg")?>" class="heffy">
+						</div>
+					</div>
+				</div>
 			</div>
-			<div class="col-lg-3">
-				<p id="general"> WANT TO WORK FOR US?</p>
-				<button type="button" class="btnc btn-primary btn-login">YOU BETCHA</button>
+		</div>
+		<div class="row">
+			<div class="container">
+				<div class="col-lg-12 col-xs-12">
+					<div class="panel panel-default">
+						<div class="panel-body">
+							Basic panel example
+						</div>
+					</div>
+				</div>
 			</div>
-			<div class="col-lg-3">
-				<p id="general"> HAVE A PROJECT FOR US?</p>
-				<button type="button" class="btnc btn-primary btn-login">TELL US MORE</button>
+		</div>
+		<div class="row">
+			<div class="container">
+				<div class="col-lg-12 col-xs-12">
+					<div class="panel panel-default">
+						<div class="panel-body">
+							Basic panel example
+						</div>
+					</div>
+				</div>
 			</div>
-			<div class="col-lg-3">
-				<p id="general"> THINGS WONKY ON YOUR SITE?</p>
-				<button type="button" class="btnc btn-primary btn-login">ACTIVATE THE BAT SIGNAL</button>
+		</div>
+		<div class="row">
+			<div class="container">
+				<div class="col-lg-12 col-xs-12">
+					<div class="panel panel-default">
+						<div class="panel-body">
+							Basic panel example
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="container">
+				<div class="col-lg-12 col-xs-12">
+					<div class="panel panel-default">
+						<div class="panel-body">
+							Basic panel example
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
 </div>
-</div>
+<div class="parallax-products"></div>
+
