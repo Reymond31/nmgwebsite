@@ -3,6 +3,8 @@
 		<div class="container">
 			<div class="col-lg-6">
 				<img src="assets/img/services3.jpg" class="laptop">
+				<img src="assets/img/services6.png" class="scan">
+
 			</div>
 			<div class="col-lg-6">
 				<p class="head">WHAT WE OFFER?</p>
