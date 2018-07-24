@@ -1,4 +1,7 @@
-<div id="servic" style="background:url(assets/img/.jpg);background-attachment: fixed; background-position: center;background-repeat: no-repeat;background-size: cover;" >
+<div id="servic">
+        </div>
+
+<section id="service" >
 	<div class="row ">
 		<div class="container">
 			<div class="col-lg-6">
@@ -25,5 +28,5 @@
 			</div>
 		</div>
 	</div>
-</div>
-
+</section>
+<div class="parallax-services"></div>

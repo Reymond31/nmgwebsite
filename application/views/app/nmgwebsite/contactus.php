@@ -15,11 +15,11 @@
 				<img src="<?php echo base_url("assets/img/email.png")?>" class="img-responsive" id="monitoes">
 				<h5>info@nmgresources.ph </h5>
 			</center>
-		</div>
+			</div>
 	</div>
 </div></div>
 
-	<!--	<div style="float:right;" class="col-lg-6">
+	<div style="float:left;" class="col-lg-6">
 			<input type="text" value="NAME" class="name">
 			<input type="email" value="EMAIL" class="email">
 			<select>
@@ -35,11 +35,11 @@
 		      <button type="button" class="btna btn-primary btn-login"><b>SUBMIT</b></button>
 				
 
-		  </div> -->
+		  </div> 
 
 		  <center>
 
-		  	<div class="mapouter"><div class="gmap_canvas"><iframe width="1334" height="585" id="gmap_canvas" src="https://maps.google.com/maps?q=136%20yakal%20st.%20makati%2Cphilippines&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.crocothemes.net"></a></div><style>.mapouter{text-align:right;height:585px;width:1334px;}.gmap_canvas {overflow:hidden;background:none!important;height:585px;width:1334px;}</style><small><a href="http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=28532&url=42158&tid1=google3" rel="nofollow"></a></small></div></center>
+		  	<div class="mapouter"><div class="gmap_canvas"><iframe width="585" height="385" id="gmap_canvas" src="https://maps.google.com/maps?q=136%20yakal%20st.%20makati%2Cphilippines&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.crocothemes.net"></a></div><style>.mapouter{text-align:right;height:385px;width:585px;}.gmap_canvas {overflow:hidden;background:none!important;height:385px;width:585px;}</style><small><a href="http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=28532&url=42158&tid1=google3" rel="nofollow"></a></small></div></center>
 		  </div>
 
 		</div>
