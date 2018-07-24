@@ -1,14 +1,16 @@
 #aboutus {
     height: 675px;
     padding: 0px;
-    background-color: #b1e#940;
-
+	background-color: #a3c2c2;   
+	height: 350px;
 }
 .col-lg-5{
 	padding-left: 0;
 	padding-right: 0;
 }
-
+.col-lg-7{
+	    text-rendering: optimizeLegibility;
+}
 .big {
 	font-size: 70px;
 	padding-top: 80px;
@@ -18,17 +20,58 @@
 	padding-bottom: 65px;
 	font-weight: bold;
 }
-.small{
-	padding-top:100px;
-	padding-left: 30px;
-	font-size: 12px;
-	 letter-spacing: 2px;
-	 text-align: justify
-	color:#5a5b5b;
-	float:right;
-	font-family: Raleway, sans-serif;
-	font-weight: normal;
-	padding-bottom: 3px;
 
+.collapse
+{
+	padding-left: 30px;
+	font-size: 15px;
+	 letter-spacing: 2px;
+	 text-align: justify;
+	  color:#5a5b5b;
+	   float: right;
+	    font-family:Raleway, sans-serif;
+	     font-weight: normal;
+	      padding-bottom: 3px;
+	       color: black;
+}
+
+.grid-container {
+display: grid;
+grid-template-columns: auto auto auto auto;
+grid-gap: 10px;
+ padding: 10px;
+
+ }
+.grid-container > div {
+ height: 250px;
+ text-align: center;
+ font-size: 15px;
+ background-color: white;
+ margin-top: 50px;
+}
+.item2 {
+grid-column: 1 / span 2;
+grid-row: 1;
+}
+
+.grid-item2
+{
+padding-top:40px;
+padding-left: 30px;
+padding-right: 30px;
+font-size: 15px;
+letter-spacing: 2px;
+text-align: justify;
+color:#5a5b5b;
+float:right;
+font-family: Raleway, sans-serif;
+font-weight: normal;
+padding-bottom: 3px; 
+color: black;
+}
+@media screen and (min-width: 640px) {
+  article {
+    max-height: 12em;
+  }
 }
 
