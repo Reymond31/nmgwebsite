@@ -1,5 +1,5 @@
 <div id="servic" style="background:url(assets/img/.jpg);background-attachment: fixed; background-position: center;background-repeat: no-repeat;background-size: cover;" >
-	<div class="row">
+	<div class="row ">
 		<div class="container">
 			<div class="col-lg-6">
 				<img src="assets/img/services3.jpg" class="laptop">
@@ -26,3 +26,4 @@
 		</div>
 	</div>
 </div>
+

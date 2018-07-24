@@ -9,7 +9,7 @@
 				<div class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
 						<li><a href="#aboutus" class="hvr-grow-shadow"> ABOUT US</a></li>
-						<li><a href="#services" class="hvr-grow-shadow">SERVICES</a></li>
+						<li><a href="#servic" class="hvr-grow-shadow">SERVICES</a></li>
 						<li><a href="#products" class="hvr-grow-shadow">PRODUCTS</a></li>
 						<li><a href="#contactus" class="hvr-grow-shadow">CONTACT US</a></li>
 					</ul>
