@@ -21,11 +21,12 @@
 .small{
 	padding-top:100px;
 	padding-left: 30px;
-	font-size:17px;
-	text-align: justify;
+	font-size: 12px;
+	 letter-spacing: 2px;
+	 text-align: justify
 	color:#5a5b5b;
 	float:right;
-	font-family: "PT Sans Narrow","Open Sans","Arial",sans-serif;
+	font-family: Raleway, sans-serif;
 	font-weight: normal;
 	padding-bottom: 3px;
 
