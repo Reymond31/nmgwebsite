@@ -9,16 +9,18 @@
   							<div class="front face">
     							<img src="<?php echo base_url("assets/img/heffy.jpg")?>" class="product-site-left">
   							</div>
- 							 <div class="back face center">
-    							<p>This is nice for exposing more information about an image.</p>
-    							<p>Any content can go here.</p>
+ 							<div class="back face center">
+    							<span class="x">
+    								HEFFY – Mobile Yearbook
+								</span>
   							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-6 col-xs-6 no-padding">
     				<div class="heffy product-title-left">
-    					<p>Social mobile yearbook app which aims to revolutionize the traditional experience of having a yearbook.</p>
+    					<p class="z">Established in 2014, Heffy is a complete platform used to bring the hard-bound yearbook to the digital age. Schools and universities subscribe to Heffy, and manage everything from student registration to pictorial scheduling. Students are able to download the free mobile app, log in and view their images.
+						</p>
     				</div>
 				</div>
 			</div>
