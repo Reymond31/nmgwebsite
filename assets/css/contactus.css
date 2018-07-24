@@ -1,155 +1,41 @@
 body{
 	font-family: 'Raleway', sans-serif;
 }
-
-#contacte
+h1
 {
-	font-size:45px;
-	color:white;
-	font-family: "Arial Black", Gadget, sans-serif;
-	text-align: center;
-	padding-top: 20px;
-	margin-top: 30px;
-	margin-bottom: 30px;
+ font-size:45px; 
 }
-.col-lg-3
+.mapouter
 {
-	width:24%;
-	padding: 2rem 0;
-    background: rgba(0, 0, 0, 0.5);
-    text-align: center;
-    transition: background .35s ease;
-    cursor: pointer;
-    margin-left:10px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+  float: right;
+  width: 500px;
 }
-.btnc{
- 		background-color: blue;
-	padding-bottom: 5px;
-    border: 0;
-    color: white;
-    padding: 10px 10px;
-    margin-top: 1px;
-    text-align: left;
-    text-decoration: none;
-    margin-bottom: 30px;
-    font-size: 12px;
- 	border:1px solid white;
+.name
+{
+  width: 65%;
+  margin-bottom: 15px;
+  margin-top: 15px;
 }
-#general{
-	font-size: 16px;
-	padding-top: 2px;
-	color:white;
-	font-family: TimesNewRoman;
-	margin-top: 20px;
-	
-
+.email
+{
+  width: 65%;
+  margin-bottom: 15px;
 }
-/*input, select{
-	background: white;
-	box-shadow: #0099ff;
-	color: black;
-	width:80%;
-	float:right;
-	 border-radius: 10px;
-    border: 2px solid black;
-    padding: 20px; 
-     height: 15px;  
-     margin-bottom: 5px;  
+.option
+{
+  margin-bottom: 15px;
+  width: 65%;
 }
- textarea{
- 	 border-radius: 10px;
-    border: 2px solid  black;
-    height:190px;
-    width:80%;
-    padding:0 ;
-    float:right;
-
- }*/
-
-#contactForm { 
-  display: none;
-
-  border: 6px solid salmon; 
-  padding: 2em;
-  width: 400px;
-  text-align: center;
-  background: #fff;
-  position: fixed;
-  top:50%;
-  left:50%;
-  transform: translate(-50%,-50%);
-  -webkit-transform: translate(-50%,-50%)
-  
+textarea
+{
+  width: 65%;
+  height: 500%;
 }
-
-input, textarea { 
-  margin: .8em auto;
-  font-family: inherit; 
-  text-transform: inherit; 
-  font-size: inherit;
-  
-  display: block; 
-  width: 280px; 
-  padding: .4em;
+.btna btn-primary btn-login
+{
+  margin-top: 15px;
 }
-textarea { height: 80px; resize: none; }
-
-.formBtn { 
-  width: 140px;
-  display: inline-block;
-  
-  background: teal;
-  color: #fff;
-  font-weight: 100;
-  font-size: 1.2em;
-  border: none;
-  height: 30px;
-}
- #adds{
-
- 	height:13%;
- 	margin:0;
- }
- footer{
- 	text-align: center;
- 	color:white;
- 	background-color:#3884ff ;
- 	padding-top: 20px;
- 	padding-bottom: 20px;
- }
- .btna{
-background-color: transparent; 
-	padding-bottom: 55px;
-    border: none;
-    color: white;
-    padding: 15px 30px;
-    margin-top: 20px;
-    text-align: left;
-    text-decoration: none;
-    margin-bottom: 30px;
-    font-size: 14px;
-    float:right;
-    border:2px solid white;
-}
-
-#ress{
-	height:auto;
-	margin:0;
-	width:40%;
-	padding-top: 50px;
-
-}
-@media screen and (max-width:375px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
-	#landingpage{
-		background: url('../img/onese.jpg');
-		background-attachment: fixed ;
-    	background-repeat: no-repeat;
-    	
-    	height: 680px;
-    	padding: 0px;
-    	min-width: 100%;
-	}
-	
+h1
+{
+  font-family: 'Raleway', sans-serif;
 }
