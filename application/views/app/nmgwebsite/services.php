@@ -29,4 +29,3 @@
 		</div>
 	</div>
 </section>
-<div class="parallax-services"></div>
