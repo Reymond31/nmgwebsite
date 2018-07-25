@@ -46,9 +46,8 @@
             		</div>
 				</div>
 				<div class="arrow-down">
-					<a href="#aboutus" class="hvr-icon-down">
-  						<i class="fa fa-angle-double-down fa-2x hvr-icon-down:hover hvr-icon hvr-icon-down:focus hvr-icon,hvr-icon-down:active hvr-icon"></i>
-					</a>
+					<a href="#aboutus" id="down-to-scroll"><i class="icon-chevron-down"></i></a>
+					<a href="#landingpage" id="return-to-top"><i class="icon-chevron-up"></i></a>
 				</div>
 			</div>
 		</div>

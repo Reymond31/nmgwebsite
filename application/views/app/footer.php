@@ -3,10 +3,33 @@
 </footer>
 
 <script>
-	$(window).scroll(function(){
-		$('nav').toggleClass('scrolled', $(this).scrollTop() > 500);
-	});
-	$(document).ready(function(){
+$(window).scroll(function(){
+    $('nav').toggleClass('scrolled', $(this).scrollTop() > 500);
+});
+
+$(window).ready(function() {
+    if ($(this).scrollTop() === 0) {        // If page is scrolled more than 50px
+            $('#down-to-scroll').fadeIn();    // Fade in the arrow
+        } 
+        else {
+            $('#down-to-scroll').fadeOut();   // Else fade out the arrow
+        }
+    });
+    
+$(window).scroll(function() {
+    if ($(this).scrollTop() >= 200) {        // If page is scrolled more than 50px
+        $('#return-to-top').fadeIn();    // Fade in the arrow
+    } else {
+        $('#return-to-top').fadeOut();   // Else fade out the arrow
+    }
+    });
+    $('#return-to-top').click(function() {      // When arrow is clicked
+    $('body,html').animate({
+        scrollTop : 0                       // Scroll to top of body
+    }, 500);
+});
+
+$(document).ready(function(){
     $('#firstSlide').fadeIn();
     $('#testimonials .slide');
     setInterval(function(){
@@ -19,8 +42,8 @@
             }
         });
     },1000);  
-	});
-	AOS.init();
+});
+AOS.init();
 </script>
 </body>
 </html>
