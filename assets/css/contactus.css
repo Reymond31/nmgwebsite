@@ -6,6 +6,10 @@ h1{
     position: relative;
    
 }
+.contact-us{
+  margin-left: 105px;
+  margin-top: 70px;
+}
 .mapouter{
   float: right;
   width: 500px;
@@ -23,26 +27,35 @@ h1{
 }
 .name {
   width: 65%;
-  height: 10%
+  height: 30px;
   margin-bottom: 10px;
   background-color: #f5f5f5;
+  padding: 5px;
+  border-radius: 7px;
 }
  .email {
   width: 65%;
-  height: 10%;
+  height: 30px;
   margin-bottom: 10px;
   background-color: #f5f5f5;
+  padding: 5px;
+  border-radius: 7px;
 }
 .option {
-  margin-bottom: 10px;
   width: 65%;
-  height: 10%;
+  height: 30px;
+  margin-bottom: 10px;
   background-color: #f5f5f5;
+  padding: 5px;
+  border-radius: 7px;;
 }
 textarea {
   width: 65%;
   height: 100px;
+  margin-bottom: 10px;
   background-color: #f5f5f5;
+  padding: 5px;
+  border-radius: 7px;
 }
 h1 {
   font-family: 'Raleway', sans-serif;
@@ -58,8 +71,9 @@ h1 {
   width: 200px;
   transition: all 0.5s;
   cursor: pointer;
-  margin-top: 15px;
-  }
+  margin-bottom: 30px;
+  margin-left: 97px;
+}
 
 .button span {
   cursor: pointer;

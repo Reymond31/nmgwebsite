@@ -1,7 +1,9 @@
 <div id="contactus">
 	<div class="row">
 		<div class="container">
-		<h1>CONTACT US</h1>
+			<div class="contact-us">
+				<h1>CONTACT US</h1>
+			</div>
 			<div class="col-lg-7">
 				<h2> Have a general question?</h2>
 					<b>Fill up the form:</b><br>
