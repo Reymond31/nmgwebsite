@@ -2,7 +2,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-5">
-        <p class="big" >We Are <br> NMG</p>
+        <p class="big" >We Are</p><br>
+        <p class="small">NMG</p>
       </div>
       <div class="col-lg-7">
         <div class="grid-container">

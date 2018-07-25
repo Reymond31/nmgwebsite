@@ -1,7 +1,4 @@
 
-<footer> <p> ALL RIGHTS RESERVED 2018.</p>
-</footer>
-
 <script>
 $(window).scroll(function(){
     $('nav').toggleClass('scrolled', $(this).scrollTop() > 500);
@@ -46,4 +43,7 @@ $(document).ready(function(){
 AOS.init();
 </script>
 </body>
+<div class="container-fluid footer">
+<footer><p> ALL RIGHTS RESERVED 2018.</p></footer>
+</div>
 </html>

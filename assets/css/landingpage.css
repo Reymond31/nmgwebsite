@@ -189,6 +189,13 @@ body{
     color: #fff;
     bottom: 5px;
 }
+.footer{
+    background-color: #000;
+    color: #FFF;
+    text-align: center;
+    max-height: 200px;
+
+}
 
 @media screen and (max-width:375px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
 	#landingpage{
