@@ -1,6 +1,5 @@
-<div id="products">
-	<div class="overlays">
-	  <div class="container-fluid">
+<div id="products">>
+	<div class="container-fluid">
 		<div class="row">
 			<div class="container">
 				<h1 class="pro"> FEATURED PRODUCTS</h1>
