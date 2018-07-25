@@ -3,7 +3,7 @@
 	  <div class="container-fluid">
 		<div class="row">
 			<div class="container">
-				<h1 class="pro">PRODUCTS</h1>
+				<h1 class="pro"> FEATURED PRODUCTS</h1>
 				<div class="col-lg-6 col-xs-6 no-padding">
 					<div id="f1_container">
 						<div id="f1_card" class="shadow">
