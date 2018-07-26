@@ -15,30 +15,88 @@
 }
 p.expa{
 	font-size:12px;
-	letter-spacing: 2px;
-	text-align: justify;
+	letter-spacing: 1px;
+	text-align: center;
 	color:black;
 	margin-top: 5px;
 }
-span.a{
+p.a{
 	font-size: 19px;
-	text-align: justify;
-	padding-bottom: 20px;
+	text-align: center;
 	color:black; 
-	
+	letter-spacing: 2px;
 }
+p.ab{
+	font-size: 19px;
+	text-align: center;
+	color:black; 
+	letter-spacing: 2px;
+	margin-left: 122px;
+}
+p.abc{
+	font-size: 19px;
+	text-align: center;
+	color:black; 
+	margin-left: 36px;
+	letter-spacing: 2px;
+	width:354px;
+}
+p.expas{
+	font-size:12px;
+	letter-spacing: 1px;
+	text-align: center;
+	color:black;
+	margin-top: 5px;
+    margin-left: 135px;
+}
+p.expasi{
+	font-size:12px;
+	letter-spacing: 1px;
+	text-align: center;
+	color:black;
+	margin-top: 5px;
+	margin-left: 39px;
+    width: 356px;
+    padding-left: 0px;
+}
+
 img.laptop{
-	height:359px;
-	margin-bottom: 0px;
-	position: absolute;
-	padding-top: 40px;
-	margin-top: 80px;
+	margin-bottom: 15px;
+    margin-left: 82px;
+    height: 146px;
+    width: 178px;
+}
+img.pen1{
+	height: 143px;
+    width: 141px;
+    margin-bottom: 19px;
+    margin-left: 94px;
+}
+img.phone{
+	height: 145px;
+    margin-bottom: 15px;
+    margin-left: 82px;
+ }
+img.staff{
+	margin-left: 238px;
+    height: 156px;
+    margin-top:45px;
+}
+img.tech{
+	height: 143px;
+    width: 157px;
+    margin-left: 117px;
+    margin-bottom: 4px;
+    margin-top: 45px;
 }
 p.head{
-	text-align: justify;
-	font-weight: 300px;
-	font-size: 26px;
+	text-align: center;
+	font-weight: 100;
+	font-size: 36px;
 	margin-top:25px;
+	margin-bottom: 5%;
+	letter-spacing: 6px;
+    
 }
 img.scan{
 	height: 206px;
