@@ -1,18 +1,36 @@
 body{
 	font-family: 'Raleway', sans-serif;
 }
-h1{
-    font-weight: 700;
-    position: relative;
-   
+h2.head{
+    text-align:justify;
+    letter-spacing: 3px;
+    margin-top: 8px;
+    color:black;
+    margin-top: 20%;
+}
+p.con{
+  margin-top: 3px;
+  letter-spacing: 1.5px;
+  font-weight:500;
+  margin-bottom: 5px;
+  font-size:20px;
+  
+}
+span.labelscontact{
+  font-weight:300;
+  
+}
+#contactus{
+  background-color";
 }
 .contact-us{
-  margin-left: 105px;
+  margin-left: 15px;
   margin-top: 70px;
 }
 .mapouter{
   float: right;
   width: 500px;
+  margin-top: 20%;
 }
 .mapouter{
   text-align:right;
@@ -26,20 +44,25 @@ h1{
   width:600px;
 }
 .name {
-  width: 65%;
+  width: 55%;
   height: 30px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   background-color: #f5f5f5;
   padding: 5px;
   border-radius: 7px;
+  margin-left: 18px;
 }
  .email {
-  width: 65%;
+  width: 55%;
   height: 30px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   background-color: #f5f5f5;
   padding: 5px;
   border-radius: 7px;
+  padding: 5px;
+  margin-left: 20px;
+
+
 }
 .option {
   width: 65%;
@@ -52,6 +75,7 @@ h1{
 textarea {
   width: 65%;
   height: 100px;
+  margin-top: 5px;
   margin-bottom: 10px;
   background-color: #f5f5f5;
   padding: 5px;
@@ -71,7 +95,7 @@ h1 {
   width: 200px;
   transition: all 0.5s;
   cursor: pointer;
-  margin-bottom: 30px;
+  margin-bottom: 70px;
   margin-left: 97px;
 }
 
