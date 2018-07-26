@@ -12,6 +12,22 @@
           </div> 
         </div>
       </div>
-    </div>
-  </div>
+      <div class="container">
+        <div class="row">
+          <center>
+            <h1>OUR CLIENTS</h1>
+          </center>
+          <br>
+      <div class="grid">
+           <div class="grid-item"><div class="grid-inner"><img src="https://t6.rbxcdn.com/df472fb7bc5535e0ebfbde25336edf4c"></div></div>
+              <div class="grid-item"><div class="grid-inner">2</div></div>
+              <div class="grid-item"><div class="grid-inner">3</div></div>
+              <div class="grid-item"><div class="grid-inner">4</div></div>
+              <div class="grid-item"><div class="grid-inner">5</div></div>
+              <div class="grid-item"><div class="grid-inner">6</div></div>
+              <div class="grid-item"><div class="grid-inner">7</div></div>
+              <div class="grid-item"><div class="grid-inner">8</div></div>
+          </div>
+        </div>
+      </div>
 </div>
