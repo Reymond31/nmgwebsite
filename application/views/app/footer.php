@@ -1,7 +1,7 @@
 
 <script>
 $(window).scroll(function(){
-    $('nav').toggleClass('scrolled', $(this).scrollTop() > 500);
+    $('nav').toggleClass('scrolled', $(this).scrollTop() > 50);
 });
 
 $(window).ready(function() {
@@ -40,8 +40,6 @@ $(document).ready(function(){
         });
     },1000);  
 });
-
-
 AOS.init();
 </script>
 </body>

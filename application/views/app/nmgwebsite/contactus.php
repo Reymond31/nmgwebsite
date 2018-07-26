@@ -2,20 +2,21 @@
 	<div class="row">
 		<div class="container">
 			<div class="col-lg-7">				
-				<h2 class="head"> Have a general question?</h2>
-				<p class="con">CONTACT US!</p>
+				<h2 class="head"> Any Inquries?</h2>
 					<span class="labelscontact">Name:</span>
 						<input type="text" placeholder="Your name" class="name">
 					<span class="labelscontact"><br>Email:</span>
 						<input type="email" placeholder="thisisyou@example.com" class="email">
-				<select class="option">
-					<option>Purpose</option>
-					<option> General Inquiry </option>
-					<option> Request a Proposal </option>
-					<option> Internship </option>
-					<option> Job Application </option>
-				</select>
-				<textarea placeholder="Enter message here."></textarea>
+					<span class="labelscontact"><br>Subject: </span>
+					<select class="option">
+						<option> -select subject- </option>
+						<option> General Inquiry </option>
+						<option> Request a Proposal </option>
+						<option> Internship </option>
+						<option> Job Application </option>
+					</select>
+					<span class="labelscontact"><br>Message: <br></span>
+					<textarea placeholder="Enter message here."></textarea>
 		     	<button type="button" class="button" style="vertical-align:"><span>SUBMIT</span></button>
 		     </div>
 		      <div class="col-lg-5">

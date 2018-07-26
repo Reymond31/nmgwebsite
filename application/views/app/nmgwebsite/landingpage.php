@@ -22,7 +22,7 @@
 		<div class="welcome">
 			<div class="row">
 				<div class="col-lg-12 col-xs-12">
-					<span class = "nmg"> NMG</span>  RESOURCES INC.
+					<span class = "nmg"> NMG</span>RESOURCES INC.
 				</div>
 			</div>
 			<div class="row">

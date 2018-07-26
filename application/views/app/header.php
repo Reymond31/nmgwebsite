@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" media="all">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/aos.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/fontawesome.css")?>">
@@ -12,24 +13,19 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/hover.min.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/bootstrap.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/bootstrap.min.css")?>">
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/bootstrap4.min.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/aboutus.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/services.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/products.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/contactus.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/landingpage.css")?>">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 	<script src="<?php echo base_url("assets/js/aos.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/fontawesome.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/fontawesome.min.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/bootstrap.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/bootstrap.min.js")?>"></script>
-	<script src="<?php echo base_url("assets/js/bootstrap4.min.js")?>"></script>
-	<script src="<?php echo base_url("assets/js/bootstrap-3.2.0.min.js")?>"></script>
-	<script src="<?php echo base_url("assets/js/jquery.slim.min.js")?>"></script>
-	<script src="<?php echo base_url("assets/js/popper.min.js")?>"></script>
-	<script src="<?php echo base_url("assets/js/jquery-3.3.1.min.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/jquery-1.6.2.js")?>"></script>
-	
+	<script src="<?php echo base_url("assets/js/jquery-3.3.1.min.js")?>"></script>
 	<style>
 	#more {display: none;}
 	</style>

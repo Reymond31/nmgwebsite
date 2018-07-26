@@ -1,12 +1,11 @@
-body{
-	font-family: 'Raleway', sans-serif;
-}
 h2.head{
     text-align:justify;
     letter-spacing: 3px;
-    margin-top: 8px;
     color:black;
     margin-top: 20%;
+    margin-bottom: 10%;
+    font-size: 50px;
+    font-family: 'Merriweather', serif;
 }
 p.con{
   margin-top: 3px;
@@ -14,6 +13,7 @@ p.con{
   font-weight:500;
   margin-bottom: 5px;
   font-size:20px;
+  font-family: 'Merriweather', serif;
   
 }
 span.labelscontact{
@@ -51,6 +51,7 @@ span.labelscontact{
   padding: 5px;
   border-radius: 7px;
   margin-left: 18px;
+  font-family: 'Merriweather', serif;
 }
  .email {
   width: 55%;
@@ -61,16 +62,19 @@ span.labelscontact{
   border-radius: 7px;
   padding: 5px;
   margin-left: 20px;
+  font-family: 'Merriweather', serif;
 
 
 }
 .option {
-  width: 65%;
+  width: 55%;
   height: 30px;
   margin-bottom: 10px;
+  margin-left: 8px;
   background-color: #f5f5f5;
   padding: 5px;
   border-radius: 7px;;
+  font-family: 'Merriweather', serif;
 }
 textarea {
   width: 65%;
@@ -80,14 +84,12 @@ textarea {
   background-color: #f5f5f5;
   padding: 5px;
   border-radius: 7px;
-}
-h1 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Merriweather', serif;
 }
 .button {
   display: inline-block;
   border-radius: 4px;
-  background-color: #6CA4A4;
+  background-color: #2d8ac8;
   border: none;
   color: #FFFFFF;
   text-align: center;
@@ -97,6 +99,7 @@ h1 {
   cursor: pointer;
   margin-bottom: 70px;
   margin-left: 97px;
+  font-family: 'Merriweather', serif;
 }
 
 .button span {

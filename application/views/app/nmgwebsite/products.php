@@ -1,10 +1,16 @@
-<div id="products">>
+<div id="products">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="container">
 				<h1 class="pro"> FEATURED PRODUCTS</h1>
 				<div class="col-lg-6 col-xs-6 no-padding">
-					<div id="f1_container">
+					<div class="heffy product-title-right">
+    					<p class="x"> HEFFY </p>
+    					<p class="y"> Mobile Yearbook </p>
+    				</div>
+				</div>
+				<div class="col-lg-6 col-xs-6 no-padding">
+    				<div id="f1_container">
 						<div id="f1_card" class="shadow">
   							<div class="front face">
     							<img src="<?php echo base_url("assets/img/heffy.jpg")?>" class="product-site-left">
@@ -16,24 +22,12 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-6 col-xs-6 no-padding">
-    				<div class="heffy product-title-right">
-    					<p class="x"> HEFFY </p>
-    					<p class="y"> Mobile Yearbook </p>
-    				</div>
-				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="container">
 				<div class="col-lg-6 col-xs-6 no-padding">
-					<div class="textsupport product-title-left">
-    				<p class="x"> TxtSupport </p>
-    				<p class="y"> SMS Support System </p>
-    				</div>
-				</div>
-				<div class="col-lg-6 col-xs-6 no-padding">
-					<div id="f2_container">
+						<div id="f2_container">
 						<div id="f2_card" class="shadow">
   							<div class="front face">
     							<img src="<?php echo base_url("assets/img/txtsupport.jpg")?>" class="product-title-right">
@@ -44,12 +38,24 @@
 						</div>
 					</div>
 				</div>
+				<div class="col-lg-6 col-xs-6 no-padding">
+					<div class="textsupport product-title-left">
+    					<p class="x"> TxtSupport </p>
+    					<p class="y"> SMS Support System </p>
+    				</div>
+				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="container">
 				<div class="col-lg-6 col-xs-6 no-padding">
-					<div id="f1_container">
+					<div class="bes product-title-right">
+    					<p class="x">BES Chatbot </p>
+    					<p class="y"> Bot Enabled Services </p>
+    				</div>
+				</div>
+				<div class="col-lg-6 col-xs-6 no-padding">
+    				<div id="f1_container">
 						<div id="f1_card" class="shadow">
   							<div class="front face">
     							<img src="<?php echo base_url("assets/img/bes.jpg")?>" class="product-site-left">
@@ -60,24 +66,12 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-6 col-xs-6 no-padding">
-    				<div class="bes product-title-right">
-    					<p class="x">BES Chatbot </p>
-    					<p class="y"> Bot Enabled Services </p>
-    				</div>
-				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="container">
 				<div class="col-lg-6 col-xs-6 no-padding">
-    				<div class="cress product-title-left">
-						<p class="x">CReSS </p>
-						<p class="y">Civil Registry System and Services</p>
-					</div>
-				</div>
-				<div class="col-lg-6 col-xs-6 no-padding">
-					<div id="f2_container">
+    				<div id="f2_container">
 						<div id="f2_card" class="shadow">
   							<div class="front face">
     							<img src="<?php echo base_url("assets/img/cress.jpg")?>" class="product-title-right">
@@ -88,12 +82,24 @@
 						</div>
 					</div>
 				</div>
+				<div class="col-lg-6 col-xs-6 no-padding">
+					<div class="cress product-title-left">
+						<p class="x">CReSS </p>
+						<p class="y">Civil Registry System and Services</p>
+					</div>
+				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="container">
 				<div class="col-lg-6 col-xs-6 no-padding">
-					<div id="f1_container">
+					<div class="payroll product-title-right">
+    					<p class="x">POS Partner </p>
+    					<p class="y"> Marketing Enablement System for POS</p>
+    				</div>
+				</div>
+    			<div class="col-lg-6 col-xs-6 no-padding">
+    				<div id="f1_container">
 						<div id="f1_card" class="shadow">
   							<div class="front face">
     							<img src="<?php echo base_url("assets/img/pinoypayroll.jpg")?>" class="product-site-left">
@@ -103,17 +109,10 @@
   							</div>
 						</div>
 					</div>
-				</div>
-    			<div class="col-lg-6 col-xs-6 no-padding">
-    				<div class="payroll product-title-right">
-    					<p class="x">POS Partner </p>
-    					<p class="y"> Marketing Enablement System for POS</p>
-    				</div>
     			</div>
 			</div>
 		</div>
 	</div>
-</div>
 </div>
 <div class="parallax-products"></div>
 

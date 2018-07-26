@@ -66,6 +66,10 @@ p.y{
 .panel{
 	margin-top: 10px;
 }
+.container-products{
+  width: 530px;
+  height: 280px;
+}
 .product-site-left{
 	width: 530px;
   height: 280px;
@@ -73,31 +77,32 @@ p.y{
 .product-title-left{
 	width: 530px;
   height: 280px;
-  margin-left: 40px;
 }
 .product-site-right{
 	width: 530px;
   height: 280px;
-  margin-left: 40px;
 }
 .product-title-right{
-  width: 553px;
+  width: 530px;
   height: 280px;
 }
 .heffy{
 	background-color:#00e68a;
+  margin-left: 40px;
 }
 .textsupport{
   background-color:#ffcc66;
 }
 .bes{
   background-color:#99ccff; 
+  margin-left: 40px;
 }
 .cress{
   background-color: #ff6666;
 }
 .payroll{
   background-color: #d2a679;
+  margin-left: 40px;
 }
 .no-padding{
 	padding-left: 0px;
@@ -109,7 +114,6 @@ p.y{
   position: relative;
   width: 530px;
   height: 280px;
-  margin-left: 40px;
   z-index: 1;
 }
 #f1_container {
@@ -126,9 +130,10 @@ p.y{
 }
 #f2_container {
   position: relative;
-  width: 553px;
+  width: 530px;
   height: 280px;
   z-index: 1;
+  margin-left: 40px;
 }
 #f2_container {
   perspective: 1000;
