@@ -12,22 +12,35 @@
           </div> 
         </div>
       </div>
+      </div>  
+       <h1><center><b>OUR CLIENTS</b></center></h1>
       <div class="container">
-        <div class="row">
-          <center>
-            <h1>OUR CLIENTS</h1>
-          </center>
-          <br>
-      <div class="grid">
-           <div class="grid-item"><div class="grid-inner"><img src="https://t6.rbxcdn.com/df472fb7bc5535e0ebfbde25336edf4c"></div></div>
-              <div class="grid-item"><div class="grid-inner">2</div></div>
-              <div class="grid-item"><div class="grid-inner">3</div></div>
-              <div class="grid-item"><div class="grid-inner">4</div></div>
-              <div class="grid-item"><div class="grid-inner">5</div></div>
-              <div class="grid-item"><div class="grid-inner">6</div></div>
-              <div class="grid-item"><div class="grid-inner">7</div></div>
-              <div class="grid-item"><div class="grid-inner">8</div></div>
-          </div>
+       <div class="row">
+         
+  
+            <div class="col-lg-4">
+              <img src="https://t6.rbxcdn.com/df472fb7bc5535e0ebfbde25336edf4c" style="height: 15%">
+            </div>
+            <div class="col-lg-4">
+              <img src="https://news.mb.com.ph/wp-content/uploads/2016/12/w.jpg" style="height: 15%"> 
+            </div>
+            <div class="col-lg-4">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ph_seal_ncr_manila.svg/1200px-Ph_seal_ncr_manila.svg.png" style="height: 15%">
+            </div>
         </div>
       </div>
+      <div class="container">
+       <div class="row">
+            <div class="col-lg-4">
+              <img src="https://t6.rbxcdn.com/df472fb7bc5535e0ebfbde25336edf4c" style="height: 15%">
+            </div>
+            <div class="col-lg-4">
+              <img src="https://news.mb.com.ph/wp-content/uploads/2016/12/w.jpg" style="height: 15%"> 
+            </div>
+            <div class="col-lg-4">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ph_seal_ncr_manila.svg/1200px-Ph_seal_ncr_manila.svg.png" style="height: 15%">
+            </div>
+        </div>
+      </div>
+  </div>
 </div>
