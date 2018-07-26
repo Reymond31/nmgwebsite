@@ -29,18 +29,6 @@
             </div>
         </div>
       </div>
-      <div class="container">
-       <div class="row">
-            <div class="col-lg-4">
-              <img src="https://t6.rbxcdn.com/df472fb7bc5535e0ebfbde25336edf4c" style="height: 15%">
-            </div>
-            <div class="col-lg-4">
-              <img src="https://news.mb.com.ph/wp-content/uploads/2016/12/w.jpg" style="height: 15%"> 
-            </div>
-            <div class="col-lg-4">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ph_seal_ncr_manila.svg/1200px-Ph_seal_ncr_manila.svg.png" style="height: 15%">
-            </div>
-        </div>
       </div>
   </div>
 </div>
