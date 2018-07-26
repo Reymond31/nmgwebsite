@@ -162,6 +162,7 @@ p.y{
 img{
   opacity: 0.9;
 }
+
 @media screen and (max-width:375px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
 	#landingpage{
 		background: url('../img/onese.jpg');
