@@ -24,8 +24,8 @@
 	<script src="<?php echo base_url("assets/js/fontawesome.min.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/bootstrap.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/bootstrap.min.js")?>"></script>
-	<script src="<?php echo base_url("assets/js/jquery-1.6.2.js")?>"></script>
 	<script src="<?php echo base_url("assets/js/jquery-3.3.1.min.js")?>"></script>
+	<script src="<?php echo base_url("assets/js/jquery-1.6.2.js")?>"></script>
 	<style>
 	#more {display: none;}
 	</style>

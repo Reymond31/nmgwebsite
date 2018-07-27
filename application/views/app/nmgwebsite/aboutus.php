@@ -1,4 +1,5 @@
 <div id="aboutus">
+  <div class="container-fluid background-1">
   <div class="container">
     <div class="row">
       <div class="col-lg-5">
@@ -9,9 +10,46 @@
         <div class="grid-container">
           <div class="grid-item2"> 
             Founded in 2006, NMG I.T. Outsourcing Philippines is a Danish and Filipino owned product and software development outsourcing company that aims to deliver high quality and cost effective Internet products and services. It caps the production of dynamic and interactive websites and Internet Intranet applications, as it also renders superior and inventive services from Information Systems maintenance to offshore web staffing.
-          </div> 
+          </div>
         </div>
       </div>
-      </div>  
+    </div>
   </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <p class="clients">OUR CLIENTS</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-4">
+        <img src="<?php echo base_url("assets/img/jollibee.png")?>" class="client-logo">
+        <p class="captions">Jolibee Foods Corp.</p>
+      </div>
+      <div class="col-lg-4">
+        <img src="<?php echo base_url("assets/img/DOLE.png")?>" class="client-logo">
+        <p class="captions">Department of Labor and Employment - Philippines</p>
+      </div>
+      <div class="col-lg-4">
+        <img src="<?php echo base_url("assets/img/MANILA.png")?>" class="client-logo">
+         <p class="captions">City of Manila, Philippines</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-4">
+        <img src="<?php echo base_url("assets/img/UNITEDNATIONS.png")?>" class="client-logo undp">
+         <p class="captions">United Nations Development Programme</p>
+      </div>
+      <div class="col-lg-4">
+        <img src="<?php echo base_url("assets/img/ILO.png")?>" class="client-logo ilo">
+         <p class="captions captions-other">International Labour Organization</p>
+      </div>
+      <div class="col-lg-4">
+        <img src="<?php echo base_url("assets/img/trendmicro.png")?>" class="client-logo microtrend">
+         <p class="captions captions-other">Trend Micro</p>
+      </div>
+    </div>
+  </div>  
 </div>
+</div>
+<div class="parallax-nmg"></div>
