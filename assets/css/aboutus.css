@@ -3,8 +3,10 @@
 	padding: 0px;
 }
 .background-1{
-	background-image: url('/assets/img/background-1.jpg');
+	background-color: #e2fffc;
 	height: 1200px;
+	object-fit: cover;
+	 background-position: left center;
 }
 .parallax-nmg{
   background: url('../img/nmg-parallax.jpg');
@@ -70,7 +72,7 @@
     text-align: center;
     font-size: 15px;
     background-color: white;
-    margin-top: 26px;
+    margin-top: 83px;
     margin-left: 39px;
 }
 .item2 {
@@ -94,11 +96,11 @@
 }
 .clients{
 	text-align: center;
-    font-weight: 100;
-    font-size: 36px;
-    margin-top: 60px;
-    margin-bottom: 60px;
-    letter-spacing: 6px
+	font-weight: 900;
+	font-size: 43px;
+	margin-top:25px;
+	margin-bottom: 5%;
+	letter-spacing: 3px;
 }
 .client-logo{
 	max-width: 100%;
