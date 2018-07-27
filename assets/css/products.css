@@ -13,7 +13,7 @@ h1.pro{
 }
 p.z{
   color: white;
-  font-size: 15px;
+  font-size: 13px;
   text-align: justify;
   padding-top: 30px;
   margin-left: 30px;
@@ -46,7 +46,7 @@ p.y{
 
 #products{
 	height: 1700px;
-	background:url('/assets/img/products3.png');
+	background:url('https://www.123freevectors.com/wp-content/original/2696-geometric-polygon-dark-blue-background-template.jpg');
 	background-attachment: fixed ;
   background-position: center;
   background-repeat: no-repeat;
@@ -71,11 +71,12 @@ p.y{
   height: 280px;
 }
 .product-site-left{
-	width: 530px;
+	width: 400px;
   height: 280px;
+
 }
 .product-title-left{
-	width: 530px;
+	width: 400px;
   height: 280px;
 }
 .product-site-right{
@@ -83,26 +84,27 @@ p.y{
   height: 280px;
 }
 .product-title-right{
-  width: 530px;
+  width: 400px;
   height: 280px;
 }
 .heffy{
 	background-color:#00e68a;
-  margin-left: 40px;
+  margin-left: 170px;
+  width: 400px;
 }
 .textsupport{
   background-color:#ffcc66;
 }
 .bes{
   background-color:#99ccff; 
-  margin-left: 40px;
+  margin-left: 170px;
 }
 .cress{
   background-color: #ff6666;
 }
 .payroll{
   background-color: #d2a679;
-  margin-left: 40px;
+  margin-left: 170px;
 }
 .no-padding{
 	padding-left: 0px;
@@ -115,6 +117,7 @@ p.y{
   width: 530px;
   height: 280px;
   z-index: 1;
+  width: 400px;
 }
 #f1_container {
   perspective: 1000;
@@ -130,10 +133,10 @@ p.y{
 }
 #f2_container {
   position: relative;
-  width: 530px;
   height: 280px;
   z-index: 1;
-  margin-left: 40px;
+  margin-left: 170px;
+  width: 400px;
 }
 #f2_container {
   perspective: 1000;
