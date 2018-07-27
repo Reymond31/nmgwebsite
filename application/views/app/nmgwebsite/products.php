@@ -114,5 +114,5 @@
 		</div>
 	</div>
 </div>
-<div class="parallax-products"></div>
+
 
