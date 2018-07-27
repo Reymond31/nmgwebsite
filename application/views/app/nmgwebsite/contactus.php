@@ -3,11 +3,11 @@
 		<div class="container">
 			<div class="col-lg-7">				
 				<h2 class="head"> Any Inquries?</h2>
-					<span class="labelscontact">Name:</span>
+					<span class="labelscontact"><b>Name:</b></span>
 						<input type="text" placeholder="Your name" class="name">
-					<span class="labelscontact"><br>Email:</span>
+					<span class="labelscontact"><br><b>Email:</b></span>
 						<input type="email" placeholder="thisisyou@example.com" class="email">
-					<span class="labelscontact"><br>Subject: </span>
+					<span class="labelscontact"><br><b>Subject:</b></span>
 					<select class="option">
 						<option> -select subject- </option>
 						<option> General Inquiry </option>
@@ -15,8 +15,8 @@
 						<option> Internship </option>
 						<option> Job Application </option>
 					</select>
-					<span class="labelscontact"><br>Message: <br></span>
-					<textarea placeholder="Enter message here."></textarea>
+					<span class="labelscontact"><br><b>Message:</b><br></span>
+					<textarea placeholder="Enter your message here...."></textarea>
 		     	<button type="button" class="button" style="vertical-align:"><span>SUBMIT</span></button>
 		     </div>
 		      <div class="col-lg-5">
