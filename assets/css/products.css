@@ -70,7 +70,6 @@ p.y{
 .product-site-left{
 	width: 400px;
   height: 280px;
-
 }
 .product-title-left{
 	width: 400px;
@@ -111,6 +110,7 @@ p.y{
 }
 #f1_container {
   position: relative;
+  background-size: contain;
   width: 530px;
   height: 280px;
   z-index: 1;
@@ -167,6 +167,13 @@ p.y{
 img{
   opacity: 0.9;
 }
+.icon-chevron-left:before {
+    margin-top: 200px;
+}
+.icon-chevron-right:before {
+    margin-top: 200px;
+}
+
 
 @media screen and (max-width:375px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
 	#landingpage{

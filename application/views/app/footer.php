@@ -1,4 +1,3 @@
-
 <script>
 $(window).scroll(function(){
     $('nav').toggleClass('scrolled', $(this).scrollTop() > 50);
@@ -40,6 +39,7 @@ $(document).ready(function(){
         });
     },1000);  
 });
+
 AOS.init();
 </script>
 </body>
