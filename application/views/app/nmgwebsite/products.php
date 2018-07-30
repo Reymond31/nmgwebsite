@@ -17,9 +17,7 @@
   							</div>
  							<div class="back face center">
     							<p class="z">Established in 2014, Heffy is a complete platform used to bring the hard-bound yearbook to the digital age. Schools and universities subscribe to Heffy, and manage everything from student registration to pictorial scheduling. Students are able to download the free mobile app, log in and view their images.
-    							<button type="text" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
-  Launch demo modal
-</button>
+    							<center><button type="text" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Launch demo modal</button></center>
 
 <!-- Modal -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
