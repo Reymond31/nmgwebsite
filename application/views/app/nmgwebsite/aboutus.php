@@ -1,21 +1,23 @@
 <div id="aboutus">
-  <div class="container-fluid background-1">
+  <section class="background">
+  <div class="container-fluid">
   <div class="container">
     <div class="row">
       <div class="col-lg-5">
-        <p class="big" >We Are</p><br>
-        <p class="small">NMG</p>
+        <p class="big" >WHO WE</p><br>
+        <p class="small">ARE?</p>
       </div>
       <div class="col-lg-7">
-        <div class="grid-container">
-          <div class="grid-item2"> 
-            Founded in 2006, NMG I.T. Outsourcing Philippines is a Danish and Filipino owned product and software development outsourcing company that aims to deliver high quality and cost effective Internet products and services. It caps the production of dynamic and interactive websites and Internet Intranet applications, as it also renders superior and inventive services from Information Systems maintenance to offshore web staffing.
+            <div class="grid-item2"> 
+            Founded in 2006, NMG Resources Inc. started as a custom software development company. In the last decade, NMG has provided targeted software solutions across multiple industries including government and enterprise entities, both local and international. NMG’s services encompass application development for desktop, web, mobile and server solutions. The company has also established a growing in-house portfolio of products developed for the end-user market, providing consulting services to multinational firms ranging from technology expertise to enterprise-level project management.
           </div>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="container">
+     </div>
+</section>
+
+  <div class="container overlays">
+     <img src="assets/img/aboutus3.png" id="stroke">
     <div class="row">
       <div class="col-lg-12">
         <p class="clients">OUR CLIENTS</p>
@@ -51,5 +53,5 @@
     </div>
   </div>  
 </div>
+
 </div>
-<div class="parallax-nmg"></div>

@@ -1,23 +1,30 @@
 #aboutus {
 	height: 1200px;
 	padding: 0px;
-}
-.background-1{
-	background-color: #fff;
-	height: 1200px;
-	object-fit: cover;
-	 background-position: left center;
-}
-.parallax-nmg{
-  background: url('../img/nmg-parallax.jpg');
-  background-attachment: fixed ;
-  background-position: top right;
+	background:url('../img/three.jpg');
+	background-attachment: fixed ;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 600px;
-  padding: 0px;
-  width:99.9%;
 }
+.background{
+
+	object-fit: cover;
+	 background-position: left center;
+	 background-color:#59c5f0;
+}
+#stroke{
+	height:6%;
+	width:100%;
+	opacity: 1;
+}
+.overlays {
+    background: rgba(0,0,0,0.6);
+    position: absolute;
+    width: 100%;
+    height: 853px;
+}
+
 .col-lg-5{
 	padding-left: 0;
 	padding-right: 0;
@@ -26,25 +33,25 @@
 	text-rendering: optimizeLegibility;
 }
 .big {
-	margin-top: -3px;
+	
     margin-left: 56px;
-    font-size: 100px;
-    padding-top: 80px;
+    font-size: 80px;
+    padding-top: 12px;
     color: black;
     float: left;
-    font-family: ;
+    font-family: Arial;
     font-weight: bold;
 }
 .small{
 	margin-top: -156px;
     margin-left: 116px;
-    font-size: 147px;
+    font-size: 135px;
     padding-top: 80px;
-    color: black;
+    color: #d1e8ff;
     float: left;
-    font-family: ;
     font-weight: bold;
-}
+    margin-bottom: 20px;
+  }
 .collapse{
 	padding-left: 30px;
 	font-size: 15px;
@@ -58,23 +65,7 @@
 	color: black;
 }
 
-.grid-container {
-	margin-top: 50px;
-	display: grid;
-	grid-template-columns: auto auto auto auto;
-	grid-gap: 10px;
-	padding: 10px;
 
-}
-.grid-container > div {
-	border-radius: 20px;
-    height: 250px;
-    text-align: center;
-    font-size: 15px;
-    background-color: white;
-    margin-top: 83px;
-    margin-left: 39px;
-}
 .item2 {
 	grid-column: 1 / span 2;
 	grid-row: 1;
@@ -84,47 +75,54 @@
 	padding-top:40px;
 	padding-left: 30px;
 	padding-right: 30px;
-	font-size: 15px;
-	letter-spacing: 2px;
+	margin-top: 67px;
+	margin-bottom: 58px;
+	font-size: 16px;
+	letter-spacing: ;
 	text-align: justify;
-	color:#5a5b5b;
+	color:black;
 	float:right;
-	font-family: Raleway, sans-serif;
+	font-family: Arial;
 	font-weight: normal;
 	padding-bottom: 3px; 
-	color: black;
+	
 }
 .clients{
 	text-align: center;
-	font-weight: 900;
+	font-weight: normal;
 	font-size: 43px;
 	margin-top:25px;
 	margin-bottom: 5%;
 	letter-spacing: 3px;
+	color: white ;
+	font-family: Montserrat, "Open Sans", Arial, sans-serif;
+
 }
 .client-logo{
 	max-width: 100%;
     height: 150px;
-    margin: 0 0 0 99px;;
+    margin: 0 0 0 125px;
 }
 .undp{
-	margin-left: 132px;
+	margin-left: 154px;
     height: 200px;
     margin-top: 50px;
 }
 .ilo{
-	margin-left: 73px;
+	margin-left: 96px;
     margin-top: 50px
 }
 .microtrend{
-	margin-left: 105px;
+	margin-left: 133px;
     margin-top: 50px;
 }
 .captions{
-	font-size: 20px;
-	font-weight: bold;
+	font-size: 18px;
 	text-align: center;
+	letter-spacing: 2px;
 	margin: 20px 20px 20px 20px;
+	color:white;
+	font-family: Montserrat, "Open Sans", Arial, sans-serif;
 }
 .captions-other{
 	margin-top: 70px;
