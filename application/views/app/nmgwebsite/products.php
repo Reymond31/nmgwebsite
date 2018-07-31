@@ -54,7 +54,8 @@
   						</a>
   						<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
     						<i class="icon-chevron-right"></i>
- 						</a>
+                <button data-dismiss="modal" class="close"><img src="<?php echo base_url("assets/img/closebuts.png")?>" class="close-button"></button>
+              </a>
 					</div>
     			</div>
   			</div>
@@ -111,7 +112,7 @@
               </a>
               <a class="right carousel-control" href="#carousel-example-generic-txtsuppport" role="button" data-slide="next">
                 <i class="icon-chevron-right"></i>
-               <button data-dismiss="modal" class="close"><img src="<?php echo base_url("assets/img/closebuts.png")?>" class="close-button"></button>
+                <button data-dismiss="modal" class="close"><img src="<?php echo base_url("assets/img/closebuts.png")?>" class="close-button"></button>
             </a>
           </div>
           </div>
