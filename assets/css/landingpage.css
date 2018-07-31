@@ -198,8 +198,7 @@ body{
     background-color: #000;
     color: #FFF;
     text-align: center;
-    max-height: 200px;
-
+    height: 50px;
 }
 
 @media screen and (max-width:375px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
@@ -207,7 +206,6 @@ body{
 		background: url('../img/onese.jpg');
 		background-attachment: fixed ;
     	background-repeat: no-repeat;
-    	
     	height: 680px;
     	padding: 0px;
     	min-width: 100%;
