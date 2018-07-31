@@ -184,11 +184,45 @@
   							</div>
  							 <div class="back face center">
     							<p class="z">Upon the request of the City of Manila, CReSS was developed to help streamline and automate the document management tasks of the City Hall. With over 30 million digital records and growing, CReSS has transformed the operations of City Hall. As a product of NMG, CReSS is currently being marketed to other government agencies. </p>
+                  <a href="#" data-toggle="modal" data-target=".bs-example-modal-lg">Take a tour?</a>
 
   							</div>
 						</div>
 					</div>
 				</div>
+        <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+              <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="item active">
+                    <img class="img-responsive" src="<?php echo base_url("textsupport.PNG")?>" alt="heffy-1">
+                    <div class="carousel-caption">
+                      One Image
+                    </div>
+                </div>
+                <div class="item">
+                    <img class="img-responsive" src="<?php echo base_url("assets/img/heffy-2.jpg")?>" alt="heffy-2">
+                    <div class="carousel-caption">
+                      Another Image
+                    </div>
+                </div>
+                <div class="item">
+                    <img class="img-responsive" src="<?php echo base_url("assets/img/heffy-3.jpg")?>" alt="heffy-3">
+                    <div class="carousel-caption">
+                      Another Image
+                    </div>
+                </div>
+              </div>
+              <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                <i class="icon-chevron-left"></i>
+              </a>
+              <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                <i class="icon-chevron-right"></i>
+            </a>
+          </div>
+          </div>
+        </div>
 				<div class="col-lg-6 col-xs-6 no-padding">
 					<div class="cress product-title-left">
 						<p class="x">CReSS </p>
