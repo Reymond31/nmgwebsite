@@ -200,6 +200,7 @@ body{
     color: #FFF;
     text-align: center;
     height: 50px;
+    padding-top: 15px;
 }
 
 @media screen and (max-width:375px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
