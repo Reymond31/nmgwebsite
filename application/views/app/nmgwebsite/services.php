@@ -1,6 +1,3 @@
-<div id="servic">
-        </div>
-
 <section id="service" >
 	<div class="row ">
 		<div class="container">
@@ -42,4 +39,5 @@
 			</div>
 		</div>
 	</div>
+	<div id="prod">
 </section>

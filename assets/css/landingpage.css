@@ -1,7 +1,9 @@
 body{
 	font-family: 'Raleway', sans-serif;
 }
-
+#about{
+    margin-top: 168px;
+}
 #landingpage{
 	background: url('../img/onese.jpg');
 	background-attachment: fixed ;
