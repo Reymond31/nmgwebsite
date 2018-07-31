@@ -178,7 +178,11 @@ img{
 .icon-chevron-right:before {
     margin-top: 200px;
 }
-
+.close-button{
+  margin-top: 4px;
+  height: 30px;
+  width: 30px
+}
 
 @media screen and (max-width:375px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
 	#landingpage{

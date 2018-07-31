@@ -33,7 +33,7 @@
         </div>
         <div class="col-lg-4">
           <img src="<?php echo base_url("assets/img/MANILA.png")?>" class="client-logo">
-          <p class="captions">City of Manila, Philippines</p>
+          <p class="captions">City of Manila, <br>Philippines</p>
         </div>
       </div>
       <div class="row">
