@@ -1,5 +1,8 @@
 <div id="landingpage">
-	<div class="overlay">
+	<div class="video-overlay"></div>
+	<video autoplay muted loop id="myVideo">
+			<source src="<?php echo base_url("assets/img/Webdesign.mp4")?>" type="video/mp4">
+		</video>
 	<div class="container-fluid">
 		<nav class ="navbar navbar-default navbar-fixed-top" role= "navigation">
 			<div class="container">
@@ -17,8 +20,7 @@
 			</div>
 		</nav>
 	</div>
-	</div>
-	<div class="container">
+	<div class="text-copy">
 		<div class="welcome">
 			<div class="row">
 				<div class="col-lg-12 col-xs-12">
