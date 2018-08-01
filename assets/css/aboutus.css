@@ -1,5 +1,5 @@
 #aboutus {
-	height: 1358px;
+	height: 1355px;
 	padding: 0px;
 	background:url('../img/three.jpg');
 	background-attachment: fixed ;
@@ -16,6 +16,11 @@
 }
 #stroke{
 	height:6%;
+	width:100%;
+	opacity: 1;
+}
+#strokes{
+	height:60px;
 	width:100%;
 	opacity: 1;
 }
