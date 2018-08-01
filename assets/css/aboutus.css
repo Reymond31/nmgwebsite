@@ -12,6 +12,7 @@
 	object-fit: cover;
 	background-position: left center;
 	background-color:#59c5f0;
+	height: 35%;
 }
 #stroke{
 	height:6%;
@@ -77,7 +78,7 @@
 	padding-right: 30px;
 	margin-top: 67px;
 	margin-bottom: 58px;
-	font-size: 16px;
+	font-size: 19px;
 	letter-spacing: ;
 	text-align: justify;
 	color:black;
@@ -95,6 +96,7 @@
 	margin-bottom: 5%;
 	letter-spacing: 3px;
 	color: white ;
+	margin-top: 15px;
 	font-family: Montserrat, "Open Sans", Arial, sans-serif;
 
 }

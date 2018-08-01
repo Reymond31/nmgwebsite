@@ -9,10 +9,10 @@
           </div>
             <div class="col-lg-7">
               <div class="grid-item2"> 
-              Founded in 2006, NMG Resources Inc. started as a custom software development company. In the last decade. NMG has provided targeted software solutions across multiple industries including government and enterprise entities, both local, and international. NMG’s services encompass application development for desktop, web, mobile, and server solutions. The company has also established a growing in-house portfolio of products developed for the end-user market, providing consulting services to multinational firms ranging from technology expertise to enterprise-level project management.
+              Founded in 2006, NMG I.T. Outsourcing Philippines  started as a custom software development company. In the last decade. NMG has provided targeted software solutions across multiple industries including government and enterprise entities, both local, and international. NMG’s services encompass application development for desktop, web, mobile, and server solutions. The company has also established a growing in-house portfolio of products developed for the end-user market, providing consulting services to multinational firms ranging from technology expertise to <br>enterprise-level project management.
               </div>
             </div>
-          </div>
+            </div>
         </div>
     </section>
       <div class="container overlays">
@@ -51,7 +51,7 @@
         </div>
       </div>
       <div id="svc"></div> 
-    </div>
+      </div>
   </div>
   </div>
 </div>
