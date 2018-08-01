@@ -29,6 +29,7 @@
 .col-lg-5{
 	padding-left: 0;
 	padding-right: 0;
+	margin-top: 50px;
 }
 .col-lg-7{
 	text-rendering: optimizeLegibility;
@@ -74,7 +75,7 @@
 
 .grid-item2 {
 	padding-top:40px;
-	margin-top: 67px;
+	margin-top: 110px;
 	margin-bottom: 58px;
 	font-size: 19px;
 	letter-spacing: ;
