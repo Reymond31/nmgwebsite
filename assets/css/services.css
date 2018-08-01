@@ -1,9 +1,12 @@
 #service{
 	padding-top: 0px;
-	margin-bottom: 80px;
 	margin-top:0px;
 	height: 780px;
- }
+	background-color:#59c5f0;
+}
+#prod{
+	background-color:#59c5f0;
+}
 .row{
 	margin:0;
 }
@@ -63,28 +66,28 @@ p.expasi{
 img.laptop{
 	margin-bottom: 15px;
     margin-left: 82px;
-    height: 146px;
-    width: 178px;
+    height: 140px;
+    width: 160px;
 }
 img.pen1{
-	height: 143px;
-    width: 141px;
+	height: 136px;
+    width: 135px;
     margin-bottom: 19px;
     margin-left: 94px;
 }
 img.phone{
-	height: 145px;
+	height: 135px;
     margin-bottom: 15px;
     margin-left: 82px;
  }
 img.staff{
 	margin-left: 238px;
-    height: 156px;
+    height: 150px;
     margin-top:45px;
 }
 img.tech{
-	height: 143px;
-    width: 157px;
+	height: 130px;
+    width: 150px;
     margin-left: 117px;
     margin-bottom: 4px;
     margin-top: 45px;
@@ -93,22 +96,8 @@ p.head{
 	text-align: center;
 	font-weight: 900;
 	font-size: 43px;
-	margin-top:25px;
+	margin-top:67px;
 	margin-bottom: 5%;
 	letter-spacing: 3px;
-	}
-img.scan{
-	height: 206px;
-    width: 59%;
-	padding-top: 40px;
-	position: absolute;
-    margin-top: 120px;
-    margin-left: 65px;
-    padding-left: 49px;
-    padding-bottom: 15px;
-    padding-right: 40px;
-  }
-
-#servic{
-	height:100px;
+	font-family: Arial;
 }
