@@ -50,10 +50,7 @@
           <p class="captions captions-other">Trend Micro</p>
         </div>
       </div>
-      <div class="row">
-               <img src="assets/img/aboutus2.png" id="strokes">
-      </div>
-      <div id="svc"></div> 
+        <div id="svc"></div> 
       </div>
       </div>
   </div>

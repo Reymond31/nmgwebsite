@@ -1,8 +1,8 @@
 #service{
 	padding-top: 0px;
 	margin-top:0px;
-	height: 780px;
-	background-color:#59c5f0;
+	height: 710px;
+	background-color:#f7f7f7;
 }
 #prod{
 	background-color:#59c5f0;
@@ -16,88 +16,99 @@
 .container{
 	position: relative;
 }
-p.expa{
-	font-size:12px;
-	letter-spacing: 1px;
-	text-align: center;
-	color:black;
-	margin-top: 5px;
-}
-p.a{
-	font-size: 19px;
-	text-align: center;
-	color:black; 
-	letter-spacing: 2px;
-}
-p.ab{
-	font-size: 19px;
-	text-align: center;
-	color:black; 
-	letter-spacing: 2px;
-	margin-left: 122px;
-}
-p.abc{
-	font-size: 19px;
-	text-align: center;
-	color:black; 
-	margin-left: 36px;
-	letter-spacing: 2px;
-	width:354px;
-}
-p.expas{
-	font-size:12px;
-	letter-spacing: 1px;
-	text-align: center;
-	color:black;
-	margin-top: 5px;
-    margin-left: 135px;
-}
-p.expasi{
-	font-size:12px;
-	letter-spacing: 1px;
-	text-align: center;
-	color:black;
-	margin-top: 5px;
-	margin-left: 39px;
-    width: 356px;
-    padding-left: 0px;
-}
 
 img.laptop{
-	margin-bottom: 15px;
+	margin-bottom: 0px;
     margin-left: 90px;
-    height: 140px;
-    width: 160px;
+    height: 112px;
+    width: 128px;
+    margin-top:140px;
 }
 img.pen1{
-	height: 136px;
-    width: 135px;
-    margin-bottom: 19px;
-    margin-left: 120px;
+	height: 108px;
+    width: 106px;
+    margin-bottom: 9px;
+    margin-left: 35px;
+    margin-top:32px;
+}
+
+.col-lg-4{
+	padding-left: 0px;
+    padding-right: 35px;
+    text-align: justify;
+}
+.col-lg-5 {
+	margin-top:10px;
 }
 img.phone{
-	height: 135px;
-    margin-bottom: 15px;
-    margin-left: 108px;
+	margin-left: 0px;
+    height: 115px;
+    margin-top: 25px;
+    margin-bottom: 5px;
  }
 img.staff{
-	margin-left: 250px;
-    height: 150px;
-    margin-top:45px;
+	margin-top:45px;
+    margin-left: 35px;
+    height: 115px;
+    width: 120px;
 }
 img.tech{
-	height: 130px;
-    width: 150px;
-    margin-left: 141px;
+	height: 98px;
+    width: 115px;
     margin-bottom: 4px;
-    margin-top: 45px;
+    margin-top: 53px;
 }
 p.head{
-	text-align: center;
-	font-weight: 900;
-	font-size: 43px;
-	margin-top:67px;
-	margin-bottom: 5%;
-	letter-spacing: 3px;
-	font-family: Arial;
+	margin-left: 39px;
+    font-size: 80px;
+    padding-top: 12px;
+    color: black;
+    float: left;
+    font-family: Arial;
+    font-weight: bold;
+	margin-bottom: 0;
+}
+p.heads{
+	margin-top: -156px;
+    margin-left: 116px;
+    font-size: 90px;
+    padding-top: 80px;
+    color: #19d2d2;
+    float: left;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+p.laptop1{
+	margin-top: 157px;
+	margin-bottom: 3px;
+	font-weight: bold;
+
+}
+p.staff1{
+	margin-top: 63px;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+p.tech1{
+	margin-top: 63px;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+p.mobile1{
+	margin-top:30px;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+p.pen2{
+	padding-right: 32px;
+    margin-top: 35px;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+p.pen3{
+	text-align: justify;
+	width:312px;
+}
+p.staff2{
+	width:315px;
 }

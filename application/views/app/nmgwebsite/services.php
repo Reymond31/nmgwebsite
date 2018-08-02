@@ -1,41 +1,48 @@
 <section id="service" >
-	<div class="row ">
-		<div class="container">
-			<div class="col-lg-12">
-				<p class="head">SERVICES OFFERED</p>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-5">
+				<p class="head">WHAT</p><br>
+				<p class="heads"> WE DO?</p>
+			</div>
+			<div class="col-lg-3">
+				<img src="assets/img/monitorsh.png" class="laptop">
+			</div>
+			<div class="col-lg-4">
+				<p class="laptop1">Desktop Application Development</p>
+				<p class="laptop2">Custom application development using Java/.Net. Applications range from client-server monitoring systems to full CRM suites.</p>
 			</div>
 		</div>
-	</div>
-	<div class="row">
-		<div class="container">
-			<div class="col-lg-4">
-				<img src="assets/img/monitor.png" class="laptop">
-				<p class="a">Desktop Application Development</p>
-				<p class="expa">Custom application development using Java/.Net. Applications range from client-server monitoring systems to full CRM suites.</p>
+		<div class="row">
+			<div class="col-lg-2">
+				<img src="assets/img/penfinal.png" class="pen1">
 			</div>
 			<div class="col-lg-4">
-				<img src="assets/img/pen1.png" class="pen1">
-				<p class="a">Web App Design and Development</p>	
-				<p class="expa">PHP/nodeJS custom development, including relevant database solutions. Applications are built using modern frameworks and industry leading scalability.</p>
+				<p class="pen2">Web App Design and Development</p>	
+				<p class="pen3">PHP/nodeJS custom development, including relevant database solutions. Applications are built using modern frameworks and industry leading scalability.</p>
+			</div>
+			<div class="col-lg-2">
+				<img src="assets/img/mobilesh.png" class="phone">
 			</div>
 			<div class="col-lg-4">
-				<img src="assets/img/phone.png" class="phone">
-				<p class="a">Mobile Application for Android and iOS</p>
-				<p class="expa">Designing and development of both native and cross platform mobile applications. Applications backends are also designed with web-based management portals aligned to customer requirements.</p>
+				<p class="mobile1">Mobile Application for Android and iOS</p>
+				<p class="mobile2">Designing and development of both native and cross platform mobile applications. Applications backends are also designed with web-based management portals aligned to customer requirements.</p>
 			</div>
 		</div>
-	</div>
-	<div class="row">
-		<div class="container">
-			<div class="col-lg-6">	
-				<img src="assets/img/staff.png" class="staff">
-				<p class="ab">Staff Augmentation</p>
- 				<p class="expas">Providing experienced developers and database administrators to local industries, managed for specific requirements of the business.</p>
+		<div class="row">
+			<div class="col-lg-2">	
+				<img src="assets/img/staffs.png" class="staff">
+			</div>
+			<div class="col-lg-4">	
+				<p class="staff1">Staff Augmentation</p>
+ 				<p class="staff2">Providing experienced developers and database administrators to local industries, managed for specific requirements of the business.</p>
  			</div>
-			<div class="col-lg-6">	
-				<img src="assets/img/tech.jpg" class="tech">
-				<p class="abc">Technology & Management Consulting</p>
- 				<p class="expasi">Specialist consulting services focused on requirements analysis, system design and project management, delivered to enterprise-level clients.</p>
+			<div class="col-lg-2">	
+				<img src="assets/img/techs.png" class="tech">
+			</div>
+			<div class="col-lg-4">	
+				<p class="tech1">Technology & Management Consulting</p>
+ 				<p class="tech2">Specialist consulting services focused on requirements analysis, system design and project management, delivered to enterprise-level clients.</p>
 			</div>
 		</div>
 	</div>
