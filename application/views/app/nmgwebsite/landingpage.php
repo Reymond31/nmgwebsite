@@ -21,15 +21,16 @@
 		</nav>
 	</div>
 	<div class="text-copy">
+		<a href="#landingpage"><img src="<?php echo base_url("assets/img/logo.png")?>" class="logo-1"></a>
 		<div class="welcome">
 			<div class="row">
-				<div class="col-lg-12 col-xs-12">
+				<div class="col-lg-8 col-xs-8">
 					<span class = "nmg"> NMG</span>RESOURCES INC.
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-lg-6 col-xs-6">
-					<p class="exp">EXPERTISE ON</p>
+					<p class="exp">EXPERTISE ON DEMAND</p>
 				</div>
 				<div class="col-lg-6 col-xs-6">
 					<div id="testimonials">
