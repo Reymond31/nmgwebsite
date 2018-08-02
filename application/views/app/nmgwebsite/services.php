@@ -6,7 +6,7 @@
 				<p class="heads"> WE DO?</p>
 			</div>
 			<div class="col-lg-3">
-				<img src="assets/img/monitorsh.png" class="laptop">
+				<img src="assets/img/monitorshi.png" class="laptop">
 			</div>
 			<div class="col-lg-4">
 				<p class="laptop1">Desktop Application Development</p>
@@ -22,7 +22,7 @@
 				<p class="pen3">PHP/nodeJS custom development, including relevant database solutions. Applications are built using modern frameworks and industry leading scalability.</p>
 			</div>
 			<div class="col-lg-2">
-				<img src="assets/img/mobilesh.png" class="phone">
+				<img src="assets/img/phonesh.png" class="phone">
 			</div>
 			<div class="col-lg-4">
 				<p class="mobile1">Mobile Application for Android and iOS</p>
