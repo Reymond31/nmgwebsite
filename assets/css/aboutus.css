@@ -89,14 +89,13 @@
 }
 .clients{
 	text-align: center;
-	font-weight: normal;
+	font-weight: 900;
 	font-size: 43px;
-	margin-top:25px;
+	margin-top:120px;
 	margin-bottom: 5%;
 	letter-spacing: 3px;
-	color: white ;
-	margin-top: 70px;
-	font-family: Montserrat, "Open Sans", Arial, sans-serif;
+	font-family: Arial;
+	color: white;
 
 }
 .client-logo{
@@ -131,10 +130,9 @@
 h1{
 	margin-bottom: 20px;
 }
+
 @media screen and (min-width: 640px) {
 	article {
 		max-height: 12em;
 	}
 }
-
-F
