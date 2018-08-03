@@ -39,7 +39,7 @@
       <div class="row">
        <div class="col-lg-4">
           <img src="<?php echo base_url("assets/img/UNITEDNATIONS.png")?>" class="client-logo undp">
-          <p class="captions"><b>United Nations Development Programme</b></p>
+          <p class="captions captions-other"><b>United Nations Development Programme</b></p>
         </div>
         <div class="col-lg-4">
           <img src="<?php echo base_url("assets/img/ILO.png")?>" class="client-logo ilo">
