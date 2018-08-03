@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-lg-5">
 				<p class="head">WHAT</p><br>
-				<p class="heads"> WE DO?</p>
+				<p class="heads">WE DO?</p>
 			</div>
 			<div class="col-lg-3">
 				<img src="assets/img/monitorshi.png" class="laptop">
