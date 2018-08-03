@@ -32,11 +32,6 @@ img.pen1{
     margin-top:32px;
 }
 
-.col-lg-4{
-	padding-left: 0px;
-    padding-right: 35px;
-    text-align: justify;
-}
 .col-lg-5 {
 	margin-top:10px;
 	padding-top: 40px;
@@ -80,7 +75,6 @@ p.heads{
     margin-bottom: 0px;
     font-family:Arial;
     width:370px;
-
 }
 p.laptop1{
 	margin-top: 125px;
@@ -115,4 +109,8 @@ p.pen3{
 }
 p.staff2{
 	width:315px;
+	text-align: justify;
+}
+ p.tech2, p.mobile2, p.laptop2{
+	text-align: justify;
 }
