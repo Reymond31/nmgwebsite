@@ -14,9 +14,11 @@ $(window).ready(function() {
     
 $(window).scroll(function() {
     if ($(this).scrollTop() >= 200) {        // If page is scrolled more than 50px
-        $('#return-to-top').fadeIn();    // Fade in the arrow
+        $('#return-to-top').fadeIn();
+        $('#down-to-scroll').fadeOut();    // Fade in the arrow
     } else {
-        $('#return-to-top').fadeOut();   // Else fade out the arrow
+        $('#return-to-top').fadeOut();
+        $('#down-to-scroll').fadeIn();   // Else fade out the arrow
     }
     });
     $('#return-to-top').click(function() {      // When arrow is clicked
@@ -24,6 +26,31 @@ $(window).scroll(function() {
         scrollTop : 0                       // Scroll to top of body
     }, 500);
 });
+
+$(window).ready(function() {
+    if ($(this).scrollTop() > 0) {        // If page is scrolled more than 50px
+            $('#scroll-down').fadeIn();    // Fade in the arrow
+        } 
+        else {
+            $('#scroll-down').fadeIn();   // Else fade out the arrow
+        }
+    });
+
+    
+$(window).scroll(function() {
+    if ($(this).scrollTop() >= 200) {        // If page is scrolled more than 50px
+        $('#scroll-up').fadeIn();
+        $('#scroll-down').fadeOut();    // Fade in the arrow
+    } else {
+        $('#scroll-up').fadeOut();
+        $('#scroll-down').fadeIn();   // Else fade out the arrow
+    }
+    });
+    $('#scroll-up').click(function() {      // When arrow is clicked
+    $('body,html').animate({
+        scrollTop : 0                       // Scroll to top of body
+    }, 500);
+});    
 
 // $(document).ready(function(){
 //     $('#firstSlide').fadeIn();

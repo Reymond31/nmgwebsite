@@ -49,8 +49,14 @@
             		</div>
 				</div>
 				<div class="arrow-down">
-					<a href="#aboutus" id="down-to-scroll"><i class="icon-chevron-down"></i></a>
-					<a href="#landingpage" id="return-to-top"><i class="icon-chevron-up"></i></a>
+					<a href="#aboutus" id="down-to-scroll" class="icon-long-arrow-down"></a>
+					<div id="scroll-down">
+						<p>Scroll Down</p>
+					</div>
+					<a href="#landingpage" id="return-to-top" class="icon-long-arrow-up"></a>
+					<div id="scroll-up">
+						<p>Scroll Up</p>
+					</div>
 				</div>
 			</div>
 		</div>
