@@ -25,29 +25,29 @@
       <div class="row">
         <div class="col-lg-4">
           <img src="<?php echo base_url("assets/img/jollibee.png")?>" class="client-logo">
-          <p class="captions">Jolibee Foods Corp.</p>
+          <p class="captions"><b>Jolibee Foods Corp.</b></p>
         </div>
         <div class="col-lg-4">
           <img src="<?php echo base_url("assets/img/DOLE.png")?>" class="client-logo">
-          <p class="captions">Department of Labor and Employment - Philippines</p>
+          <p class="captions"><b>Department of Labor and Employment - Philippines</b></p>
         </div>
         <div class="col-lg-4">
           <img src="<?php echo base_url("assets/img/MANILA.png")?>" class="client-logo">
-          <p class="captions">City of Manila, <br>Philippines</p>
+          <p class="captions"><b>City of Manila,<br>Philippines</b></p>
         </div>
       </div>
       <div class="row">
        <div class="col-lg-4">
           <img src="<?php echo base_url("assets/img/UNITEDNATIONS.png")?>" class="client-logo undp">
-          <p class="captions">United Nations Development Programme</p>
+          <p class="captions"><b>United Nations Development Programme</b></p>
         </div>
         <div class="col-lg-4">
           <img src="<?php echo base_url("assets/img/ILO.png")?>" class="client-logo ilo">
-          <p class="captions captions-other">International Labour Organization</p>
+          <p class="captions captions-other"><b>International Labour Organization</b></p>
         </div>
         <div class="col-lg-4">
           <img src="<?php echo base_url("assets/img/trendmicro.png")?>" class="client-logo microtrend">
-          <p class="captions captions-other">Trend Micro</p>
+          <p class="captions captions-other"><b>Trend Micro</b></p>
         </div>
       </div>
         <div id="svc"></div> 
