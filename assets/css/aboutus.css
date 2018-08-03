@@ -43,7 +43,7 @@
 	
     margin-left: 56px;
     font-size: 80px;
-    padding-top: 120px;
+    padding-top: 240px;
     color: black;
     float: left;
     font-family: Arial;
@@ -79,7 +79,7 @@
 }
 
 .grid-item2 {
-	padding-top:110px;
+	padding-top:200px;
 	margin-top: 110px;
 	margin-bottom: 58px;
 	font-size: 19px;
