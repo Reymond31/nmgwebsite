@@ -78,16 +78,8 @@ body{
   width:25px;
   height:5px;
 }
-.navbar-default .navbar-nav > .active{
-    color: #FFF;
-    background: #FFF;
-}
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a:focus {
-    color: #FFF;
-    background: #FFF;
-}
+
+
 .container-fluid
 {
 	padding-left: 0;
