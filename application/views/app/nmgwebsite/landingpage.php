@@ -55,7 +55,7 @@
 					</div>
 					<a href="#landingpage" id="return-to-top" class="icon-long-arrow-up"></a>
 					<div id="scroll-up">
-						<p>Scroll Up</p>
+						<p>To the top</p>
 					</div>
 				</div>
 			</div>

@@ -78,6 +78,16 @@ body{
   width:25px;
   height:5px;
 }
+.navbar-default .navbar-nav > .active{
+    color: #FFF;
+    background: #FFF;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #FFF;
+    background: #FFF;
+}
 .container-fluid
 {
 	padding-left: 0;
@@ -164,9 +174,7 @@ body{
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
 }
-#down-to-scroll:hover {
-    background: rgba(0, 0, 0, 0.0);
-}
+
 #down-to-scroll:hover a {
     color: #fff;
     top: 5px;
@@ -226,12 +234,12 @@ body{
 }
 #scroll-up{
     position: fixed;
-    height: 80px;
     width: 300px;
     font-size: 10px;
-    margin-top: 170px;
-    margin-left: 992px;
+    margin-top: 197px;
+    margin-left: 1022px;
     transform: rotate(90deg);
+    cursor: pointer
 }
 
 @media screen and (max-width:375px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
