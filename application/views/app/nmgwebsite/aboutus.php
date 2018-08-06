@@ -19,7 +19,7 @@
         <img src="assets/img/aboutus3.png" id="stroke">
       <div class="row">
         <div class="col-lg-12">
-          <p class="clients">OUR CLIENTS</p>
+           <p class="clients">OUR CLIENTS</p>
         </div>
       </div>
       <div class="row">
