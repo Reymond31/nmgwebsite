@@ -9,7 +9,7 @@
 			</div>
 			<div class="col-lg-3">
 			<div class="item" data-aos="fade-down">
-				<img src="assets/img/monitors.png" class="laptop">
+				<img src="assets/img/mons.png" class="laptop">
 			</div>
 			</div>
 			<div class="col-lg-4">
@@ -22,7 +22,7 @@
 		<div class="row">
 			<div class="col-lg-2">
 				<div class="item" data-aos="fade-down">
-				<img src="assets/img/penfinals.png" class="pen1">
+				<img src="assets/img/pens.png" class="pen1">
 			</div>
 			</div>
 			<div class="col-lg-4">
@@ -33,7 +33,7 @@
 			</div>
 			<div class="col-lg-2">
 				<div class="item" data-aos="fade-down">
-				<img src="assets/img/ph.png" class="phone">
+				<img src="assets/img/phs.png" class="phone">
 			</div>
 			</div>
 			<div class="col-lg-4">
