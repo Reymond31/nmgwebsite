@@ -1,8 +1,8 @@
 #service{
 	padding-top: 0px;
 	margin-top:0px;
-	height: 640px;
-	background-color:#f7f7f7;
+	height: 572px;
+	background-color:#f7f7f7;    
 }
 #prod{
 	background-color:#59c5f0;
@@ -19,32 +19,30 @@
 
 img.laptop{
 	margin-bottom: 0px;
-    margin-left: 90px;
+    margin-left: 87px;
     height: 112px;
     width: 128px;
-    margin-top:109px;
+    margin-top:90px;
 }
 img.pen1{
 	height: 108px;
     width: 106px;
     margin-bottom: 9px;
-    margin-left: 35px;
+    margin-left: 30px;
     margin-top:32px;
 }
-
-.col-lg-5 {
-	margin-top:10px;
-	padding-top: 40px;
+.col-lg-5{
+	margin-top: 0px;
 }
 img.phone{
 	margin-left: 0px;
     height: 115px;
-    margin-top: 25px;
+    margin-top: 26px;
     margin-bottom: 5px;
  }
 img.staff{
-	margin-top:45px;
-    margin-left: 35px;
+	margin-top:40px;
+    margin-left: 30px;
     height: 115px;
     width: 120px;
 }
@@ -52,12 +50,12 @@ img.tech{
 	height: 98px;
     width: 115px;
     margin-bottom: 4px;
-    margin-top: 53px;
+    margin-top: 47px;
 }
 p.head{
 	margin-left: 39px;
     font-size: 80px;
-    padding-top: 12px;
+    padding-top: 25px;
     color: black;
     float: left;
     font-family: Arial;
@@ -66,29 +64,30 @@ p.head{
 }
 p.heads{
 	margin-top: -156px;
-    margin-left: 116px;
-    font-size: 90px;
-    padding-top: 100px;
-    color: #59c5f0;
+    margin-left: 142px;
+    font-size: 135px;
+    padding-top: 90px;
+    color: #4dbbe6;
     float: left;
     font-weight: bold;
     margin-bottom: 0px;
     font-family:Arial;
     width:370px;
+    height: 250px;
 }
 p.laptop1{
-	margin-top: 125px;
+	margin-top: 100px;
 	margin-bottom: 3px;
 	font-weight: bold;
 
 }
 p.staff1{
-	margin-top: 63px;
+	margin-top: 50px;
 	font-weight: bold;
 	margin-bottom: 3px;
 }
 p.tech1{
-	margin-top: 63px;
+	margin-top: 50px;
 	font-weight: bold;
 	margin-bottom: 3px;
 }

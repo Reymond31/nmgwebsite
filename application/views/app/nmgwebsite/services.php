@@ -2,11 +2,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-5">
-				<p class="head">WHAT</p><br>
-				<p class="heads">WE DO?</p>
+				<p class="head">WHAT WE</p><br>
+				<p class="heads"> DO?</p>
 			</div>
 			<div class="col-lg-3">
-				<img src="assets/img/monitorshi.png" class="laptop">
+				<img src="assets/img/monitors.png" class="laptop">
 			</div>
 			<div class="col-lg-4">
 				<p class="laptop1">Desktop Application Development</p>
@@ -15,14 +15,14 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-2">
-				<img src="assets/img/penfinal.png" class="pen1">
+				<img src="assets/img/penfinals.png" class="pen1">
 			</div>
 			<div class="col-lg-4">
 				<p class="pen2">Web App Design and Development</p>	
 				<p class="pen3">PHP/nodeJS custom development, including relevant database solutions. Applications are built using modern frameworks and industry leading scalability.</p>
 			</div>
 			<div class="col-lg-2">
-				<img src="assets/img/phonesh.png" class="phone">
+				<img src="assets/img/ph.png" class="phone">
 			</div>
 			<div class="col-lg-4">
 				<p class="mobile1">Mobile Application for Android and iOS</p>
@@ -31,14 +31,14 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-2">	
-				<img src="assets/img/staffs.png" class="staff">
+				<img src="assets/img/staffi.png" class="staff">
 			</div>
 			<div class="col-lg-4">	
 				<p class="staff1">Staff Augmentation</p>
  				<p class="staff2">Providing experienced developers and database administrators to local industries, managed for specific requirements of the business.</p>
  			</div>
 			<div class="col-lg-2">	
-				<img src="assets/img/techs.png" class="tech">
+				<img src="assets/img/tec.png" class="tech">
 			</div>
 			<div class="col-lg-4">	
 				<p class="tech1">Technology & Management Consulting</p>
