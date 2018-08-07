@@ -1,11 +1,11 @@
 h2.head{
-    text-align:justify;
-    letter-spacing: 3px;
-    color:black;
-    margin-top: 20%;
-    margin-bottom: 10%;
-    font-size: 50px;
-    font-family: 'Merriweather', serif;
+  text-align: justify;
+  letter-spacing: 3px;
+  color: black;
+  margin-top: -82%;
+  margin-bottom: 10%;
+  font-size: 50px;
+  font-family: 'Merriweather', serif;
 }
 p.con{
   margin-top: 3px;
@@ -27,29 +27,27 @@ span.labelscontact{
   margin-left: 15px;
   margin-top: 70px;
 }
-.mapouter{
-  float: right;
-  width: 500px;
-  margin-top: 20%;
+#map{
+  height: 600px;
 }
-.mapouter{
-  text-align:right;
-  height:385px;
-  padding-top: 75px;
-  
-  width:600px;
+#wrapper { 
+  position: relative; 
 }
-.gmap_canvas {
-  overflow:hidden;
-  background:none!important;
-  height:385px;
-  width:600px;
+#over_map { 
+  position: relative; 
+  z-index: 99; 
+  height: 0px;
+}
+.map-logo{
+  height: 60px;
+  margin-top: -753px;
+  margin-left: 929px;
 }
 .name {
   width: 55%;
   height: 30px;
   margin-bottom: 15px;
-  background-color: #f5f5f5;
+  background-color: #fff;
   padding: 5px;
   border-radius: 7px;
   margin-left: 18px;
