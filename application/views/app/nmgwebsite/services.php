@@ -14,16 +14,16 @@
 			</div>
 		</div>
 		<div class="row">
-				<div class="col-lg-2">
-					<img src="assets/img/pens.png" class="pen1">
-				</div>
-				<div class="col-lg-4">
-					<p class="pen2">Web App Design and Development</p>	
-					<p class="pen3">PHP/nodeJS custom development, including relevant database solutions. Applications are built using modern frameworks and industry leading scalability.</p>
-				</div>
-				<div class="col-lg-2">
+			<div class="col-lg-2">
+				<img src="assets/img/pens.png" class="pen1">
+			</div>
+			<div class="col-lg-4">
+				<p class="pen2">Web App Design and Development</p>	
+				<p class="pen3">PHP/nodeJS custom development, including relevant database solutions. Applications are built using modern frameworks and industry leading scalability.</p>
+			</div>
+			<div class="col-lg-2">
 					<img src="assets/img/phs.png" class="phone">
-				</div>
+			</div>
 				<div class="col-lg-4">
 					<p class="mobile1">Mobile Application for Android and iOS</p>
 					<p class="mobile2">Designing and development of both native and cross platform mobile applications. Applications backends are also designed with web-based management portals aligned to customer requirements.</p>
