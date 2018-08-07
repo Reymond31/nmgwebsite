@@ -4,16 +4,12 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-5">
-            <div class="item" data-aos="zoom-in">
               <p class="big" >WHO WE</p><br>
               <p class="small">ARE?</p>
-            </div>
           </div>
           <div class="col-lg-7">
             <div class="grid-item2"> 
-              <div class="item" data-aos="fade-left">
                 Founded in 2006, NMGResources Inc. Philippines  started as a custom software development company. In the last decade. NMG has provided targeted software solutions across multiple industries including government and enterprise entities, both local, and international. NMG’s services encompass application development for desktop, web, mobile, and server solutions. The company has also established a growing in-house portfolio of products developed for the end-user market, providing consulting services to multinational firms ranging from technology expertise to enterprise-level project management.
-              </div>
             </div>
           </div>
         </div>
