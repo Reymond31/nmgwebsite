@@ -18,53 +18,41 @@
     <div class="container overlays">
       <img src="assets/img/aboutus3.png" id="stroke">
       <div class="row">
-        <div class="col-lg-12">
-          <div class="item" data-aos="zoom-in">
-            <p class="clients">OUR CLIENTS</p>
+          <div class="col-lg-12">
+              <p class="clients">OUR CLIENTS</p>
           </div>
-        </div>
       </div>
       <div class="row">
         <div class="col-lg-4">
-          <div class="item" data-aos="fade-down">
             <img src="<?php echo base_url("assets/img/jollibee.png")?>" class="client-logo">
             <p class="captions"><b>Jolibee Foods Corp.</b></p>
-          </div>
         </div>
         <div class="col-lg-4">
-          <div class="item" data-aos="fade-down">
             <img src="<?php echo base_url("assets/img/DOLE.png")?>" class="client-logo">
             <p class="captions"><b>Department of Labor and Employment - Philippines</b></p>
-          </div>
         </div>
         <div class="col-lg-4">
-          <div class="item" data-aos="fade-down">
             <img src="<?php echo base_url("assets/img/MANILA.png")?>" class="client-logo">
             <p class="captions"><b>City of Manila,<br>Philippines</b></p>
-          </div>
         </div>
       </div>
       <div class="row">
-        <div class="col-lg-4">        
-          <div class="item" data-aos="fade-down">
-            <img src="<?php echo base_url("assets/img/UNITEDNATIONS.png")?>" class="client-logo undp">
-            <p class="captions captions-other"><b>United Nations Development Programme</b></p>
-          </div>
-        </div>
-        <div class="col-lg-4">          
-          <div class="item" data-aos="fade-down">
-            <img src="<?php echo base_url("assets/img/ILO.png")?>" class="client-logo ilo">
-            <p class="captions captions-other"><b>International Labour Organization</b></p>
-          </div>
-        </div>
-        <div class="col-lg-4">          
-          <div class="item" data-aos="fade-down">
-            <img src="<?php echo base_url("assets/img/trendmicro.png")?>" class="client-logo microtrend">
-            <p class="captions captions-other"><b>Trend Micro</b></p>
-          </div>
-        </div>
+            <div class="col-lg-4"> 
+                <img src="<?php echo base_url("assets/img/UNITEDNATIONS.png")?>" class="client-logo undp">
+                <p class="captions captions-other"><b>United Nations Development Programme</b></p>
+              </div>
+            <div class="col-lg-4">
+                 <img src="<?php echo base_url("assets/img/ILO.png")?>" class="client-logo ilo">
+                <p class="captions captions-other"><b>International Labour Organization</b></p>
+            </div>
+            <div class="col-lg-4">
+                <img src="<?php echo base_url("assets/img/trendmicro.png")?>" class="client-logo microtrend">
+                <p class="captions captions-other"><b>Trend Micro</b></p>
+            </div>
+       </div>
       </div>
     </div>
   </div>
   <div id="svc"></div>
 </div>
+  
