@@ -46,7 +46,7 @@
 		<div class="row">
 			<div class="col-lg-2">	
 				<div class="item" data-aos="fade-down">
-				<img src="assets/img/staffi.png" class="staff">
+				<img src="assets/img/staf.png" class="staff">
 			</div>
 			</div>
 			<div class="col-lg-4">	
@@ -57,7 +57,7 @@
  			</div>
 			<div class="col-lg-2">	
 				<div class="item" data-aos="fade-down">
-				<img src="assets/img/tec.png" class="tech">
+				<img src="assets/img/t.png" class="tech">
 			</div>
 			</div>
 			<div class="col-lg-4">	

@@ -79,24 +79,28 @@ p.laptop1{
 	margin-bottom: 3px;
 	font-weight: bold;
 	color:black;
+	font-size: 16px;
 }
 p.staff1{
 	margin-top: 50px;
 	font-weight: bold;
 	margin-bottom: 3px;
 	color:black;
+	font-size: 16px;
 }
 p.tech1{
 	margin-top: 50px;
 	font-weight: bold;
 	margin-bottom: 3px;
 	color:black;
+	font-size: 16px;
 }
 p.mobile1{
 	margin-top:30px;
 	font-weight: bold;
 	margin-bottom: 3px;
 	color:black;
+	font-size: 16px;
 }
 p.pen2{
 	padding-right: 32px;
@@ -104,18 +108,22 @@ p.pen2{
 	font-weight: bold;
 	margin-bottom: 3px;
 	color:black;
+	font-size: 16px;
 }
 p.pen3{
 	text-align: justify;
 	width:312px;
 	color:black;
+	font-weight: 600;
 }
 p.staff2{
 	width:315px;
 	text-align: justify;
 	color:black;
+	font-weight: 600;
 }
  p.tech2, p.mobile2, p.laptop2{
 	text-align: justify;
 	color:black;
+	font-weight: 600;
 }
