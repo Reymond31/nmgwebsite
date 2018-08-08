@@ -50,6 +50,8 @@
                 <p class="captions captions-other"><b>Trend Micro</b></p>
             </div>
        </div>
+      <img src="assets/img/aboutus2.png" id="strokers">
+
       </div>
     </div>
   </div>
