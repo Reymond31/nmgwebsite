@@ -207,17 +207,47 @@
     					scaledSize: new google.maps.Size(50, 50), // scaled size
     				};
 
-    				var marker = new google.maps.Marker({
-    					position: new google.maps.LatLng(14.56256433, 121.01300418),
-    					map: map,
-    					icon: icon
+    			var marker = new google.maps.Marker({
+    				position: new google.maps.LatLng(14.56256433, 121.01300418),
+    				map: map,
+    				icon: icon
     				});
-    			}
+
+    			var contentString = '<div id="content">'+
+            		'<div id="siteNotice">'+
+            		'</div>'+
+            		'<h1 id="firstHeading" class="firstHeading">Uluru</h1>'+
+            		'<div id="bodyContent">'+
+            		'<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large ' +
+            		'sandstone rock formation in the southern part of the '+
+            		'Northern Territory, central Australia. It lies 335&#160;km (208&#160;mi) '+
+            		'south west of the nearest large town, Alice Springs; 450&#160;km '+
+            		'(280&#160;mi) by road. Kata Tjuta and Uluru are the two major '+
+            		'features of the Uluru - Kata Tjuta National Park. Uluru is '+
+            		'sacred to the Pitjantjatjara and Yankunytjatjara, the '+
+            		'Aboriginal people of the area. It has many springs, waterholes, '+
+            		'rock caves and ancient paintings. Uluru is listed as a World '+
+            		'Heritage Site.</p>'+
+            		'<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">'+
+            		'https://en.wikipedia.org/w/index.php?title=Uluru</a> '+
+            		'(last visited June 22, 2009).</p>'+
+            		'</div>'+
+            		'</div>';
+
+        		var infowindow = new google.maps.InfoWindow({
+          			content: contentString
+        		});
+
+        
+       			 marker.addListener('click', function() {
+          			infowindow.open(map, marker);
+        		});
+				}
     		</script>
     		<div id="over_map">
     			<div class="row">
-    				<div class="container">
-    					<div class="col-lg-7">				
+    				<div class="container">	
+                        <div class="transbox">			
     						<h2 class="head">Connect with us?</h2>
     						<span class="labelscontact"><b>Name:</b></span>
     						<input type="text" placeholder="Your name" class="name">
@@ -236,8 +266,7 @@
     						<span class="labelscontact"><br><b>Message:</b><br></span>
     						<textarea placeholder="Enter your message here...."></textarea>
     						<button type="button" class="button" style="vertical-align:"><span>SUBMIT</span></button>
-    					</div>  
-    				</div>
+    					</div> 
     			</div>
     		</div>
     	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaJmMd5Z4MFYGQrrWSqTZCswfsYRxVhxY&callback=initMap"async defer></script>
