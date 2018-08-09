@@ -27,7 +27,7 @@
   color: green;
 }
 .slides{
-  
+  border-radius: 8px;
 }
 .icon-angle-right:before {
   content: "\f105";
@@ -35,32 +35,50 @@
   margin-right: 40px;
   color: green;
 }
-#slide1{
-  background:url('../img/foot.jpg');
-}
 .carousel-caption{
   color: #ffff;
   margin-bottom: 0;
   margin-right: 100%;
   left:483px;
-  top:67px;
   font-size: 14px;
   font-weight: 600;
   width: 251px;
  margin-left: 430px;
  position: fixed;
 }
-
 .carousels{
   color: #ffff;
-  font-size: 48px;
+  font-size: 43px;
   position: absolute;
-  bottom: 200px;
+  bottom: 160px;
   left: 163px;
   font-family: Arial;
   font-weight: 700;
   letter-spacing: 2px;
   text-shadow: 0.1em 0.1em 0.2em #585757;
-  top:105px;
-
+}
+.carousels_pinoypayroll{
+  color: #ffff;
+  font-size: 48px;
+  position: absolute;
+  bottom: 130px;
+  left: 163px;
+  font-family: Arial;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-shadow: 0.1em 0.1em 0.2em #585757;
+}
+.carousels-caption{
+  color: #ffff;
+  margin-bottom: 0;
+  margin-right: 100%;
+  left:483px;
+  font-size: 14px;
+  font-weight: 600;
+  width: 251px;
+ margin-left: 430px;
+ position: fixed;
+ bottom: 82px;
+ text-shadow: 0.1em 0.1em 0.2em #585757;
+ text-align: center;
 }
