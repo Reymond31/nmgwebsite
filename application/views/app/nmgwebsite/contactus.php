@@ -4,7 +4,7 @@
  		<script>
  			function initMap() {
  				var map = new google.maps.Map(document.getElementById('map'), {
- 					center: {lat: 14.56222425, lng: 121.01023933},
+ 					center: {lat: 14.56280576, lng: 121.01001135},
  					zoom: 17,
  					styles:[
  					{
@@ -216,21 +216,12 @@
     			var contentString = '<div id="content">'+
             		'<div id="siteNotice">'+
             		'</div>'+
-            		'<h1 id="firstHeading" class="firstHeading">Uluru</h1>'+
+            		'<h1 id="firstHeading" class="firstHeading">NMGResources Inc.</h1>'+
             		'<div id="bodyContent">'+
-            		'<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large ' +
-            		'sandstone rock formation in the southern part of the '+
-            		'Northern Territory, central Australia. It lies 335&#160;km (208&#160;mi) '+
-            		'south west of the nearest large town, Alice Springs; 450&#160;km '+
-            		'(280&#160;mi) by road. Kata Tjuta and Uluru are the two major '+
-            		'features of the Uluru - Kata Tjuta National Park. Uluru is '+
-            		'sacred to the Pitjantjatjara and Yankunytjatjara, the '+
-            		'Aboriginal people of the area. It has many springs, waterholes, '+
-            		'rock caves and ancient paintings. Uluru is listed as a World '+
-            		'Heritage Site.</p>'+
-            		'<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">'+
-            		'https://en.wikipedia.org/w/index.php?title=Uluru</a> '+
-            		'(last visited June 22, 2009).</p>'+
+            		'<p><b>Address: </b>  Great Wall Advertising Building Yakal St, San Antonio Makati City, Metro Manila, Philippines.</p> ' +
+            		'<p><b>E-mail: </b>  info@nmgresources.ph</p> '+
+            		'<p><b>Telephone Number: </b>  (02) 576 6505</p> '+
+            		'<p><b>Office Hours: </b> 10:00 AM to 7:00 PM (Monday to Friday) '+
             		'</div>'+
             		'</div>';
 
@@ -242,12 +233,14 @@
        			 marker.addListener('click', function() {
           			infowindow.open(map, marker);
         		});
+
+
 				}
     		</script>
     		<div id="over_map">
     			<div class="row">
     				<div class="container">	
-                        <div class="transbox">			
+                        <div class="transbox-1">			
     						<h2 class="head">Connect with us?</h2>
     						<span class="labelscontact"><b>Name:</b></span>
     						<input type="text" placeholder="Your name" class="name">
@@ -266,7 +259,14 @@
     						<span class="labelscontact"><br><b>Message:</b><br></span>
     						<textarea placeholder="Enter your message here...."></textarea>
     						<button type="button" class="button" style="vertical-align:"><span>SUBMIT</span></button>
-    					</div> 
+    					</div>
+                        <div class="transbox-2">          
+                            <div class="wrap">
+                                <a target="_blank" href="your_url_here"><i class="fa fa-3x fa-envelope"></i></a>
+                                <a target="_blank" href="your_url_here"><i class="fa fa-3x fa-facebook-square"></i></a>
+                                <a target="_blank" href="your_url_here"><i class="fa fa-3x fab fa-linkedin"></i>
+                            </div></a>
+                        </div>  
     			</div>
     		</div>
     	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaJmMd5Z4MFYGQrrWSqTZCswfsYRxVhxY&callback=initMap"async defer></script>
