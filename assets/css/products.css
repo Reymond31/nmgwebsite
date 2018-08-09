@@ -17,7 +17,8 @@
     height: 600px;
     width: 100%;
     overflow: hidden;
-    background: url('http://www.wise.tv/wp-content/uploads/2013/08/modern-office-furniture-interior-magnificent-design-ideas.jpg');
+    background: url('../img/prod.jpg');
+    background-size: cover;
 }
 .icon-angle-left:before {
   content: "\f104";
@@ -38,8 +39,28 @@
   background:url('../img/foot.jpg');
 }
 .carousel-caption{
-  color: black;
-  margin-bottom: 100px;
+  color: #ffff;
+  margin-bottom: 0;
   margin-right: 100%;
-  
+  left:483px;
+  top:67px;
+  font-size: 14px;
+  font-weight: 600;
+  width: 251px;
+ margin-left: 430px;
+ position: fixed;
+}
+
+.carousels{
+  color: #ffff;
+  font-size: 48px;
+  position: absolute;
+  bottom: 200px;
+  left: 163px;
+  font-family: Arial;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-shadow: 0.1em 0.1em 0.2em #585757;
+  top:105px;
+
 }
