@@ -12,31 +12,32 @@
       <div class="item active">
        <img class="slides" src="<?php echo base_url("assets/img/heffy.jpg")?>" alt="heffy">
           <div class="carousel-caption">
-           ...
+           HEFFY.CO
           </div>
+
       </div>
       <div class="item">
         <img class="slides" src="<?php echo base_url("assets/img/txtsupport.jpg")?>" alt="txtsupport" >
           <div class="carousel-caption">
-            ...
+            TXTSUPPORT.CO
           </div>
       </div>
       <div class="item">
         <img class="slides" src="<?php echo base_url("assets/img/bes.jpg")?>" alt="bes" >
           <div class="carousel-caption">
-            ...
+            BES
           </div>
       </div>
       <div class="item">
         <img class="slides" src="<?php echo base_url("assets/img/cress.jpg")?>" alt="cress" >
           <div class="carousel-caption">
-            ...
+            CRESS
           </div>
       </div>
       <div class="item">
         <img class="slides" src="<?php echo base_url("assets/img/pinoypayroll.jpg")?>" alt="pinoypayroll" >
           <div class="carousel-caption">
-            ...
+            PINOYPAYROLL
           </div>
       </div>
     </div>

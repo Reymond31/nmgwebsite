@@ -10,15 +10,14 @@
   margin-top: 100px;
   height: 350px;
   width: 450px;
-  margin-left: 200px;
+  margin-left: 430px;
 }
 .carousel-inner {
     position: relative;
     height: 600px;
     width: 100%;
     overflow: hidden;
-   opacity:0.8;
-      background: url('http://www.wise.tv/wp-content/uploads/2013/08/modern-office-furniture-interior-magnificent-design-ideas.jpg');
+    background: url('http://www.wise.tv/wp-content/uploads/2013/08/modern-office-furniture-interior-magnificent-design-ideas.jpg');
 }
 .icon-angle-left:before {
   content: "\f104";
@@ -37,4 +36,10 @@
 }
 #slide1{
   background:url('../img/foot.jpg');
+}
+.carousel-caption{
+  color: black;
+  margin-bottom: 100px;
+  margin-right: 100%;
+  
 }
