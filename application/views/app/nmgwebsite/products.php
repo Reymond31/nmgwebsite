@@ -10,7 +10,7 @@
     </ol>
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img class="slides" src="<?php echo base_url("assets/img/heffy.jpg")?>" alt="heffy">
+       <img class="slides" src="<?php echo base_url("assets/img/heffy.jpg")?>" alt="heffy">
           <div class="carousel-caption">
            ...
           </div>

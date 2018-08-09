@@ -26,9 +26,15 @@
   margin-right: 40px;
   color: green;
 }
+.slides{
+  
+}
 .icon-angle-right:before {
   content: "\f105";
   margin-top: 200px;
   margin-right: 40px;
   color: green;
+}
+#slide1{
+  background:url('../img/foot.jpg');
 }
