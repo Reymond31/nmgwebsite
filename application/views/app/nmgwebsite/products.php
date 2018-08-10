@@ -54,7 +54,7 @@
             </div>
           </div>
       <div class="item">
-        <img class="slides" src="<?php echo base_url("assets/img/bes.jpg")?>" alt="bes" >
+        <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="bes" >
           <div class="carousels">  <br>BES <br>CHATBOT</div>
           <div class="carousel-caption">
           <p>Customer engagement with brands are ever-increasing with Facebook. Conducting any scale of customer support using Facebook Messenger involves manpower and training. NMG created a powerful and simple solution to use Chatbot which guides customers over chat. The range of functionality extend from quick walk through to complex E-Commerce processes, all managed within an integrated platform.</p>
@@ -76,7 +76,7 @@
             </div>
           </div>
       <div class="item">
-        <img class="slides" src="<?php echo base_url("assets/img/cress.jpg")?>" alt="cress" >
+        <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="cress" >
           <div class="carousels"> <br> CRESS</div>
           <div class="carousel-caption">
             <p>Upon the request of the City of Manila, CReSS was developed to help streamline and automate the document management tasks of the City Hall. With over 30 million digital records and growing, CReSS has transformed the operations of City Hall. As a product of NMG, CReSS is currently being marketed to other government agencies.</p>
@@ -98,7 +98,7 @@
             </div>
           </div>
       <div class="item">
-        <img class="slides" src="<?php echo base_url("assets/img/pinoypayroll.jpg")?>" alt="pinoypayroll" >
+        <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="pinoypayroll" >
           <div class="carousels_pinoypayroll"> PINOY<br>PAYROLL</div>
           <div class="carousels-caption">
            <p>Marketing promotions have grown in the past decade, often exceeding the capabilities of existing point-of-sales devices. POS Partner works with any standard Windows-based POS, and automatically allows marketing solutions without any changes to the existing POS.</p>
