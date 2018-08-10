@@ -8,6 +8,7 @@
       <li data-target="#carousel-example-generic" data-slide-to="5"></li>
     </ol>
     <div class="carousel-inner" role="listbox">
+      <div id="contact"></div>
       <div class="item active">
        <img class="slides" src="<?php echo base_url("assets/img/heffy.jpg")?>" alt="heffy">
           <div class="carousels"><br> HEFFY.CO</div>
@@ -52,7 +53,7 @@
       <span class="icon-angle-right icon-4x" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
-  </div>
+</div>
 </div>
 
 
