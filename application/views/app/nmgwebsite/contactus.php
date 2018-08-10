@@ -258,7 +258,8 @@
     						</select>
     						<span class="labelscontact"><br><b>Message:</b><br></span>
     						<textarea placeholder="Enter your message here...."></textarea>
-    						<button type="button" class="button" style="vertical-align:"><span>SUBMIT</span></button>
+    						<button type="button" class="button" style="vertical-align:"><span>SUBMIT</span></button><br>
+                            <p>-visit-</p>
     					</div>
                         <div class="transbox-2">          
                             <div class="wrap">

@@ -14,7 +14,7 @@
 						<li><a href="#about" class="hvr-grow-shadow"> ABOUT US</a></li>
 						<li><a href="#svc" class="hvr-grow-shadow">SERVICES</a></li>
 						<li><a href="#prod" class="hvr-grow-shadow">PRODUCTS</a></li>
-						<li><a href="#contactus" class="hvr-grow-shadow">CONTACT US</a></li>
+						<li><a href="#con" class="hvr-grow-shadow">CONTACT US</a></li>
 					</ul>
 				</div>
 			</div>

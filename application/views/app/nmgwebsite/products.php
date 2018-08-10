@@ -52,7 +52,7 @@
       <span class="icon-angle-right icon-4x" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
-  </div>
+</div>
 </div>
 
 
