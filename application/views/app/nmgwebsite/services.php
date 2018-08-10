@@ -42,7 +42,7 @@
 			</div>
 			<div class="col-lg-4">	
 			 	<p class="tech1">Technology & Management Consulting</p>
- 				<p class="tech2">Specialist consulting services focused on requirements analysis, system design and project management, delivered to enterprise-level clients.</p>
+ 				<p class="tech2">Specialist consulting services  focused on requirements analysis, system design and project management, delivered to enterprise-level clients.</p>
  			</div>
 		</div>
 	</div>

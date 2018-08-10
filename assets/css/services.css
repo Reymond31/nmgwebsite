@@ -1,7 +1,7 @@
 #service{
 	padding-top: 0px;
 	margin-top:0px;
-	height: 572px;
+	height: 582px;
 	background-color:#59c5f0;    
 }
 #prod{
@@ -18,7 +18,7 @@
 }
 img.laptop{
 	margin-bottom: 0px;
-    margin-left: 87px;
+    margin-left: 116px;
     height: 112px;
     width: 128px;
     margin-top:90px;
@@ -28,15 +28,15 @@ img.pen1{
     width: 106px;
     margin-bottom: 9px;
     margin-left: 30px;
-    margin-top:32px;
+    margin-top:38px;
 }
 .col-lg-5{
 	margin-top: 0px;
 }
 img.phone{
-	margin-left: 0px;
+	margin-left: 30px;
     height: 115px;
-    margin-top: 26px;
+    margin-top: 28px;
     margin-bottom: 5px;
  }
 img.staff{
@@ -50,6 +50,7 @@ img.tech{
     width: 115px;
     margin-bottom: 4px;
     margin-top: 47px;
+    margin-left: 30px;
 }
 p.head{
 	margin-left: 39px;
@@ -96,7 +97,7 @@ p.tech1{
 	font-size: 16px;
 }
 p.mobile1{
-	margin-top:30px;
+	margin-top:38px;
 	font-weight: bold;
 	margin-bottom: 3px;
 	color:black;
@@ -104,7 +105,7 @@ p.mobile1{
 }
 p.pen2{
 	padding-right: 32px;
-    margin-top: 35px;
+    margin-top: 40px;
 	font-weight: bold;
 	margin-bottom: 3px;
 	color:black;
@@ -122,8 +123,14 @@ p.staff2{
 	color:black;
 	font-weight: 600;
 }
- p.tech2, p.mobile2, p.laptop2{
+ p.mobile2, p.laptop2{
 	text-align: justify;
 	color:black;
 	font-weight: 600;
 }
+ p.tech2{
+ 	text-align:justify;
+	color:black;
+	font-weight: 600;
+	word-spacing: -1.18px;
+ }

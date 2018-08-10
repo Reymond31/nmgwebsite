@@ -51,7 +51,6 @@
             </div>
        </div>
       <img src="assets/img/aboutus2.png" id="strokers">
-
       </div>
     </div>
   </div>
