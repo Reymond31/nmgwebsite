@@ -34,7 +34,7 @@
       <div class="item">
         <img class="slides" src="<?php echo base_url("assets/img/txtsupport.jpg")?>" alt="txtsupport" >
           <div class="carousels"> TXT<br>SUPPORT</div>
-          <div class="carousel-caption">
+          <div class="carousel-caption_txtsupport">
            <p> Grand Prize winner of the 2015 Chikka API Challenge, TxtSupport is a web-based support platform using SMS to communicate with users. The portal includes CRM functionality to help businesses manage and grow their users. The platform’s standout feature is allowing SMS customers to communicate with business at no cost. TxtSupport has a growing base of users for the platform.</p>
             <a href="#" data-toggle="modal" data-target=".bs-example-modal-lg-txtsupport">Take a tour?</a>
           </div>
@@ -56,7 +56,7 @@
       <div class="item">
         <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="bes" >
           <div class="carousels">  <br>BES <br>CHATBOT</div>
-          <div class="carousel-caption">
+          <div class="carousel-caption_bes">
           <p>Customer engagement with brands are ever-increasing with Facebook. Conducting any scale of customer support using Facebook Messenger involves manpower and training. NMG created a powerful and simple solution to use Chatbot which guides customers over chat. The range of functionality extend from quick walk through to complex E-Commerce processes, all managed within an integrated platform.</p>
            <a href="#" data-toggle="modal" data-target=".bs-example-modal-lg-bes">Take a tour?</a>
           </div>
@@ -100,7 +100,7 @@
       <div class="item">
         <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="pinoypayroll" >
           <div class="carousels_pinoypayroll"> PINOY<br>PAYROLL</div>
-          <div class="carousels-caption">
+          <div class="carousels-caption_pinoypayroll">
            <p>Marketing promotions have grown in the past decade, often exceeding the capabilities of existing point-of-sales devices. POS Partner works with any standard Windows-based POS, and automatically allows marketing solutions without any changes to the existing POS.</p>
            <a href="#" data-toggle="modal" data-target=".bs-example-modal-lg-pinoypayroll">Take a tour?</a>
           </div>
