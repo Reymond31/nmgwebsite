@@ -4,7 +4,7 @@
  		<script>
  			function initMap() {
  				var map = new google.maps.Map(document.getElementById('map'), {
- 					center: {lat: 14.56280576, lng: 121.01001135},
+ 					center: {lat: 14.56358457, lng: 121.00970289},
  					zoom: 17,
  					styles:[
  					{
@@ -259,13 +259,12 @@
     						<span class="labelscontact"><br><b>Message:</b><br></span>
     						<textarea placeholder="Enter your message here...."></textarea>
     						<button type="button" class="button" style="vertical-align:"><span>SUBMIT</span></button><br>
-                            <p>-visit-</p>
     					</div>
                         <div class="transbox-2">          
                             <div class="wrap">
-                                <a target="_blank" href="your_url_here"><i class="fa fa-3x fa-envelope"></i></a>
-                                <a target="_blank" href="your_url_here"><i class="fa fa-3x fa-facebook-square"></i></a>
-                                <a target="_blank" href="your_url_here"><i class="fa fa-3x fab fa-linkedin"></i>
+                                <a target="_blank" href="your_url_here"><i class="fa fa-2x fa-envelope"></i></a>
+                                <a target="_blank" href="your_url_here"><i class="fa fa-2x fa-facebook-square"></i></a>
+                                <a target="_blank" href="your_url_here"><i class="fa fa-2x fab fa-linkedin"></i>
                             </div></a>
                         </div>  
     			</div>

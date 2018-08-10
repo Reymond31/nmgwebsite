@@ -1,6 +1,3 @@
-#contactus{
-  
-}
 #content{
   font-family: 'Merriweather', serif;
   height: 200px;
@@ -12,7 +9,7 @@ h2.head{
   text-align: justify;
   letter-spacing: 3px;
   color: black;
-  margin-top: -140%;
+  margin-top: -129%;
   margin-bottom: 7%;
   font-size: 36px;
   font-family: 'Merriweather', serif
@@ -39,7 +36,7 @@ p.con{
   margin-top: 70px;
 }
 #map{
-  height: 650px;
+  height: 600px;
 }
 #wrapper { 
   position: relative; 
@@ -154,7 +151,7 @@ textarea {
 }
 
 .transbox-1 {
-  height: 520px;
+  height: 486px;
   width: 448px;
   margin-top: 45px;
   margin-left: 50px;
@@ -162,11 +159,11 @@ textarea {
   border-radius: 5%;
 }
 .transbox-2{
-  padding-left: 49px;
-  height: 114px;
-  width: 309px;
-  margin-top: -121px;
-  margin-left: 153px;
+  padding-left: 33px;
+  height: 74px;
+  width: 86px;
+  margin-top: -75px;
+  margin-left: 166px;
   background-color: #ffffff;
-  border-radius: 12%;
+  border-radius: 12%
 }
