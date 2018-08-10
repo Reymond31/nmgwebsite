@@ -18,6 +18,9 @@
     width: 100%;
     overflow: hidden;
     background: url('../img/prod.jpg');
+    background-attachment: fixed ;
+  background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 .icon-angle-left:before {
@@ -81,4 +84,17 @@
  bottom: 82px;
  text-shadow: 0.1em 0.1em 0.2em #585757;
  text-align: center;
+}
+
+.carousel-indicators {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    z-index: 15;
+    width: 60%;
+    padding-left: 0;
+    margin-left: -32%;
+    text-align: center;
+    list-style: none;
+    margin-bottom: 50px;
 }
