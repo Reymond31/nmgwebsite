@@ -50,6 +50,8 @@
  margin-left: 430px;
  position: fixed;
  bottom:0px;
+ letter-spacing: 1px;
+ padding-bottom: 0;
 }
 .carousels-caption_pinoypayroll{
     color: #ffff;
@@ -62,8 +64,10 @@
    margin-left: 430px;
    position: fixed;
    bottom:40px;
-   text-align: center;
-    text-shadow: 0.1em 0.1em 0.2em #585757;
+ text-align: center;
+ text-shadow: 0.1em 0.1em 0.2em #585757;
+ letter-spacing: 1px;
+
 }
 a{
   font-family: Arial;
@@ -92,11 +96,14 @@ a:hover{
  position: fixed;
  bottom:0px;
  text-align: center;
-  text-shadow: 0.1em 0.1em 0.2em #585757;
+ text-shadow: 0.1em 0.1em 0.2em #585757;
+ letter-spacing: 1px;
+
 
 }
 .carousel-caption_txtsupport{
   color: #ffff;
+ letter-spacing: 1px;
   margin-bottom: 0;
   margin-right: 100%;
   left:483px;
@@ -129,7 +136,6 @@ a:hover{
   font-family: Arial;
   font-weight: 700;
   letter-spacing: 2px;
-  text-shadow: 0.1em 0.1em 0.2em #585757;
   bottom: 105px;
 }
 .carousels-caption{
@@ -143,6 +149,7 @@ a:hover{
  margin-left: 430px;
  position: fixed;
  bottom: 82px;
+ letter-spacing: 1px;
  text-shadow: 0.1em 0.1em 0.2em #585757;
  text-align: center;
 }
@@ -157,5 +164,8 @@ a:hover{
     margin-left: -32%;
     text-align: center;
     list-style: none;
-    margin-bottom: 50px;
+    margin-bottom: 90px;
+}
+#products{
+  height:558px;
 }
