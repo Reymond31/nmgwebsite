@@ -88,7 +88,7 @@ textarea {
   border-radius: 7px;
   font-family: 'Merriweather', serif;
 }
-.button {
+.button-submit {
   display: inline-block;
   border-radius: 4px;
   background-color: #2d8ac8;
@@ -103,14 +103,14 @@ textarea {
   font-family: 'Merriweather', serif;
 }
 
-.button span {
+.button-submit span {
   cursor: pointer;
   display: inline-block;
   position: relative;
   transition: 0.5s;
 }
 
-.button span:after {
+.button-submit span:after {
   content: '\00bb';
   position: absolute;
   opacity: 0;
@@ -119,11 +119,11 @@ textarea {
   transition: 0.5s;
 }
 
-.button:hover span {
+.button-submit:hover span {
   padding-right: 25px;
 }
 
-.button:hover span:after {
+.button-submit:hover span:after {
   opacity: 1;
   right: 0;
 }
@@ -155,7 +155,7 @@ textarea {
   width: 448px;
   margin-top: 45px;
   margin-left: 50px;
-  background-color: #ffffff;
+  background-color: floralwhite;
   border-radius: 5%;
 }
 .transbox-2{
@@ -164,6 +164,24 @@ textarea {
   width: 86px;
   margin-top: -75px;
   margin-left: 166px;
-  background-color: #ffffff;
+  background-color: floralwhite;
   border-radius: 12%
+}
+.gm-style-mtc{
+  display: none;
+}
+.gm-fullscreen-control{
+  display: none;
+}
+button{
+  display: none;
+}
+.gm-svpc{
+  display: none;
+}
+.gm-bundled-control {
+  display: none;
+}
+.gm-bundled-control-on-bottom{
+  display: none;
 }

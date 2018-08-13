@@ -116,7 +116,7 @@
     padding-left: 50px;
 }
 .undp{
-	margin-left: 154px;
+	margin-left: 165px;
     height: 120px;
     margin-top: 100px;
 }
@@ -140,6 +140,8 @@
 }
 .captions-other{
 	margin-top: 20px;
+    margin-left: 55px;
+    width: 288px;
 }
 
 AOS.init({

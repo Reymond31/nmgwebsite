@@ -4,7 +4,7 @@
  		<script>
  			function initMap() {
  				var map = new google.maps.Map(document.getElementById('map'), {
- 					center: {lat: 14.56358457, lng: 121.00970289},
+ 					center: {lat: 14.56285768, lng: 121.01026079},
  					zoom: 17,
  					styles:[
  					{
@@ -204,14 +204,14 @@
  				});
  				var icon = {
  					url: "<?php echo base_url("assets/img/logo.png")?>", 
-    					scaledSize: new google.maps.Size(50, 50), // scaled size
-    				};
+    					scaledSize: new google.maps.Size(60, 60), // scaled size
+    			};
 
     			var marker = new google.maps.Marker({
     				position: new google.maps.LatLng(14.56256433, 121.01300418),
     				map: map,
     				icon: icon
-    				});
+    			});
 
     			var contentString = '<div id="content">'+
             		'<div id="siteNotice">'+
@@ -258,7 +258,7 @@
     						</select>
     						<span class="labelscontact"><br><b>Message:</b><br></span>
     						<textarea placeholder="Enter your message here...."></textarea>
-    						<button type="button" class="button" style="vertical-align:"><span>SUBMIT</span></button><br>
+    						<button type="button" class="button-submit"><span>SUBMIT</span></button><br>
     					</div>
                         <div class="transbox-2">          
                             <div class="wrap">
