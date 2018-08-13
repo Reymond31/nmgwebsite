@@ -11,7 +11,7 @@
   margin-top: -395px;
   height: 300px;
   width: 450px;
-  margin-left: 230px;
+  margin-left: 430px
 }
 .carousel-inner {
   position: relative;
@@ -43,7 +43,7 @@
   color: #ffff;
   margin-bottom: 0;
   margin-right: 100%;
-  left:390px;
+  left:483px;
   font-size: 14px;
   font-weight: 600;
   width: 251px;
@@ -57,7 +57,7 @@
     color: #ffff;
     margin-bottom: 0;
     margin-right: 100%;
-    left:390px;
+    left:483px;
     font-size: 14px;
     font-weight: 600;
     width: 251px;
@@ -88,7 +88,7 @@ a:hover{
   color: #ffff;
   margin-bottom: 0;
   margin-right: 100%;
-  left:390px;
+  left:483px;
   font-size: 14px;
   font-weight: 600;
   width: 251px;
@@ -106,7 +106,7 @@ a:hover{
  letter-spacing: 1px;
   margin-bottom: 0;
   margin-right: 100%;
-  left:390px;
+  left:483px;
   font-size: 14px;
   font-weight: 600;
   width: 251px;
@@ -120,8 +120,8 @@ a:hover{
   color: #ffff;
   font-size: 43px;
   position: absolute;
-  bottom: 300px;
-  left: 830px;
+  bottom: 110px;
+  left: 163px;
   font-family: Arial;
   font-weight: 700;
   letter-spacing: 2px;
@@ -131,11 +131,12 @@ a:hover{
   color: #ffff;
   font-size: 48px;
   position: absolute;
-  bottom: 250px;
-  left: 830px;
+  bottom: 130px;
+  left: 163px;
   font-family: Arial;
   font-weight: 700;
   letter-spacing: 2px;
+  bottom: 105px;
 }
 .carousels-caption{
   color: #ffff;
