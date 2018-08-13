@@ -1,5 +1,5 @@
 #contact{
-  margin: 515px;
+  margin-top: -95px;
 }
 .carousel-control.left, .carousel-control.right {
   background-image:none !important;
@@ -8,7 +8,7 @@
 }
 .carousel-inner>.item>a>img, .carousel-inner>.item>img {
   line-height: 1;
-  margin-top: -395px;
+  margin-top: 120px;
   height: 300px;
   width: 450px;
   margin-left: 430px
@@ -52,6 +52,8 @@
  bottom:0px;
  letter-spacing: 1px;
  padding-bottom: 0;
+ height:229px;
+ padding-top:0;
 }
 .carousels-caption_pinoypayroll{
     color: #ffff;
@@ -63,7 +65,7 @@
     width: 251px;
    margin-left: 430px;
    position: fixed;
-   bottom:40px;
+   bottom:65px;
  text-align: center;
  text-shadow: 0.1em 0.1em 0.2em #585757;
  letter-spacing: 1px;
@@ -98,7 +100,7 @@ a:hover{
  text-align: center;
  text-shadow: 0.1em 0.1em 0.2em #585757;
  letter-spacing: 1px;
-
+ height:245px;
 
 }
 .carousel-caption_txtsupport{
@@ -113,6 +115,7 @@ a:hover{
  margin-left: 430px;
  position: fixed;
  bottom:0px;
+ height:243px;
  text-align: center;
   text-shadow: 0.1em 0.1em 0.2em #585757;
 }
@@ -120,12 +123,7 @@ a:hover{
   color: #ffff;
   font-size: 43px;
   position: absolute;
-  bottom: 110px;
-  left: 163px;
-  font-family: Arial;
-  font-weight: 700;
-  letter-spacing: 2px;
-  text-shadow: 0.1em 0.1em 0.2em #585757;
+  
 }
 .carousels_pinoypayroll{
   color: #ffff;
@@ -137,6 +135,64 @@ a:hover{
   font-weight: 700;
   letter-spacing: 2px;
   bottom: 105px;
+}
+span.five{
+  color:#f9fafb;
+  font-size: 70px;
+  letter-spacing: 0;
+  bottom: 145px;
+  left: 153px;
+  font-family: Arial;
+  font-weight: 700;
+  position: fixed;
+}
+span.txt{
+  color:#f9fafb;
+  font-size: 70px;
+  letter-spacing: 5px;
+  bottom: 145px;
+  left: 218px;
+  font-family: Arial;
+  font-weight: 700;
+  position: fixed;
+}
+span.bes{
+  color:#f9fafb;
+  font-size: 70px;
+  letter-spacing: 0;
+  bottom: 145px;
+  left: 209px;
+  font-family: Arial;
+  font-weight: 700;
+  position: fixed;
+}
+span.six{
+  color:#f9fafb;
+  font-size: 21px;
+  bottom: 164px;
+  left: 292px;
+  font-family: Arial;
+  font-weight: 700;
+  position: fixed;
+}
+span.seven{
+  color:#f9fafb;
+  font-size: 40px;
+  bottom: 121px;
+  left: 155px;
+  font-family: Arial;
+  font-weight: 700;
+  position: fixed;
+  letter-spacing: 5px;
+}
+span.support{
+  color:#f9fafb;
+  font-size: 40px;
+  bottom: 121px;
+  left: 191px;
+  font-family: Arial;
+  font-weight: 700;
+  position: fixed;
 }
 .carousels-caption{
   color: #ffff;
