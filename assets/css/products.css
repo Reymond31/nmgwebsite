@@ -11,7 +11,7 @@
   margin-top: 120px;
   height: 300px;
   width: 450px;
-  margin-left: 430px
+  margin-left: 250px
 }
 .carousel-inner {
   position: relative;
@@ -43,7 +43,7 @@
   color: #ffff;
   margin-bottom: 0;
   margin-right: 100%;
-  left:483px;
+  left:400px;
   font-size: 12px;
   font-weight: 600;
   width: 251px;
@@ -59,7 +59,7 @@
     color: #ffff;
     margin-bottom: 0;
     margin-right: 100%;
-    left:483px;
+    left:400px;
     font-size: 12px;
     font-weight: 600;
     width: 251px;
@@ -90,7 +90,7 @@ a:hover{
   color: #ffff;
   margin-bottom: 0;
   margin-right: 100%;
-  left:483px;
+  left:400px;
   font-size: 12px;
   font-weight: 600;
   width: 251px;
@@ -108,7 +108,7 @@ a:hover{
  letter-spacing: 1px;
   margin-bottom: 0;
   margin-right: 100%;
-  left:483px;
+  left:400px;
   font-size: 12px;
   font-weight: 600;
   width: 251px;
@@ -140,8 +140,8 @@ span.five{
   color:#f9fafb;
   font-size: 70px;
   letter-spacing: 0;
-  bottom: 145px;
-  left: 153px;
+  bottom: 280px;
+  left: 840px;
   font-family: Arial;
   font-weight: 700;
   position: fixed;
@@ -150,8 +150,8 @@ span.txt{
   color:#f9fafb;
   font-size: 70px;
   letter-spacing: 5px;
-  bottom: 145px;
-  left: 218px;
+  bottom: 280px;
+  left: 870px;
   font-family: Arial;
   font-weight: 700;
   position: fixed;
@@ -160,8 +160,8 @@ span.bes{
   color:#f9fafb;
   font-size: 70px;
   letter-spacing: 0;
-  bottom: 145px;
-  left: 209px;
+  bottom: 250px;
+  left: 880px;
   font-family: Arial;
   font-weight: 700;
   position: fixed;
@@ -169,8 +169,8 @@ span.bes{
 span.six{
   color:#f9fafb;
   font-size: 21px;
-  bottom: 164px;
-  left: 292px;
+  bottom: 250px;
+  left: 840px;
   font-family: Arial;
   font-weight: 700;
   position: fixed;
@@ -178,8 +178,8 @@ span.six{
 span.seven{
   color:#f9fafb;
   font-size: 40px;
-  bottom: 121px;
-  left: 155px;
+  bottom: 250px;
+  left: 840px;
   font-family: Arial;
   font-weight: 700;
   position: fixed;
@@ -188,8 +188,8 @@ span.seven{
 span.support{
   color:#f9fafb;
   font-size: 40px;
-  bottom: 121px;
-  left: 191px;
+  bottom: 250px;
+  left: 840px;
   font-family: Arial;
   font-weight: 700;
   position: fixed;
@@ -213,7 +213,7 @@ span.support{
 .carousel-indicators {
     position: absolute;
     bottom: 10px;
-    left: 50%;
+    left: 37%;
     z-index: 15;
     width: 60%;
     padding-left: 0;
