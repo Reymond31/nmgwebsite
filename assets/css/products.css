@@ -1,6 +1,9 @@
 #contact{
   margin-top: -95px;
 }
+.modal-content{
+  margin-top: 125px;
+}
 .carousel-control.left, .carousel-control.right {
   background-image:none !important;
   filter:none !important;
