@@ -12,9 +12,9 @@
 .carousel-inner>.item>a>img, .carousel-inner>.item>img {
   line-height: 1;
   margin-top: 120px;
-  height: 300px;
-  width: 450px;
-  margin-left: 250px
+  height: 285px;
+  width: 480px;
+  margin-left: 195px
 }
 .carousel-inner {
   position: relative;
@@ -43,20 +43,22 @@
   color: #59c5f0;
 }
 .carousel-caption{
-  color: #ffff;
-  margin-bottom: 0;
-  margin-right: 100%;
-  left:400px;
-  font-size: 12px;
-  font-weight: 600;
-  width: 251px;
- margin-left: 430px;
+ color: #ffff;
+ margin-bottom: 0;
+ margin-right: 100%;
+ left:400px;
+ font-size: 14px;
+ font-weight: 100;
  position: fixed;
- bottom:0px;
- letter-spacing: 1px;
+ letter-spacing:2px;
  padding-bottom: 0;
- height:229px;
  padding-top:0;
+ text-align: justify;
+ margin-left: 342px;
+ bottom: 5px;
+ width: 415px;
+ height:171px;
+ font-family: Arial;
 }
 .carousels-caption_pinoypayroll{
     color: #ffff;
@@ -74,14 +76,23 @@
  letter-spacing: 1px;
 
 }
-a{
-  font-family: Arial;
-  letter-spacing: 1.8px;
-  text-shadow: none;
-  color:white;
+p.inside{
+  margin:0;
 }
-a:hover{
+a.tour{
+  font-family: Arial;
+  letter-spacing: 1.7px;
+  text-shadow: none;
+  color:#59c5f0;
+  margin-left: 280px;
+  font-weight: bold;
+  font-size:15px;
+}
+a.tour:hover{
   font-weight:600;
+}
+a.tour:active{
+  color:white;
 }
 .overlaysh {
     background: rgba(0,0,0,0.6);
@@ -90,37 +101,42 @@ a:hover{
     height: 925px;
 }
 .carousel-caption_bes{
-  color: #ffff;
-  margin-bottom: 0;
-  margin-right: 100%;
-  left:400px;
-  font-size: 12px;
-  font-weight: 600;
-  width: 251px;
- margin-left: 430px;
+ color: #ffff;
+ margin-bottom: 0;
+ margin-right: 100%;
+ left:400px;
+ font-size: 14px;
+ font-weight: 100;
  position: fixed;
- bottom:0px;
- text-align: center;
- text-shadow: 0.1em 0.1em 0.2em #585757;
- letter-spacing: 1px;
- height:245px;
-
+ letter-spacing:1.3px;
+ padding-bottom: 0;
+ padding-top:0;
+ text-align: justify;
+ margin-left: 342px;
+ bottom: 18px;
+ width: 415px;
+ height:171px;
+ font-family: Arial;
+ text-shadow: 0 1px 2px rgba(0,0,0,.6);
 }
 .carousel-caption_txtsupport{
-  color: #ffff;
- letter-spacing: 1px;
-  margin-bottom: 0;
-  margin-right: 100%;
-  left:400px;
-  font-size: 12px;
-  font-weight: 600;
-  width: 251px;
- margin-left: 430px;
+ color: #ffff;
+ text-shadow: 0 1px 2px rgba(0,0,0,.6);
+ margin-bottom: 0;
+ margin-right: 100%;
+ left:400px;
+ font-size: 14px;
+ font-weight: 100;
  position: fixed;
- bottom:0px;
- height:243px;
- text-align: center;
-  text-shadow: 0.1em 0.1em 0.2em #585757;
+ letter-spacing:2px;
+ padding-bottom: 0;
+ padding-top:0;
+ text-align: justify;
+ margin-left: 340px;
+ bottom: 5px;
+ width: 415px;
+ height:171px;
+ font-family: Arial;
 }
 .carousels{
   color: #ffff;
@@ -136,38 +152,138 @@ a:hover{
   left: 163px;
   font-family: Arial;
   font-weight: 700;
-  letter-spacing: 2px;
+  letter-spacing: 1.5px;
   bottom: 105px;
 }
 span.five{
-  color:#f9fafb;
+  color:#59c5f0;
   font-size: 70px;
   letter-spacing: 0;
-  bottom: 280px;
-  left: 840px;
+  bottom: 275px;
+  left: 735px;
+  height: 15px;
   font-family: Arial;
   font-weight: 700;
   position: fixed;
+}
+span.heffy2{
+  color:#f9fafb;
+  font-size: 30px;
+  letter-spacing: 5px;
+  font-weight: 700;
+  position: fixed;
+  bottom: 174px;
+  left: 740px;
 }
 span.txt{
-  color:#f9fafb;
+  color:#59c5f0;
   font-size: 70px;
-  letter-spacing: 5px;
-  bottom: 280px;
-  left: 870px;
+  letter-spacing: 0;
+  bottom: 275px;
+  left: 729px;
+  height: 15px;
   font-family: Arial;
   font-weight: 700;
   position: fixed;
 }
-span.bes{
-  color:#f9fafb;
-  font-size: 70px;
+span.support{
+  color:#59c5f0;
+  font-size: 50px;
   letter-spacing: 0;
-  bottom: 250px;
-  left: 880px;
+  height: 15px;
   font-family: Arial;
   font-weight: 700;
   position: fixed;
+  bottom: 254px;
+  left: 861px;
+}
+span.sms{
+  color:#f9fafb;
+  font-size: 28px;
+  letter-spacing: 5px;
+  font-weight: 700;
+  position: fixed;
+  bottom: 174px;
+  left: 738px;
+}
+span.bes{
+  color:#59c5f0;
+  font-size: 70px;
+  letter-spacing: 0;
+  left: 735px;
+  bottom: 199px;
+  font-family: Arial;
+  font-weight: 700;
+  position: fixed;
+}
+span.bes2{
+  color:#59c5f0;
+  font-size: 50px;
+  letter-spacing: 0;
+  height: 15px;
+  font-family: Arial;
+  font-weight: 700;
+  position: fixed;
+  left: 885px;
+  bottom: 263px;
+}
+span.bes3{
+  color:#f9fafb;
+  font-size: 28px;
+  letter-spacing: 4px;
+  font-weight: 700;
+  position: fixed;
+  bottom: 184px;
+  left: 738px;
+}
+span.cress1{
+  color:#59c5f0;
+  font-size: 70px;
+  letter-spacing: 0;
+  bottom: 288px;
+  left: 735px;
+  height: 15px;
+  font-family: Arial;
+  font-weight: 700;
+  position: fixed;
+}
+span.cress1{
+  color:#f9fafb;
+  font-size: 30px;
+  letter-spacing: 5px;
+  font-weight: 700;
+  position: fixed;
+  bottom: 200px;
+  left: 740px;
+ text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+span.cress2{
+  color:#f9fafb;
+  font-size: 30px;
+  letter-spacing: 5px;
+  font-weight: 700;
+  position: fixed;
+  bottom: 145px;
+  left: 743px;
+ text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+.carousel-caption_cress{
+ color: #ffff;
+ margin-bottom: 0;
+ margin-right: 100%;
+ left:400px;
+ font-size: 14px;
+ font-weight: 100;
+ position: fixed;
+ letter-spacing:2px;
+ padding-bottom: 0;
+ padding-top:0;
+ text-align: justify;
+ margin-left: 342px;
+ bottom: 5px;
+ width: 415px;
+ height:143px;
+ font-family: Arial;
 }
 span.six{
   color:#f9fafb;
@@ -188,15 +304,6 @@ span.seven{
   position: fixed;
   letter-spacing: 5px;
 }
-span.support{
-  color:#f9fafb;
-  font-size: 40px;
-  bottom: 250px;
-  left: 840px;
-  font-family: Arial;
-  font-weight: 700;
-  position: fixed;
-}
 .carousels-caption{
   color: #ffff;
   margin-bottom: 0;
@@ -210,9 +317,8 @@ span.support{
  bottom: 82px;
  letter-spacing: 1px;
  text-shadow: 0.1em 0.1em 0.2em #585757;
- text-align: center;
+ text-align: justify;
 }
-
 .carousel-indicators {
     position: absolute;
     bottom: 10px;
