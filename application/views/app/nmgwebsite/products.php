@@ -85,7 +85,7 @@
             <span class="cress1"> CIVIL REGISTRY </span><span class="cress2"><br> SYSTEM & SERVICES</span>
           </div>
           <div class="carousel-caption_cress">
-            <p>Upon the request of the City of Manila, CReSS was developed to help streamline and automate the document management tasks of the City Hall. With over 30 million digital records and growing, CReSS has transformed the operations of City Hall. As a product of NMG, CReSS is currently being marketed to other government agencies.</p>
+            <p>Upon the request of the City of Manila, CReSS was developed to help streamline and automate the document management tasks of the City Hall. With over 30 million digital records and growing, CReSS has transformed the operations of City Hall.</p>
             <a class="tour" shref="#" data-toggle="modal" data-target=".bs-example-modal-lg-cress">TAKE A TOUR?</a>
           </div>
       </div>
