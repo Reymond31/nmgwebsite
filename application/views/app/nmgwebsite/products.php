@@ -81,7 +81,7 @@
           </div>
       <div class="item">
         <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="cress" >
-           <div class="carousels">  <span class="five">CRESS</span> 
+           <div class="carousels">  <span class="fivesh">CRESS</span> 
             <span class="cress1"> CIVIL REGISTRY </span><span class="cress2"><br> SYSTEM & SERVICES</span>
           </div>
           <div class="carousel-caption_cress">
