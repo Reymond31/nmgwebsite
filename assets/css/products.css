@@ -61,19 +61,22 @@
  font-family: Arial;
 }
 .carousels-caption_pinoypayroll{
-    color: #ffff;
+   color: #ffff;
     margin-bottom: 0;
     margin-right: 100%;
-    left:400px;
-    font-size: 12px;
-    font-weight: 600;
-    width: 251px;
-   margin-left: 430px;
-   position: fixed;
-   bottom:65px;
- text-align: center;
- text-shadow: 0.1em 0.1em 0.2em #585757;
- letter-spacing: 1px;
+    left: 400px;
+    font-size: 14px;
+    font-weight: 100;
+    position: fixed;
+    letter-spacing: 2px;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: justify;
+    margin-left: 342px;
+    bottom: 5px;
+    width: 415px;
+    height: 171px;
+    font-family: Arial;
 
 }
 p.inside{
@@ -159,7 +162,18 @@ span.five{
   color:#59c5f0;
   font-size: 70px;
   letter-spacing: 0;
-  bottom: 275px;
+  bottom: 293px;
+  left: 733px;
+  height: 15px;
+  font-family: Arial;
+  font-weight: 700;
+  position: fixed;
+}
+span.fives{
+  color:#59c5f0;
+  font-size: 70px;
+  letter-spacing: 0;
+  bottom: 245px;
   left: 735px;
   height: 15px;
   font-family: Arial;
@@ -180,7 +194,7 @@ span.txt{
   font-size: 70px;
   letter-spacing: 0;
   bottom: 275px;
-  left: 729px;
+  left: 734px;
   height: 15px;
   font-family: Arial;
   font-weight: 700;
@@ -195,7 +209,7 @@ span.support{
   font-weight: 700;
   position: fixed;
   bottom: 254px;
-  left: 861px;
+  left: 872px;
 }
 span.sms{
   color:#f9fafb;
@@ -210,7 +224,7 @@ span.bes{
   color:#59c5f0;
   font-size: 70px;
   letter-spacing: 0;
-  left: 735px;
+  left: 736px;
   bottom: 199px;
   font-family: Arial;
   font-weight: 700;
@@ -224,7 +238,7 @@ span.bes2{
   font-family: Arial;
   font-weight: 700;
   position: fixed;
-  left: 885px;
+  left: 900px;
   bottom: 263px;
 }
 span.bes3{
@@ -234,7 +248,7 @@ span.bes3{
   font-weight: 700;
   position: fixed;
   bottom: 184px;
-  left: 738px;
+  left: 740px;
 }
 span.cress1{
   color:#59c5f0;
@@ -253,8 +267,8 @@ span.cress1{
   letter-spacing: 5px;
   font-weight: 700;
   position: fixed;
-  bottom: 200px;
-  left: 740px;
+  bottom: 215px;
+  left: 742px;
  text-shadow: 0 1px 2px rgba(0,0,0,.6);
 }
 span.cress2{
@@ -263,7 +277,7 @@ span.cress2{
   letter-spacing: 5px;
   font-weight: 700;
   position: fixed;
-  bottom: 145px;
+  bottom: 158px;
   left: 743px;
  text-shadow: 0 1px 2px rgba(0,0,0,.6);
 }
@@ -280,7 +294,7 @@ span.cress2{
  padding-top:0;
  text-align: justify;
  margin-left: 342px;
- bottom: 5px;
+ bottom: 10px;
  width: 415px;
  height:143px;
  font-family: Arial;
@@ -304,6 +318,16 @@ span.seven{
   position: fixed;
   letter-spacing: 5px;
 }
+span.sevens{
+  color:#59c5f0;;
+  font-size: 40px;
+  bottom: 170px;
+  left: 950px;
+  font-family: Arial;
+  font-weight: 700;
+  position: fixed;
+  letter-spacing: 5px;
+}
 .carousels-caption{
   color: #ffff;
   margin-bottom: 0;
@@ -322,7 +346,7 @@ span.seven{
 .carousel-indicators {
     position: absolute;
     bottom: 10px;
-    left: 37%;
+    left: 34%;
     z-index: 15;
     width: 60%;
     padding-left: 0;

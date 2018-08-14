@@ -104,10 +104,10 @@
       <div class="item">
         <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="pinoypayroll" >
            <div class="carousels_pinoypayroll"> 
-            <span class="five">PINOY</span><span class="seven">PAYROLL</span>
+            <span class="fives">PINOY</span><span class="sevens">PAYROLL</span>
           </div>
           <div class="carousels-caption_pinoypayroll">
-           <p>Marketing promotions have grown in the past decade, often exceeding the capabilities of existing point-of-sales devices. POS Partner works with any standard Windows-based POS, and automatically allows marketing solutions without any changes<br> to the existing POS.</p>
+           <p>Marketing promotions have grown in the past decade, often exceeding the capabilities of existing point-of-sales devices. POS Partner works with any standard Windows-based POS, and automatically allows marketing solutions without any changes to the existing POS.</p>
            <a class="tour" href="#" data-toggle="modal" data-target=".bs-example-modal-lg-pinoypayroll">TAKE A TOUR?</a>
           </div>
       </div>
