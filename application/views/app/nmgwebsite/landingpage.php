@@ -25,8 +25,8 @@
 		<div class="welcome">
 			<div class="row">
 				<div class="col-lg-8 col-xs-8">
-					<p class = "nmg"> nmg</p>
-					<p class="resources">resources inc.</p>
+					<p class = "nmg"> NMG</p>
+					<p class="resources">RESOURCES INC.</p>
 				</div>
 			</div>
 			<div class="row">
