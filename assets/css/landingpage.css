@@ -16,7 +16,7 @@ body{
 .logo-1{
     height: 62px;
     width: 64px;
-    margin-top: 49px;
+    margin-top: 20px;
     margin-left: 33px;
 }
 .logo{
@@ -120,16 +120,36 @@ body{
 	font-size: 25px;
 	letter-spacing:5.5px;
 }
-
 .nmg{
 	font-size:90px;
-	letter-spacing: 6.5px;
+	letter-spacing: -2.5px;
 	font-weight: 900;
+    text-shadow: 0em 0em 1em #000;
+    font-family: Arial;
+    color: #59c5f0;
+    height: 43px;
+    margin-top: 42px;
+    width: 250px;
+}
+.resources{
+    font-weight: bold !important;
+    font-size: 41px;
+    padding-left:23px;
+    color:#ffff;
+    letter-spacing: 2.5px;
+    text-shadow: 1em 0em 1em #000;
+    font-family: Arial;
+    margin-top: 0px;
+    margin-left: 184px;
+    height: 49px;
 }
 .exp{
 	font-size: 25px;
-	letter-spacing:5.5px;
+	letter-spacing:4.5px;
     margin-left: 5px;
+    height: 31px;
+    margin-top: 18px;
+    font-family: Arial;
 }
 .arrow-down{
 	margin-bottom: 20px;
