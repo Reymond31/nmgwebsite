@@ -25,12 +25,13 @@
 		<div class="welcome">
 			<div class="row">
 				<div class="col-lg-8 col-xs-8">
-					<span class = "nmg"> NMG</span>RESOURCES INC.
+					<p class = "nmg"> nmg</p>
+					<p class="resources">resources inc.</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-lg-6 col-xs-6">
-					<p class="exp">EXPERTISE ON DEMAND</p>
+					<p class="exp">Expertise on demand</p>
 				</div>
 				<div class="col-lg-6 col-xs-6">
 					<div id="testimonials">
