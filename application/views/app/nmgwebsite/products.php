@@ -8,7 +8,7 @@
       <li data-target="#carousel-example-generic" data-slide-to="5"></li>
     </ol>
     <div class="carousel-inner" role="listbox">
-      <div class="overlaysh"></div>
+      <div class="overlaysh"> <p class="clients2">FEATURED PRODUCTS</p></div>
       <div class="item active">
        <img class="slides" src="<?php echo base_url("assets/img/heffy.jpg")?>" alt="heffy">
           <div class="carousels"><span class="five"> HEFFY </span> <span class="heffy2">MOBILE YEARBOOK</span></div>

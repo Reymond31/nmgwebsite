@@ -7,11 +7,11 @@
 .carousel-control.left, .carousel-control.right {
   background-image:none !important;
   filter:none !important;
-  margin-top: 40px;
+  margin-top: 63px;
 }
 .carousel-inner>.item>a>img, .carousel-inner>.item>img {
   line-height: 1;
-  margin-top: 120px;
+  margin-top: 172px;
   height: 285px;
   width: 480px;
   margin-left: 195px
@@ -27,18 +27,20 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .icon-angle-left:before {
   content: "\f104";
-  margin-top: 200px;
+  margin-top: 221px;
   margin-right: 40px;
   color: #59c5f0;
 }
 .slides{
   border-radius: 8px;
+  margin-top: 
 }
 .icon-angle-right:before {
   content: "\f105";
-  margin-top: 200px;
+  margin-top: 221px;
   margin-right: 40px;
   color: #59c5f0;
 }
@@ -355,7 +357,7 @@ span.sevens{
 }
 .carousel-indicators {
     position: absolute;
-    bottom: 0px;
+    bottom: -35px;
     left: 55%;
     z-index: 15;
     width: 60%;
@@ -367,4 +369,16 @@ span.sevens{
 }
 #products{
   height:598px;
+}
+
+.clients2 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 50px;
+    margin-top: 55px;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    letter-spacing: 3px;
+    font-family: Arial;
+    color: white;
 }
