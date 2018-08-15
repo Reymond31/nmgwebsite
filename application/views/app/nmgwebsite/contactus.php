@@ -241,7 +241,7 @@
     			<div class="row">
     				<div class="container">	
                         <div class="transbox-1">			
-    						<h2 class="head">Connect with us?</h2>
+    						<h2 class="head">Connect with us</h2>
     						<span class="labelscontact"><b>Name:</b></span>
     						<input type="text" placeholder="Your name" class="name">
     						<span class="labelscontact"><br><b>Email:</b></span>
