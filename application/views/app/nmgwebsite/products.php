@@ -21,6 +21,7 @@
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
             <div class="w3-content w3-display-container">
+              <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
               <img class="mySlides1" src="<?php echo base_url("assets/img/heffy-1.jpg")?>" style="width:100%">
               <img class="mySlides1" src="<?php echo base_url("assets/img/heffy-2.jpg")?>" style="width:100%">
               <img class="mySlides1" src="<?php echo base_url("assets/img/heffy-3.jpg")?>" style="width:100%">
@@ -45,6 +46,7 @@
             <div class="modal-dialog modal-lg">
               <div class="modal-content">
                 <div class="w3-content w3-display-container">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
                   <img class="mySlides2" src="<?php echo base_url("assets/img/txtsupport-1.jpg")?>" style="width:100%">
                   <img class="mySlides2" src="<?php echo base_url("assets/img/txtsupport-2.jpg")?>" style="width:100%">
                   <img class="mySlides2" src="<?php echo base_url("assets/img/txtsupport-3.jpg")?>" style="width:100%">
@@ -71,8 +73,9 @@
             <div class="modal-dialog modal-lg">
               <div class="modal-content">
                 <div class="w3-content w3-display-container">
-                  <img class="mySlides3" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:100%">
-                  <img class="mySlides3" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:100%">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                  <img class="mySlides3" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:70%">
+                  <img class="mySlides3" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:70%">
                   <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
                   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 2)">&#10095;</button>
                 </div>
@@ -93,8 +96,9 @@
             <div class="modal-dialog modal-lg">
               <div class="modal-content">
                 <div class="w3-content w3-display-container">
-                  <img class="mySlides4" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:100%">
-                  <img class="mySlides4" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:100%">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                  <img class="mySlides4" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:70%">
+                  <img class="mySlides4" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:70%">
                   <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
                   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 3)">&#10095;</button>
                 </div>
@@ -115,8 +119,9 @@
             <div class="modal-dialog modal-lg">
               <div class="modal-content">
                 <div class="w3-content w3-display-container">
-                  <img class="mySlides5" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:100%">
-                  <img class="mySlides5" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:100%">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                  <img class="mySlides5" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:70%">
+                  <img class="mySlides5" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:70%">
                   <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
                   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 4)">&#10095;</button>
                 </div>
