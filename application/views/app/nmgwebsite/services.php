@@ -15,14 +15,14 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-2">
-				<img src="assets/img/pens.png" class="pen1">
+				<img src="assets/img/penshi.png" class="pen1">
 			</div>
 			<div class="col-lg-4">
 				<p class="pen2">Web App Design and Development</p>	
 				<p class="pen3">PHP/nodeJS custom development, including relevant database solutions. Applications are built using modern frameworks and industry leading scalability.</p>
 			</div>
 			<div class="col-lg-2">
-					<img src="assets/img/phs.png" class="phone">
+					<img src="assets/img/phone.png" class="phone">
 			</div>
 				<div class="col-lg-4">
 					<p class="mobile1">Mobile Application for Android and iOS</p>
@@ -31,14 +31,14 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-2">	
-					<img src="assets/img/staf.png" class="staff">
+					<img src="assets/img/sta.png" class="staff">
 			</div>
 			<div class="col-lg-4">	
 				<p class="staff1">Staff Augmentation</p>
  				<p class="staff2">Providing experienced developers and database administrators to local industries, managed for specific requirements of the business.</p>
  			</div>
  			<div class="col-lg-2">	
-				<img src="assets/img/t.png" class="tech">
+				<img src="assets/img/tech.png" class="tech">
 			</div>
 			<div class="col-lg-4">	
 			 	<p class="tech1">Technology & Management Consulting</p>
