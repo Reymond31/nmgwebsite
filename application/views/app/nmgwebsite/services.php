@@ -6,7 +6,7 @@
 					<p class="heads"> DO?</p>
 				</div>
 			<div class="col-lg-3">
-					<img src="assets/img/mons.png" class="laptop">
+					<img src="assets/img/monitors.png" class="laptop">
 			</div>
 			<div class="col-lg-4">
 					<p class="laptop1">Desktop Application Development</p>
