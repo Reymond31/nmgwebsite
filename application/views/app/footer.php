@@ -138,6 +138,6 @@ AOS.init();
 </script>
 </body>
 <div class="container-fluid footer">
-<footer><p>2018 © NMG(NMGResources.Inc). All rights reserved.</p></footer>
+<footer><p>2018 © NMGResources Inc. All rights reserved.</p></footer>
 </div>
 </html>

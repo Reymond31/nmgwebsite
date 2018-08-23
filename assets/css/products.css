@@ -1,8 +1,16 @@
 #contact{
-  margin-top: -95px;
+  margin-top: -90px;
 }
-.modal-content{
-  margin-top: 125px;
+.modal-content {
+    height: 600px;
+}
+.modal-header{
+  background-color: #fff;
+}
+.w3-black, .w3-hover-black:hover {
+    margin-top: 245px;
+    color: #fff!important;
+    background-color: #000!important;
 }
 .carousel-control.left, .carousel-control.right {
   background-image:none !important;
@@ -368,7 +376,8 @@ span.sevens{
     margin-bottom: 90px;
 }
 #products{
-  height:598px;
+  height: 598px;
+  width: 1349px;
 }
 
 .clients2 {
@@ -387,4 +396,42 @@ span.sevens{
   margin-left: 829px;
   border-radius: 20px;
   position: absolute;
+}
+.first-textsupport-header{
+  border-radius: 20px;
+}
+.second-textsupport-header{
+  background-color: green;
+  height: 60px;
+}
+.what-txtsupport{
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  background-color: green;
+  color: #fff; 
+}
+.description-header{
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+.description-body{
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 15px;
+}
+.find-logo{
+  height: 100px;
+  width: 100px;
+}
+.btn-u-lg, a.btn-u-lg {
+  font-size: 18px;
+  padding: 10px 25px;
+  color: white;
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+}
+.btn-u {
+    background: #009000;
 }

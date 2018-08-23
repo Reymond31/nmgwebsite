@@ -21,11 +21,27 @@
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
             <div class="w3-content w3-display-container">
-              <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
-              <img class="mySlides1" src="<?php echo base_url("assets/img/heffy-1.jpg")?>" style="width:100%">
-              <img class="mySlides1" src="<?php echo base_url("assets/img/heffy-2.jpg")?>" style="width:100%">
-              <img class="mySlides1" src="<?php echo base_url("assets/img/heffy-3.jpg")?>" style="width:100%">
-              <img class="mySlides1" src="<?php echo base_url("assets/img/heffy-4.jpg")?>" style="width:100%">
+              <div class="mySlides1">
+                <div class="modal-header">
+                  <h4 class="modal-title">HEFFY.CO</h4>
+                  <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+                </div>
+                <div class="modal-body">
+                  <p>What is heffy.co?</p>
+                </div>
+                <div class="modal-footer">
+               </div>
+              </div>
+              <div class="mySlides1">
+                <div class="modal-header">
+                  <h4 class="modal-title">HEFFY.CO</h4>
+                </div>
+                <div class="modal-body">
+                  <p>Application</p>
+                </div>
+                <div class="modal-footer">
+                </div>
+              </div>
               <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
               <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button>
             </div>
@@ -42,21 +58,45 @@
             <a  class= "tour" href="#" data-toggle="modal" data-target=".bs-example-modal-lg-txtsupport">TAKE A TOUR?</a>
           </div>
         </div>
-          <div class="modal fade bs-example-modal-lg-txtsupport" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-lg">
-              <div class="modal-content">
-                <div class="w3-content w3-display-container">
-                  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-                  <img class="mySlides2" src="<?php echo base_url("assets/img/txtsupport-1.jpg")?>" style="width:100%">
-                  <img class="mySlides2" src="<?php echo base_url("assets/img/txtsupport-2.jpg")?>" style="width:100%">
-                  <img class="mySlides2" src="<?php echo base_url("assets/img/txtsupport-3.jpg")?>" style="width:100%">
-                  <img class="mySlides2" src="<?php echo base_url("assets/img/txtsupport-4.jpg")?>" style="width:100%">
-                  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
-                  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 1)">&#10095;</button>
+        <div class="modal fade bs-example-modal-lg-txtsupport" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+              <div class="w3-content w3-display-container">
+                <div class="mySlides2">
+                  <div class="modal-header first-textsupport-header">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+                    <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
+                  </div>
+                  <div class="modal-header second-textsupport-header">
+                    <span class="what-txtsupport">What is txtsupport.co?</span>
+                  </div>
+                  <div class="modal-body">
+                    <span class="description-header">TXTSUPPORT.CO is an on-demand web-based SMS/Text Support Platform.</span>
+                    <p class="description-body">TXTSUPPORT is a SMS CRM allowing businesses to interact with their customers via SMS. It also provide integration into existing platforms and a growing API support to extend it. The best part of TxtSupport is that all communication costs are charged absolutely free, encouraging customers to interact without being charged by the telco. Your customer have no load? No problem! 
+                    Signup now for FREE and your SMS/Text Support Platform will be available in an instant! </p>
+                    <p class="description-body">TEXT: <b>@txtsupport &ltspace&gt &ltyour message&gt </b> and send to <b>2929 0 292</b> to receive an instant message. </p>
+                    <a href="https://www.facebook.com/txtsupport.co"><img src="<?php echo base_url("assets/img/find-fb.jpg")?>" class="find-logo"></a>
+                    <a href="http://txtsupport.co/register" class="btn-u btn-u-lg white hvr-icon-wobble-horizontal">Sign Up Now for FREE!<i class="icon-signin  hvr-icon-wobble-horizontal"></i></a>                  
+                  </div>
+                  <div class="modal-footer">
+                  </div>
                 </div>
+                <div class="mySlides2">
+                  <div class="modal-header">
+                    <h4 class="modal-title">TXTSUPPORT.CO</h4>
+                  </div>
+                  <div class="modal-body">
+                    <p>Application</p>
+                  </div>
+                  <div class="modal-footer">
+                  </div>
+                </div>
+                <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
+                <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 1)">&#10095;</button>
               </div>
             </div>
           </div>
+        </div>
       <div class="item">
         <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="bes" >
            <div class="carousels"> 
