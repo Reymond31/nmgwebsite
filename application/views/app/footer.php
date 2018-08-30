@@ -1,6 +1,6 @@
 <script>
 $(window).scroll(function(){
-    $('nav').toggleClass('scrolled', $(this).scrollTop() > 50);
+    $('nav').toggleClass('scrolled', $(this).scrollTop() > 400);
 });
 
 $(window).ready(function() {
@@ -96,7 +96,7 @@ $(window).scroll(function() {
         var scrollDistance = $(window).scrollTop();
 
         // Show/hide menu on scroll
-        if (scrollDistance >= 50) {
+        if (scrollDistance > 400) {
               $('nav').fadeIn("fast");
         } else {
              $('nav').fadeOut("fast");

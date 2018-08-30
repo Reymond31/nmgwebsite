@@ -24,7 +24,7 @@
               <div class="mySlides1">
                 <div class="modal-header">
                   <h4 class="modal-title">HEFFY.CO</h4>
-                  <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                 </div>
                 <div class="modal-body">
                   <p>What is heffy.co?</p>
@@ -64,7 +64,7 @@
               <div class="w3-content w3-display-container">
                 <div class="mySlides2">
                   <div class="modal-header first-textsupport-header">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                     <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
                   </div>
                   <div class="modal-header second-textsupport-header">
@@ -75,24 +75,171 @@
                     <p class="description-body">TXTSUPPORT is a SMS CRM allowing businesses to interact with their customers via SMS. It also provide integration into existing platforms and a growing API support to extend it. The best part of TxtSupport is that all communication costs are charged absolutely free, encouraging customers to interact without being charged by the telco. Your customer have no load? No problem! 
                     Signup now for FREE and your SMS/Text Support Platform will be available in an instant! </p>
                     <p class="description-body">TEXT: <b>@txtsupport &ltspace&gt &ltyour message&gt </b> and send to <b>2929 0 292</b> to receive an instant message. </p>
-                    <a href="https://www.facebook.com/txtsupport.co"><img src="<?php echo base_url("assets/img/find-fb.jpg")?>" class="find-logo"></a>
-                    <a href="http://txtsupport.co/register" class="btn-u btn-u-lg white hvr-icon-wobble-horizontal">Sign Up Now for FREE!<i class="icon-signin  hvr-icon-wobble-horizontal"></i></a>                  
+                    <div class="container">
+                      <div class="row">
+                        <div class="col-lg-4 spacer">
+                          <img src="<?php echo base_url("assets/img/resize.png")?>">
+                          <span class="fully-responsive">Fully Responsive</span>
+                          <p class="description-responsive">TXTSUPPORT.co's dashboard is fully responsive and fully compatible with any mobile device browser. You can seemlessly check your incoming SMS' on your mobile device.</p>
+                        </div>
+                        <div class="col-lg-4 spacer">
+                          <img src="<?php echo base_url("assets/img/configure.png")?>"> 
+                          <span class="simple-configuration">Simple Configuration</span>
+                          <p class="description-configuration">With our intuitive settings panel, various modification of settings and configurations like keyword setting and E-mail notifications can be easily done.</p>
+                        </div>
+                        <div class="col-lg-4 spacer">
+                          <img src="<?php echo base_url("assets/img/launcher.png")?>"> 
+                          <span class="launch-ready">Launch Ready</span>
+                          <p class="description-launch">Once you have registered and made the quick and easy configurations, your system is ready to roll. No more waiting and complicated technical provisioning needed!</p>
+                        </div>
+                      </div>
+                    </div>     
                   </div>
                   <div class="modal-footer">
+                    <a href="http://txtsupport.co/login" class="btn-u btn-u-lg white hvr-icon-wobble-horizontal log-in">Already have an account?</a>
+                    <a href="https://www.facebook.com/txtsupport.co"><img class="find-logo" src="<?php echo base_url("assets/img/find-fb.jpg")?>"></a>
+                    <a href="http://txtsupport.co/register" class="btn-u btn-u-lg white hvr-icon-wobble-horizontal">Sign Up Now for FREE!</a>         
                   </div>
                 </div>
                 <div class="mySlides2">
-                  <div class="modal-header">
-                    <h4 class="modal-title">TXTSUPPORT.CO</h4>
+                  <div class="modal-header first-textsupport-header">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                    <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
+                  </div>
+                  <div class="modal-header second-textsupport-header">
+                    <span class="what-txtsupport">Features of textsupport.co</span>
                   </div>
                   <div class="modal-body">
-                    <p>Application</p>
-                  </div>
-                  <div class="modal-footer">
+                    <div class="container">
+                       <p class="description-features">Simple Message Dashboard</p>
+                      <img src="<?php echo base_url("assets/img/simple-dashboard.jpg")?>" class="features-pic">
+                    </div>     
                   </div>
                 </div>
-                <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
-                <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 1)">&#10095;</button>
+                <div class="mySlides2">
+                  <div class="modal-header first-textsupport-header">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                    <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
+                  </div>
+                  <div class="modal-header second-textsupport-header">
+                    <span class="what-txtsupport">Features of textsupport.co</span>
+                  </div>
+                  <div class="modal-body">
+                    <div class="container">
+                       <p class="description-features">Messaging Thread</p>
+                      <img src="<?php echo base_url("assets/img/messaging-thread.jpg")?>" class="features-pic">
+                    </div>     
+                  </div>
+                </div>
+                <div class="mySlides2">
+                  <div class="modal-header first-textsupport-header">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                    <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
+                  </div>
+                  <div class="modal-header second-textsupport-header">
+                    <span class="what-txtsupport">Features of textsupport.co</span>
+                  </div>
+                  <div class="modal-body">
+                    <div class="container">
+                       <p class="description-features">Address Book</p>
+                      <img src="<?php echo base_url("assets/img/address-book.jpg")?>" class="features-pic">
+                    </div>     
+                  </div>
+                </div>
+                <div class="mySlides2">
+                  <div class="modal-header first-textsupport-header">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                    <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
+                  </div>
+                  <div class="modal-header second-textsupport-header">
+                    <span class="what-txtsupport">Features of textsupport.co</span>
+                  </div>
+                  <div class="modal-body">
+                    <div class="container">
+                       <p class="description-features">CSV Download</p>
+                      <img src="<?php echo base_url("assets/img/csv-download.jpg")?>" class="features-pic">
+                    </div>     
+                  </div>
+                </div>
+                <div class="mySlides2">
+                  <div class="modal-header first-textsupport-header">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                    <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
+                  </div>
+                  <div class="modal-header second-textsupport-header">
+                    <span class="what-txtsupport">Features of textsupport.co</span>
+                  </div>
+                  <div class="modal-body">
+                    <div class="container">
+                       <p class="description-features">Keyword Analysis</p>
+                      <img src="<?php echo base_url("assets/img/keyword-analysis.jpg")?>" class="features-pic">
+                    </div>     
+                  </div>
+                </div>
+                <div class="mySlides2">
+                  <div class="modal-header first-textsupport-header">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                    <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
+                  </div>
+                  <div class="modal-header second-textsupport-header">
+                    <span class="what-txtsupport">Features of textsupport.co</span>
+                  </div>
+                  <div class="modal-body">
+                    <div class="container">
+                       <p class="description-features">Keyword Configuration</p>
+                      <img src="<?php echo base_url("assets/img/keyword-configuration.jpg")?>" class="features-pic">
+                    </div>     
+                  </div>
+                </div>
+                <div class="mySlides2">
+                  <div class="modal-header first-textsupport-header">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                    <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
+                  </div>
+                  <div class="modal-header second-textsupport-header">
+                    <span class="what-txtsupport">Features of textsupport.co</span>
+                  </div>
+                  <div class="modal-body">
+                    <div class="container">
+                       <p class="description-features">Auto Responder</p>
+                      <img src="<?php echo base_url("assets/img/auto-responder.jpg")?>" class="features-pic">
+                    </div>     
+                  </div>
+                </div>
+                <div class="mySlides2">
+                  <div class="modal-header first-textsupport-header">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                    <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
+                  </div>
+                  <div class="modal-header second-textsupport-header">
+                    <span class="what-txtsupport">Features of textsupport.co</span>
+                  </div>
+                  <div class="modal-body">
+                    <div class="container">
+                       <p class="description-features">E-mail Forwarder</p>
+                      <img src="<?php echo base_url("assets/img/email-forwarder.jpg")?>" class="features-pic">
+                    </div>     
+                  </div>
+                </div>
+                <div class="mySlides2">
+                  <div class="modal-header first-textsupport-header">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                    <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
+                  </div>
+                  <div class="modal-header second-textsupport-header">
+                    <span class="what-txtsupport">Features of textsupport.co</span>
+                  </div>
+                  <div class="modal-body">
+                    <div class="container">
+                       <p class="description-features">Feed</p>
+                      <img src="<?php echo base_url("assets/img/feed.jpg")?>" class="features-pic">
+                    </div>     
+                  </div>
+                </div>
+                <button title="Previous" class="button-prev" onclick="plusDivs(-1, 1)"><span class="pos-prev"><i class="fa-2x icon-circle-arrow-left">
+                </i></span></button>
+                <button title="Next"class="button-next" onclick="plusDivs(1, 1)"><span class="pos-next"><i class="fa-2x icon-circle-arrow-right">
+                </i></span></button> 
               </div>
             </div>
           </div>

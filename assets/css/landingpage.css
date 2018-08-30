@@ -1,7 +1,6 @@
 body{
 	font-family: 'Raleway', sans-serif;
 }
-
 #about{
     margin-top: 150px;
 }
@@ -20,10 +19,10 @@ body{
     margin-left: 29px;
 }
 .logo-1 {
-    height: 62px;
-    width: 64px;
+    height: 110px;
+    width: 116px;
     margin-top: 20px;
-    margin-left: 28px;
+    margin-left: 460px
 }
 .video-overlay {
   position: absolute;
@@ -145,16 +144,18 @@ body{
     text-shadow: 1em 0em 1em #000;
     font-family: Arial;
     margin-top: 0px;
-    margin-left: 215px;
+    margin-left: 259px;
     height: 49px;
+    width: 600px;
 }
 .exp{
-	font-size: 25px;
-	letter-spacing:4.5px;
-    margin-left: 5px;
+    font-size: 25px;
+    letter-spacing: 4.5px;
     height: 31px;
-    margin-top: 18px;
+    margin-top: 14px;
     font-family: Arial;
+    margin-left: 363px;
+    width: 600px
 }
 .arrow-down{
 	margin-bottom: 20px;
@@ -257,6 +258,14 @@ body{
     margin-left: 1022px;
     transform: rotate(90deg);
     cursor: pointer
+}
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 44px;
+    width: 995px;
+    border: 0;
+    border-top: 1px solid #eee;
 }
 
 @media screen and (max-width:375px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */

@@ -7,7 +7,7 @@
 		<nav class ="navbar navbar-default navbar-fixed-top" role= "navigation">
 			<div class="container">
 				<div class ="navbar-header">
-					<a href="#landingpage"><img src="<?php echo base_url("assets/img/logo.png")?>" class="logo"></a>
+					<a href="#about"><img src="<?php echo base_url("assets/img/logo.png")?>" class="logo"></a>
 				</div>
 				<div class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
@@ -21,17 +21,17 @@
 		</nav>
 	</div>
 	<div class="text-copy">
-		<a href="#landingpage"><img src="<?php echo base_url("assets/img/logo.png")?>" class="logo-1"></a>
 		<div class="welcome">
 			<div class="row">
-				<div class="col-lg-8 col-xs-8">
-					<p class = "nmg"> NMG</p>
-					<p class="resources">RESOURCES INC.</p>
+				<div class="col-lg-12 col-xs-12">
+					<a href="#about"><img src="<?php echo base_url("assets/img/logo.png")?>" class="logo-1"></a>
+					<p class="resources">NMG RESOURCES INC.</p>
 				</div>
 			</div>
+			<hr>
 			<div class="row">
-				<div class="col-lg-6 col-xs-6">
-					<p class="exp">Expertise on demand</p>
+				<div class="col-lg-12 col-xs-12">
+					<p class="exp">Expertise on Demand</p>
 				</div>
 				<div class="col-lg-6 col-xs-6">
 					<div id="testimonials">

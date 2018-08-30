@@ -7,10 +7,62 @@
 .modal-header{
   background-color: #fff;
 }
-.w3-black, .w3-hover-black:hover {
-    margin-top: 245px;
-    color: #fff!important;
-    background-color: #000!important;
+.button-prev {
+  height: 50%;
+  width: 40%;
+  background-color: transparent;
+  border-radius: 17px;
+  border-color: transparent;
+  color: white;
+  padding: 5px 12px;
+  text-align: center;
+  font-size: 16px;
+  margin-top: -463px;
+  opacity: 0;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  position: absolute;
+  cursor: pointer;
+}
+
+.button-prev:hover {
+  opacity: 5;
+  outline: transparent;
+  border: transparent;
+}
+.pos-prev{
+  float: left;
+  color: black;
+}
+.button-next {
+  height: 50%;
+  width: 40%;
+  background-color: transparent;
+  border-radius: 17px;
+  border-color: transparent;
+  color: white;
+  padding: 5px 12px;
+  text-align: center;
+  font-size: 16px;
+  opacity: 0;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  float: right;
+  position: absolute;
+  margin-left: 539px;
+  margin-top: -463px
+}
+.button-next:hover {
+  opacity: 5;
+  outline: transparent;
+  border: transparent;
+}
+.pos-next{
+  float: right;
+  color: black;
 }
 .carousel-control.left, .carousel-control.right {
   background-image:none !important;
@@ -412,18 +464,20 @@ span.sevens{
   color: #fff; 
 }
 .description-header{
-  font-size: 20px;
+  font-size: 18px;
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
 }
 .description-body{
-  font-size: 15px;
+  font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   margin-top: 15px;
+  margin-bottom: 17px
 }
 .find-logo{
-  height: 100px;
-  width: 100px;
+  height: 50px;
+  width: 165px;
+  margin-right: 143px;
 }
 .btn-u-lg, a.btn-u-lg {
   font-size: 18px;
@@ -431,7 +485,67 @@ span.sevens{
   color: white;
   font-size: 15px;
   font-family: 'Open Sans', sans-serif;
+  margin-top: 5px;
 }
 .btn-u {
-    background: #009000;
+  background: #009000;
+}
+.fully-responsive{
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 15px;
+  font-weight: bold;
+  margin-left: 2px;;
+}
+.simple-configuration{
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 15px;
+}
+.launch-ready{
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 15px;
+}
+.spacer{
+  width: 290px;
+}
+.description-responsive{
+  width: 242px;
+  height: 99px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.description-configuration{
+  width: 256px;
+  height: 130px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.description-launch{
+  width: 239px;
+  height: 110px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.description-features{
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  margin-bottom: 22px;
+  width: 845px;
+  text-align: center
+}
+.log-in{
+  float: left;
+}
+.features-pic{
+  height: 385px;
+  width: 730px;
+  margin-left: 53px;
 }
