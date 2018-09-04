@@ -137,25 +137,26 @@ body{
 }
 .resources{
     font-weight: bold !important;
-    font-size: 40px;
-    padding-left:23px;
-    color:#ffff;
+    font-size: 45px;
+    padding-left: 7px;
+    color: lavenderblush;
     letter-spacing: 2.5px;
-    text-shadow: 1em 0em 1em #000;
-    font-family: Arial;
+    text-shadow: 0em 0em 1em #00bcd400;
+    font-family: 'EB Garamond', serif;
     margin-top: 0px;
-    margin-left: 259px;
+    margin-left: 253px;
     height: 49px;
-    width: 600px;
+    width: 600px;;
 }
 .exp{
-    font-size: 25px;
+    font-size: 30px;
     letter-spacing: 4.5px;
     height: 31px;
-    margin-top: 14px;
-    font-family: Arial;
-    margin-left: 363px;
-    width: 600px
+    margin-top: 5px;
+    font-family: 'Lobster', cursive;
+    margin-left: 348px;
+    width: 600px;
+    color: dodgerblue;
 }
 .arrow-down{
 	margin-bottom: 20px;

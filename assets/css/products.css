@@ -416,16 +416,16 @@ span.sevens{
  text-align: justify;
 }
 .carousel-indicators {
-    position: absolute;
-    bottom: -35px;
-    left: 55%;
-    z-index: 15;
-    width: 60%;
-    padding-left: 0;
-    margin-left: -32%;
-    text-align: center;
-    list-style: none;
-    margin-bottom: 90px;
+  position: absolute;
+  bottom: -35px;
+  left: 55%;
+  z-index: 15;
+  width: 60%;
+  padding-left: 0;
+  margin-left: -32%;
+  text-align: center;
+  list-style: none;
+  margin-bottom: 90px;
 }
 #products{
   height: 598px;
@@ -549,3 +549,16 @@ span.sevens{
   width: 730px;
   margin-left: 53px;
 }
+.under-construction{
+  height: 365px;
+  width: 600px;
+  margin-top: 68px;
+  margin-left: 136px;
+}
+.under {
+  margin-top: 3px;
+  margin-left: 861px;
+  border-radius: 20px;
+  position: relative;
+}
+

@@ -31,7 +31,7 @@
 			<hr>
 			<div class="row">
 				<div class="col-lg-12 col-xs-12">
-					<p class="exp">Expertise on Demand</p>
+					<p class="exp">“Expertise on Demand”</p>
 				</div>
 				<div class="col-lg-6 col-xs-6">
 					<div id="testimonials">

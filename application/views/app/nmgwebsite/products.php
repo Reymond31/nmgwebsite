@@ -42,8 +42,10 @@
                 <div class="modal-footer">
                 </div>
               </div>
-              <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
-              <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button>
+              <button title="Previous" class="button-prev" onclick="plusDivs(-1, 0)"><span class="pos-prev"><i class="fa-2x icon-circle-arrow-left">
+              </i></span></button>
+              <button title="Next"class="button-next" onclick="plusDivs(1, 0)"><span class="pos-next"><i class="fa-2x icon-circle-arrow-right">
+              </i></span></button>
             </div>
           </div>
         </div>
@@ -260,11 +262,13 @@
             <div class="modal-dialog modal-lg">
               <div class="modal-content">
                 <div class="w3-content w3-display-container">
-                  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-                  <img class="mySlides3" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:70%">
-                  <img class="mySlides3" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:70%">
-                  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
-                  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 2)">&#10095;</button>
+                  <button type="button" class="btn btn-danger under" data-dismiss="modal">X</button>
+                  <img class="mySlides3 under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
+                  <img class="mySlides3 under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
+                  <!--<button title="Previous" class="button-prev" onclick="plusDivs(-1, 1)"><span class="pos-prev"><i class="fa-2x icon-circle-arrow-left">
+                  </i></span></button>
+                  <button title="Next"class="button-next" onclick="plusDivs(1, 2)"><span class="pos-next"><i class="fa-2x icon-circle-arrow-right">
+                  </i></span></button> -->
                 </div>
               </div>
             </div>
@@ -283,38 +287,42 @@
             <div class="modal-dialog modal-lg">
               <div class="modal-content">
                 <div class="w3-content w3-display-container">
-                  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-                  <img class="mySlides4" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:70%">
-                  <img class="mySlides4" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:70%">
-                  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
-                  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 3)">&#10095;</button>
+                  <button type="button" class="btn btn-danger under" data-dismiss="modal">X</button>
+                  <img class="mySlides4 under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
+                  <img class="mySlides4 under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
+                  <!--<button title="Previous" class="button-prev" onclick="plusDivs(-1, 1)"><span class="pos-prev"><i class="fa-2x icon-circle-arrow-left">
+                  </i></span></button>
+                  <button title="Next"class="button-next" onclick="plusDivs(1, 3)"><span class="pos-next"><i class="fa-2x icon-circle-arrow-right">
+                  </i></span></button> -->
                 </div>
               </div>
             </div>
           </div>
       <div class="item">
         <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="pinoypayroll" >
-           <div class="carousels_pinoypayroll"> 
+          <div class="carousels_pinoypayroll"> 
             <span class="fives">PINOY</span><span class="sevens">PAYROLL</span>
           </div>
           <div class="carousels-caption_pinoypayroll">
-           <p>Marketing promotions have grown in the past decade, often exceeding the capabilities of existing point-of-sales devices. POS Partner works with any standard Windows-based POS, and automatically allows marketing solutions without any changes to the existing POS.</p>
-           <a class="tour" href="#" data-toggle="modal" data-target=".bs-example-modal-lg-pinoypayroll">TAKE A TOUR?</a>
+            <p>Marketing promotions have grown in the past decade, often exceeding the capabilities of existing point-of-sales devices. POS Partner works with any standard Windows-based POS, and automatically allows marketing solutions without any changes to the existing POS.</p>
+            <a class="tour" href="#" data-toggle="modal" data-target=".bs-example-modal-lg-pinoypayroll">TAKE A TOUR?</a>
           </div>
       </div>
       <div class="modal fade bs-example-modal-lg-pinoypayroll" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-lg">
-              <div class="modal-content">
-                <div class="w3-content w3-display-container">
-                  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-                  <img class="mySlides5" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:70%">
-                  <img class="mySlides5" src="<?php echo base_url("assets/img/maintenance.png")?>" style="width:70%">
-                  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
-                  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 4)">&#10095;</button>
-                </div>
-              </div>
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            <div class="w3-content w3-display-container">
+              <button type="button" class="btn btn-danger under" data-dismiss="modal">X</button>
+              <img class="mySlides5 under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
+              <img class="mySlides5 under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
+              <!--<button title="Previous" class="button-prev" onclick="plusDivs(-1, 1)"><span class="pos-prev"><i class="fa-2x icon-circle-arrow-left">
+              </i></span></button>
+              <button title="Next"class="button-next" onclick="plusDivs(1, 4)"><span class="pos-next"><i class="fa-2x icon-circle-arrow-right">
+              </i></span></button> -->
             </div>
           </div>
+        </div>
+      </div>
     </div>
     <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
       <span class="icon-angle-left icon-4x" aria-hidden="true"></span>
