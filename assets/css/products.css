@@ -544,6 +544,9 @@ span.sevens{
 .log-in{
   float: left;
 }
+.sign-up{
+  float: right;
+}
 .features-pic{
   height: 385px;
   width: 730px;
@@ -561,4 +564,44 @@ span.sevens{
   border-radius: 20px;
   position: relative;
 }
-
+a:link {
+    text-decoration: none;
+}
+.textify{
+  color: #009000;
+}
+a.textify:hover{
+  color: #009000;
+}
+.mapouter{
+  text-align:right;
+  height: 318px;
+  width: 507px;
+}
+.gmap_canvas {
+  overflow: hidden;
+  background: none!important;
+  height: 289px;
+  width: 507px;
+  border-radius: 20px;
+  margin-left: -286px;
+}
+.fa-map-marker{
+  color: green;
+}
+.fa-globe{
+  color: green;
+}
+.fa-phone{
+  color: green;
+}
+.fa-envelope-o{
+  color: green;
+}
+.description-info{
+  width: 242px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  margin-top: 30px;
+  margin-left: 22px;
+}

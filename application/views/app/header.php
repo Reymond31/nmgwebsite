@@ -15,6 +15,7 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/aos.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/font-awesome.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/font-awesome.min.css")?>">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/font-awesome-animation.min.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/hover.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/hover.min.css")?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/bootstrap.css")?>">

@@ -98,9 +98,9 @@
                     </div>     
                   </div>
                   <div class="modal-footer">
-                    <a href="http://txtsupport.co/login" class="btn-u btn-u-lg white hvr-icon-wobble-horizontal log-in">Already have an account?</a>
+                    <a href="http://txtsupport.co/login" class="btn-u btn-u-lg white log-in faa-parent animated-hover"><i class="fa fa-sign-in faa-horizontal"></i>&nbsp Already have an account?</a>
                     <a href="https://www.facebook.com/txtsupport.co"><img class="find-logo" src="<?php echo base_url("assets/img/find-fb.jpg")?>"></a>
-                    <a href="http://txtsupport.co/register" class="btn-u btn-u-lg white hvr-icon-wobble-horizontal">Sign Up Now for FREE!</a>         
+                    <a href="http://txtsupport.co/register" class="btn-u btn-u-lg white sign-up faa-parent animated-hover"><i class="fa fa-user-plus faa-tada"></i>&nbsp Sign Up Now for FREE!</a>         
                   </div>
                 </div>
                 <div class="mySlides2">
@@ -235,6 +235,42 @@
                     <div class="container">
                        <p class="description-features">Feed</p>
                       <img src="<?php echo base_url("assets/img/feed.jpg")?>" class="features-pic">
+                    </div>     
+                  </div>
+                </div>
+                <div class="mySlides2">
+                  <div class="modal-header first-textsupport-header">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                    <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
+                  </div>
+                  <div class="modal-header second-textsupport-header">
+                    <span class="what-txtsupport">Contact Us</span>
+                  </div>
+                  <div class="modal-body">
+                    <span class="description-header">Contacts</span>
+                    <p class="description-body">TXTSUPPORT.co is a product of NMGResources Inc. and was a winner of<a href="https://www.eventbrite.com/e/textify-the-chikka-api-challenge-tickets-12953681811" class="textify"> TEXTIFY – The Chikka API Challenge.</a></p>
+                    <p class="description-body">TEXT: <b>@txtsupport &ltspace&gt &ltyour message&gt </b> and send to <b>2929 0 292</b> for inquiries. </p>
+                    <div class="container">
+                      <div class="row">
+                        <div class="col-lg-6">
+                          <p class="description-info"><i class="fa fa-map-marker"></i> &nbsp <b>NMGResources Inc.Unit 808 Trade and Financial Tower, BGC, Philippines</b></p>
+                          <p class="description-info"><i class="fa fa-envelope-o"></i> &nbsp <b>info@nmgresources.ph</b></p>
+                          <p class="description-info"><i class="fa fa-phone"></i> &nbsp <b>+6329648911</b></p>
+                          <p class="description-info"><i class="fa fa-globe"></i> &nbsp <b>www.nmgresources.ph</b></p>
+                        </div>
+                        <div class="col-lg-6">
+                          <div class="mapouter">
+                            <div class="gmap_canvas">
+                              <iframe width="507" height="289" id="gmap_canvas" src="https://maps.google.com/maps?q=136%20yakal%20st.%20makati%20city%2C%20philippines&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+                              </iframe>
+                              <a href="https://www.crocothemes.net"></a>
+                            </div>
+                            <small>
+                              <a href="http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=28532&url=42158&tid1=google1" rel="nofollow"></a>
+                            </small>
+                          </div>
+                        </div>
+                      </div>
                     </div>     
                   </div>
                 </div>
