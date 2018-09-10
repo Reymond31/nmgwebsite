@@ -270,13 +270,57 @@ hr {
 }
 
 @media screen and (max-width:375px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
-	#landingpage{
-		background: url('../img/onese.jpg');
-		background-attachment: fixed ;
-    	background-repeat: no-repeat;
-    	height: 680px;
-    	padding: 0px;
-    	min-width: 100%;
-	}
 	
+    #myVideo {
+        background-color:#000;
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        height: 600px; 
+    }
+	.resources {
+        font-weight: bold !important;
+        font-size: 21px;
+        color: lavenderblush;
+        letter-spacing: 2.5px;
+        text-shadow: 0em 0em 1em #00bcd400;
+        font-family: 'EB Garamond', serif;
+        margin-top: 37px;
+        margin-left: 18px;
+        height: 49px;
+        width: 600px;
+    }
+    .welcome {
+        font-weight: 300 !important;
+        font-size: 31px;
+        color: white;
+        letter-spacing: 7.5px;
+        margin-top: 141px;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    .text-copy {
+        width: 1000px;
+        margin-left: 0px;
+        position: relative;
+        top: 5%;
+        z-index: 2;
+        text-shadow: 1px 1px 1px #000;
+    }
+    .logo-1 {
+        height: 110px;
+        width: 116px;
+        margin-top: 45px;
+        margin-left: 95px;
+    }
+    .exp {
+        font-size: 19px;
+        letter-spacing: 4.5px;
+        height: 31px;
+        margin-top: 0px;
+        font-family: 'Lobster', cursive;
+        margin-left: 29px;
+        width: 600px;
+        color: dodgerblue;
+    }
 }

@@ -444,13 +444,14 @@ span.sevens{
   color: white;
 }
 .btn{
-  margin-top: 5px;
-  margin-left: 829px;
+  margin-top: -15px;
+  margin-left: 875px;
   border-radius: 20px;
   position: absolute;
 }
 .first-textsupport-header{
-  border-radius: 20px;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
 }
 .second-textsupport-header{
   background-color: green;
@@ -477,7 +478,7 @@ span.sevens{
 .find-logo{
   height: 50px;
   width: 165px;
-  margin-right: 143px;
+  margin-right: 115px;
 }
 .btn-u-lg, a.btn-u-lg {
   font-size: 18px;

@@ -22,9 +22,9 @@
           <div class="modal-content">
             <div class="w3-content w3-display-container">
               <div class="mySlides1">
+                <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                 <div class="modal-header">
                   <h4 class="modal-title">HEFFY.CO</h4>
-                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                 </div>
                 <div class="modal-body">
                   <p>What is heffy.co?</p>
@@ -65,8 +65,8 @@
             <div class="modal-content">
               <div class="w3-content w3-display-container">
                 <div class="mySlides2">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                   <div class="modal-header first-textsupport-header">
-                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                     <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
                   </div>
                   <div class="modal-header second-textsupport-header">
@@ -104,8 +104,8 @@
                   </div>
                 </div>
                 <div class="mySlides2">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                   <div class="modal-header first-textsupport-header">
-                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                     <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
                   </div>
                   <div class="modal-header second-textsupport-header">
@@ -119,8 +119,8 @@
                   </div>
                 </div>
                 <div class="mySlides2">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                   <div class="modal-header first-textsupport-header">
-                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                     <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
                   </div>
                   <div class="modal-header second-textsupport-header">
@@ -134,8 +134,8 @@
                   </div>
                 </div>
                 <div class="mySlides2">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                   <div class="modal-header first-textsupport-header">
-                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                     <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
                   </div>
                   <div class="modal-header second-textsupport-header">
@@ -149,8 +149,8 @@
                   </div>
                 </div>
                 <div class="mySlides2">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                   <div class="modal-header first-textsupport-header">
-                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                     <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
                   </div>
                   <div class="modal-header second-textsupport-header">
@@ -164,8 +164,8 @@
                   </div>
                 </div>
                 <div class="mySlides2">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                   <div class="modal-header first-textsupport-header">
-                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                     <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
                   </div>
                   <div class="modal-header second-textsupport-header">
@@ -179,8 +179,8 @@
                   </div>
                 </div>
                 <div class="mySlides2">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                   <div class="modal-header first-textsupport-header">
-                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                     <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
                   </div>
                   <div class="modal-header second-textsupport-header">
@@ -194,8 +194,8 @@
                   </div>
                 </div>
                 <div class="mySlides2">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                   <div class="modal-header first-textsupport-header">
-                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                     <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
                   </div>
                   <div class="modal-header second-textsupport-header">
@@ -209,8 +209,8 @@
                   </div>
                 </div>
                 <div class="mySlides2">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                   <div class="modal-header first-textsupport-header">
-                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                     <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
                   </div>
                   <div class="modal-header second-textsupport-header">
@@ -224,8 +224,8 @@
                   </div>
                 </div>
                 <div class="mySlides2">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>                  
                   <div class="modal-header first-textsupport-header">
-                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                     <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
                   </div>
                   <div class="modal-header second-textsupport-header">
@@ -239,8 +239,8 @@
                   </div>
                 </div>
                 <div class="mySlides2">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>                  
                   <div class="modal-header first-textsupport-header">
-                    <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
                     <h4 class="modal-title"><img src="<?php echo base_url("assets/img/txtsupport-logo.jpg")?>"></h4>
                   </div>
                   <div class="modal-header second-textsupport-header">
@@ -282,75 +282,85 @@
             </div>
           </div>
         </div>
-      <div class="item">
-        <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="bes" >
+        <div class="item">
+          <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="bes" >
            <div class="carousels"> 
             <span class="bes">BES </span>
             <span class="bes2"> CHATBOT</span>
             <span class="bes3">BOT ENABLED SERVICES</span>
           </div>
           <div class="carousel-caption_bes">
-          <p class="inside">Customer engagement with brands are ever-increasing with Facebook. Conducting any scale of customer support using Facebook Messenger involves manpower and training. NMG created a powerful and simple solution to use Chatbot which guides customers over chat. The range of functionality extend from quick walk through to complex E-Commerce processes, all managed within an integrated platform.</p>
-           <a class="tour" href="#" data-toggle="modal" data-target=".bs-example-modal-lg-bes">TAKE A TOUR?</a>
+            <p class="inside">Customer engagement with brands are ever-increasing with Facebook. Conducting any scale of customer support using Facebook Messenger involves manpower and training. NMG created a powerful and simple solution to use Chatbot which guides customers over chat. The range of functionality extend from quick walk through to complex E-Commerce processes, all managed within an integrated platform.</p>
+            <a class="tour" href="#" data-toggle="modal" data-target=".bs-example-modal-lg-bes">TAKE A TOUR?</a>
           </div>
-      </div>
+        </div>
         <div class="modal fade bs-example-modal-lg-bes" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-lg">
-              <div class="modal-content">
-                <div class="w3-content w3-display-container">
-                  <button type="button" class="btn btn-danger under" data-dismiss="modal">X</button>
-                  <img class="mySlides3 under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
-                  <img class="mySlides3 under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
-                  <!--<button title="Previous" class="button-prev" onclick="plusDivs(-1, 1)"><span class="pos-prev"><i class="fa-2x icon-circle-arrow-left">
-                  </i></span></button>
-                  <button title="Next"class="button-next" onclick="plusDivs(1, 2)"><span class="pos-next"><i class="fa-2x icon-circle-arrow-right">
-                  </i></span></button> -->
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+              <div class="w3-content w3-display-container">
+                <div class="mySlides3">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                  <div class="modal-body">
+                     <img class="under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
+                  </div>     
                 </div>
               </div>
+              <!--<button title="Previous" class="button-prev" onclick="plusDivs(-1, 1)"><span class="pos-prev"><i class="fa-2x icon-circle-arrow-left">
+              </i></span></button>
+              <button title="Next"class="button-next" onclick="plusDivs(1, 2)"><span class="pos-next"><i class="fa-2x icon-circle-arrow-right">
+              </i></span></button> -->
             </div>
           </div>
-      <div class="item">
-        <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="cress" >
-           <div class="carousels">  <span class="fivesh">CRESS</span> 
-            <span class="cress1"> CIVIL REGISTRY </span><span class="cress2"><br> SYSTEM & SERVICES</span>
-          </div>
-          <div class="carousel-caption_cress">
-            <p>Upon the request of the City of Manila, CReSS was developed to help streamline and automate the document management tasks of the City Hall. With over 30 million digital records and growing, CReSS has transformed the operations of City Hall.</p>
-            <a class="tour" shref="#" data-toggle="modal" data-target=".bs-example-modal-lg-cress">TAKE A TOUR?</a>
-          </div>
-      </div>
-       <div class="modal fade bs-example-modal-lg-cress" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-lg">
-              <div class="modal-content">
-                <div class="w3-content w3-display-container">
-                  <button type="button" class="btn btn-danger under" data-dismiss="modal">X</button>
-                  <img class="mySlides4 under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
-                  <img class="mySlides4 under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
-                  <!--<button title="Previous" class="button-prev" onclick="plusDivs(-1, 1)"><span class="pos-prev"><i class="fa-2x icon-circle-arrow-left">
-                  </i></span></button>
-                  <button title="Next"class="button-next" onclick="plusDivs(1, 3)"><span class="pos-next"><i class="fa-2x icon-circle-arrow-right">
-                  </i></span></button> -->
+        </div>
+        <div class="item">
+          <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="cress" >
+            <div class="carousels">  <span class="fivesh">CRESS</span> 
+              <span class="cress1"> CIVIL REGISTRY </span><span class="cress2"><br> SYSTEM & SERVICES</span>
+            </div>
+            <div class="carousel-caption_cress">
+              <p>Upon the request of the City of Manila, CReSS was developed to help streamline and automate the document management tasks of the City Hall. With over 30 million digital records and growing, CReSS has transformed the operations of City Hall.</p>
+              <a class="tour" shref="#" data-toggle="modal" data-target=".bs-example-modal-lg-cress">TAKE A TOUR?</a>
+            </div>
+        </div>
+        <div class="modal fade bs-example-modal-lg-cress" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+              <div class="w3-content w3-display-container">
+                <div class="mySlides4">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                  <div class="modal-body">
+                     <img class="under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
+                  </div>     
                 </div>
               </div>
+              <!--<button title="Previous" class="button-prev" onclick="plusDivs(-1, 1)"><span class="pos-prev"><i class="fa-2x icon-circle-arrow-left">
+              </i></span></button>
+              <button title="Next"class="button-next" onclick="plusDivs(1, 3)"><span class="pos-next"><i class="fa-2x icon-circle-arrow-right">
+              </i></span></button> -->
             </div>
           </div>
-      <div class="item">
-        <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="pinoypayroll" >
-          <div class="carousels_pinoypayroll"> 
-            <span class="fives">PINOY</span><span class="sevens">PAYROLL</span>
-          </div>
-          <div class="carousels-caption_pinoypayroll">
-            <p>Marketing promotions have grown in the past decade, often exceeding the capabilities of existing point-of-sales devices. POS Partner works with any standard Windows-based POS, and automatically allows marketing solutions without any changes to the existing POS.</p>
-            <a class="tour" href="#" data-toggle="modal" data-target=".bs-example-modal-lg-pinoypayroll">TAKE A TOUR?</a>
-          </div>
-      </div>
-      <div class="modal fade bs-example-modal-lg-pinoypayroll" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-lg">
-          <div class="modal-content">
-            <div class="w3-content w3-display-container">
-              <button type="button" class="btn btn-danger under" data-dismiss="modal">X</button>
-              <img class="mySlides5 under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
-              <img class="mySlides5 under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
+        </div>
+        <div class="item">
+          <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="pinoypayroll" >
+            <div class="carousels_pinoypayroll"> 
+              <span class="fives">PINOY</span><span class="sevens">PAYROLL</span>
+            </div>
+            <div class="carousels-caption_pinoypayroll">
+              <p>Marketing promotions have grown in the past decade, often exceeding the capabilities of existing point-of-sales devices. POS Partner works with any standard Windows-based POS, and automatically allows marketing solutions without any changes to the existing POS.</p>
+              <a class="tour" href="#" data-toggle="modal" data-target=".bs-example-modal-lg-pinoypayroll">TAKE A TOUR?</a>
+            </div>
+        </div>
+        <div class="modal fade bs-example-modal-lg-pinoypayroll" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+              <div class="w3-content w3-display-container">
+                <div class="mySlides5">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                  <div class="modal-body">
+                     <img class="under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
+                  </div>     
+                </div>
+              </div>
               <!--<button title="Previous" class="button-prev" onclick="plusDivs(-1, 1)"><span class="pos-prev"><i class="fa-2x icon-circle-arrow-left">
               </i></span></button>
               <button title="Next"class="button-next" onclick="plusDivs(1, 4)"><span class="pos-next"><i class="fa-2x icon-circle-arrow-right">
@@ -359,17 +369,16 @@
           </div>
         </div>
       </div>
-    </div>
-    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-      <span class="icon-angle-left icon-4x" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-      <span class="icon-angle-right icon-4x" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-    <div id="contact"></div>
-</div> 
+      <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+        <span class="icon-angle-left icon-4x" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+        <span class="icon-angle-right icon-4x" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+      <div id="contact"></div>
+  </div> 
 </div>
 
 
