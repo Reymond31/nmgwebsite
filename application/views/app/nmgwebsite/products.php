@@ -283,7 +283,7 @@
           </div>
         </div>
         <div class="item">
-          <img class="slides" src="<?php echo base_url("assets/img/maintenance.png")?>" alt="bes" >
+          <img class="slides" src="<?php echo base_url("assets/img/bes.jpg")?>" alt="bes" >
            <div class="carousels"> 
             <span class="bes">BES </span>
             <span class="bes2"> CHATBOT</span>
@@ -300,15 +300,109 @@
               <div class="w3-content w3-display-container">
                 <div class="mySlides3">
                   <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                  <div class="modal-header first-bes-header">
+                    <h4 class="modal-title"><img src="<?php echo base_url("assets/img/bes-logo.jpg")?>"></h4>
+                  </div>
+                  <div class="modal-header second-bes-header">
+                    <span class="what-txtsupport">What we do?</span>
+                  </div>
                   <div class="modal-body">
-                     <img class="under-construction" src="<?php echo base_url("assets/img/maintenance.png")?>">
-                  </div>     
+                    <span class="description-header-bes">We automate business processes and strengthen your customer connection by building and deploying <b> highly engaging chatbots </b> for your organization.</span>
+                    <div class="container-fluid">
+                      <div class="row">
+                        <div class="col-lg-5">
+                          <div class="box">
+                            <p class="bes-use">Interested? Request for a demo or contact us</p>
+                          </div>
+                            <div class="triangle"></div>
+                              <div class="container">
+                                <img src="<?php echo base_url("assets/img/bes-face.jpg")?>" class="bes-face">
+                              </div>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqGlIAVlZJ5FAN-jRu-uWDaEugJGbcOWraaUbuGlRgG6V5CQ/viewform" class="btn-r btn-r-lg white log-in faa-parent animated-hover"><i class="fa fa-sign-in faa-horizontal"></i>&nbsp REQUEST DEMO?</a>
+                        </div>
+                        <div class="col-lg-7">
+                          <div class="row">
+                            <div class="col-lg-12 margins">
+                              <p class="title-chatbot">USE <span class="bes-blue">BES</span> CHATBOTS TO:</p>
+                              <img src="<?php echo base_url("assets/img/rockets.png")?>">
+                              <span class="bes-use">Launch customized and goal-oriented chatbots.</span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-lg-12 margins">
+                              <img src="<?php echo base_url("assets/img/chat-room.png")?>"> 
+                              <span class="bes-use">Resolve up to 80% of your chat sessions automatically.</span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-lg-12 margins">
+                              <img src="<?php echo base_url("assets/img/time-span.png")?>">
+                              <span class="bes-use">Engage your opt-in customers in one blast.</span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-lg-12 margins">
+                              <img src="<?php echo base_url("assets/img/increase.png")?>"> 
+                              <span class="bes-use">Scale efficiently without ramping up staff and costs.</span>
+                            </div>
+                          </div> 
+                        </div>    
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="mySlides3">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+                  <div class="modal-header first-bes-header">
+                    <h4 class="modal-title"><img src="<?php echo base_url("assets/img/bes-logo.jpg")?>"></h4>
+                  </div>
+                  <div class="modal-header second-bes-header">
+                    <span class="what-txtsupport">Features</span>
+                  </div>
+                  <div class="modal-body">
+                    <div class="container-fluid">
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <span class="feature-title">Deploy to multiple channels</span>
+                          <div class="feature-hr"></div>
+                          <span class="feature-description">BES immediately deploys your chatbot to <b>Facebook Messenger</b> or <b>any web-based portal</b> for that consistent delivery of your brand's voice and promise</span>
+                        </div>
+                        <div class="col-lg-4">
+                          <span class="feature-title">Always-on-Service</span>
+                          <div class="feature-hr"></div>
+                          <span class="feature-description">BES provides immediate and <b>always-on service to your customers.</b> Never be unavailable to offer your services or products again.</span>
+                        </div>
+                        <div class="col-lg-4">
+                          <span class="feature-title">Seamless Human Hand-off</span>
+                          <div class="feature-hr"></div>
+                          <span class="feature-description">BES lets your chatbots <b>collaborate effectively</b> with their human counterparts. Route conversations between chatbot and human (and vice-versa) effortlessly.</span>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <span class="feature-title">Broadcast to your Opt-in Customers Contextually</span>
+                          <div class="feature-hr"></div>
+                          <span class="feature-description">Every time a customer starts chating with your chatbot, they become opt-in customers. BES lets you send contextual messages to your opt-in customers with just <b>one-click of a button.</b></span>
+                        </div>
+                        <div class="col-lg-4">
+                          <span class="feature-title">Realtime Analytics</span>
+                          <div class="feature-hr"></div>
+                          <span class="feature-description">BES <b>creates reports and segmentations</b> based on opt-in customer attributes and conversations providing you inputs for your 360-degree customer view.</span>
+                        </div>
+                        <div class="col-lg-4">
+                          <span class="feature-title">Local & Reliable Support</span>
+                          <div class="feature-hr"></div>
+                          <span class="feature-description">We are a 100% Filipino start-up at your service! We understand customer service in the Philippines like no one else!</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
-              <!--<button title="Previous" class="button-prev" onclick="plusDivs(-1, 1)"><span class="pos-prev"><i class="fa-2x icon-circle-arrow-left">
+              <button title="Previous" class="button-prev" onclick="plusDivs(-1, 2)"><span class="pos-prev"><i class="fa-2x icon-circle-arrow-left">
               </i></span></button>
               <button title="Next"class="button-next" onclick="plusDivs(1, 2)"><span class="pos-next"><i class="fa-2x icon-circle-arrow-right">
-              </i></span></button> -->
+              </i></span></button> 
             </div>
           </div>
         </div>
