@@ -687,7 +687,7 @@ a.textify:hover{
   text-align: center;
 }
 .feature-hr {
-  width: 280px;
+  width: 250px;
   height: 2px;
   background-color: #0071BC;
   margin: 10px 0;
@@ -701,4 +701,7 @@ a.textify:hover{
 .feature-description{
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
+}
+.marg{
+  margin: 20px 10px;
 }

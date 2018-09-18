@@ -361,7 +361,7 @@
                   </div>
                   <div class="modal-body">
                     <div class="container-fluid">
-                      <div class="row">
+                      <div class="row marg"> 
                         <div class="col-lg-4">
                           <span class="feature-title">Deploy to multiple channels</span>
                           <div class="feature-hr"></div>
@@ -378,7 +378,7 @@
                           <span class="feature-description">BES lets your chatbots <b>collaborate effectively</b> with their human counterparts. Route conversations between chatbot and human (and vice-versa) effortlessly.</span>
                         </div>
                       </div>
-                      <div class="row">
+                      <div class="row marg">
                         <div class="col-lg-4">
                           <span class="feature-title">Broadcast to your Opt-in Customers Contextually</span>
                           <div class="feature-hr"></div>
@@ -392,7 +392,7 @@
                         <div class="col-lg-4">
                           <span class="feature-title">Local & Reliable Support</span>
                           <div class="feature-hr"></div>
-                          <span class="feature-description">We are a 100% Filipino start-up at your service! We understand customer service in the Philippines like no one else!</span>
+                          <span class="feature-description">We are a <b>100% Filipino start-up</b> at your service! We understand customer service in the Philippines like no one else!</span>
                         </div>
                       </div>
                     </div>
