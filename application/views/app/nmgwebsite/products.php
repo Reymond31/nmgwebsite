@@ -304,7 +304,7 @@
                     <h4 class="modal-title"><img src="<?php echo base_url("assets/img/bes-logo.jpg")?>"></h4>
                   </div>
                   <div class="modal-header second-bes-header">
-                    <span class="what-txtsupport">What we do?</span>
+                    <span class="what-bes">What we do?</span>
                   </div>
                   <div class="modal-body">
                     <span class="description-header-bes">We automate business processes and strengthen your customer connection by building and deploying <b> highly engaging chatbots </b> for your organization.</span>
